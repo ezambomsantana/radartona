@@ -15,7 +15,9 @@ def index():
  
 class Acidentes(Resource):
     def get(self):
-        return load_acidentes().to_json(orient='records')
+        args = request.args
+        tipo = args['tipo']
+        return load_acidentes(tipo).to_json(orient='records')
 
 api.add_resource(Acidentes, '/acidentes')
 
