@@ -49,6 +49,15 @@
           <div id='map' style="float:left"></div>
 
           <div id='filters' style="float:left">
+
+            Camadas:
+
+
+            <div class="form-group">
+              <label for="exampleFormControlSelect2">Viagens:</label>
+              <input type="checkbox" value="metro" onclick="show_corredores()">Corredores</input>
+              <input type="checkbox" value="metro" onclick="show_faixas()">Faixas</input>
+            </div>
           
             Filtros:
 
@@ -99,10 +108,12 @@
 
   <script type="text/javascript">
 
-    var server = 'localhost:5002'
+    var server = 'localhost:5005'
 
     var pontos = false;
     var pontosLayer;
+    var corredoresLayer = null;
+    var faixasLayer = null;
 
     var map = L.map('map').setView([-23.5, -46.5], 8);
 
@@ -326,12 +337,10 @@
 
     function show_pontos() {
       var markerArray = [];
-      console.log(pontos_data)
       for (var prop in pontos_data) {
       }
       for (var i in pontos_data) {
         position = pontos_data[i];
-        console.log(position)
         markerArray.push(L.marker([position['lat'], position['lon']]));
       }
 
@@ -339,6 +348,61 @@
     }
     initiate_pontos(true);
 
+
+    function show_corredores() {
+      if (corredoresLayer != null) {
+        map.removeLayer(corredoresLayer);
+        corredoresLayer = null;
+        return;
+      }
+      var url = 'http://' + server + '/corredores'
+      fetch(url, {
+        method: 'get',
+        headers: {
+          'Accept': 'application/json',
+          'Content-Type': 'application/json'
+        },
+      }).then(function (response) {
+        response.json()
+          .then(function (result) {
+            cooredores = JSON.parse(result)
+            console.log(cooredores)
+            corredoresLayer = L.geoJson(cooredores, {
+              style: style_cptm
+            }).addTo(map);
+          })
+      }).catch(function (err) {
+        // Error
+      });
+    }
+
+
+    function show_faixas() {
+      if (faixasLayer != null) {
+        map.removeLayer(faixasLayer);
+        faixasLayer = null;
+        return;
+      }
+      var url = 'http://' + server + '/faixas'
+      fetch(url, {
+        method: 'get',
+        headers: {
+          'Accept': 'application/json',
+          'Content-Type': 'application/json'
+        },
+      }).then(function (response) {
+        response.json()
+          .then(function (result) {
+            faixas = JSON.parse(result)
+            console.log(faixas)
+            faixasLayer = L.geoJson(faixas, {
+              style: style_subway
+            }).addTo(map);
+          })
+      }).catch(function (err) {
+        // Error
+      });
+    }
   </script>
 
 
