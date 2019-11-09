@@ -16,9 +16,9 @@ def connect_table():
     print(df)
     for index, row in df.iterrows():
 
-        6742 - 6743 - 6796 - 6797
+       # 6742 - 6743 - 6796 - 6797
         codigo = row['codigo']
-        codigos = coords.replace(" ","").split("-")
+      #  codigos = coords.replace(" ","").split("-")
 
 
 
@@ -30,4 +30,8 @@ def connect_table():
 if __name__ == '__main__':
     connect_table()
 
-
+def get_radares():
+    connection = db.connect(user=db_user,password=db_passwd,host=db_host,port=db_port,database=db_name)
+    df = pd.read_sql_query("SELECT * FROM base_radares where latitude_l is not null and ligado = 1", con=connection)
+    df.to_csv('radares.csv')
+    return df

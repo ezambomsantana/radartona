@@ -1,12 +1,14 @@
 # -*- coding: utf-8 -*-
 from flask import Flask, request
 from flask_restful import Resource, Api
+from flask_cors import CORS
 from flask import render_template
 import json
 from server_functions import load_acidentes, load_faixas, load_corredores, load_radares, load_ciclovias
 
 app = Flask(__name__, static_url_path='', 
             static_folder='static')
+CORS(app, resources={r"/*": {"origins": "*"}})
 api = Api(app)
 
 @app.route("/")
@@ -35,7 +37,7 @@ class Ciclovias(Resource):
     def get(self):
         return load_ciclovias().to_json()
 
-api.add_resource(Acidentes, '/acidentes')
+api.add_resource(Acidentes, '/acidentes', )
 api.add_resource(Faixas, '/faixas')
 api.add_resource(Corredores, '/corredores')
 api.add_resource(Radares, '/radares')
