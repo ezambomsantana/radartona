@@ -57,6 +57,7 @@
               <label for="exampleFormControlSelect2">Viagens:</label>
               <input type="checkbox" value="metro" onclick="show_corredores()">Corredores</input>
               <input type="checkbox" value="metro" onclick="show_faixas()">Faixas</input>
+              <input type="checkbox" value="metro" onclick="show_ciclovias()">Ciclovias</input>
             </div>
           
             Filtros:
@@ -114,6 +115,8 @@
     var pontosLayer;
     var corredoresLayer = null;
     var faixasLayer = null;
+    var radaresLayer = null;
+    var cicloviasLayer = null;
 
     var map = L.map('map').setView([-23.5, -46.5], 8);
 
@@ -287,6 +290,14 @@
       };
     }
 
+    function style_ciclovias(feature) {
+      return {
+        opacity: 1,
+        color: 'green',
+        fillOpacity: 1
+      };
+    }
+
     function highlightFeature(e) {
       var layer = e.target;
 
@@ -312,10 +323,11 @@
     }
 
 
-    function initiate_pontos(first) {
+    function initiate_pontos() {
       var tipos = Array.from(document.getElementById('tipo').selectedOptions).map(v => v.value);
-      if (!first) {
+      if (pontosLayer != null) {
         map.removeLayer(pontosLayer);
+        pontosLayer = null;
       }
       var url = 'http://' + server + '/acidentes?tipo=' + tipos
       fetch(url, {
@@ -328,24 +340,19 @@
         response.json()
           .then(function (result) {
             pontos_data = JSON.parse(result)
-            show_pontos()
+
+            var markerArray = [];
+            for (var i in pontos_data) {
+              position = pontos_data[i];
+              markerArray.push(L.marker([position['latitude'], position['longitude']]).bindTooltip('Dados: ' + position['nomeA'] + " ; " + position['hora'] + ' ; ' + position['CodigoAcidente'] + ' ; ' + position['obito'], {permanent: false, direction: 'top'}));
+            }
+
+            pontosLayer = L.featureGroup(markerArray).addTo(map);
           })
       }).catch(function (err) {
         // Error
       });
     }
-
-    function show_pontos() {
-      var markerArray = [];
-      for (var i in pontos_data) {
-        position = pontos_data[i];
-        markerArray.push(L.marker([position['lat'], position['lon']]));
-      }
-
-      pontosLayer = L.featureGroup(markerArray).addTo(map);
-    }
-   // initiate_pontos(true);
-
 
     function show_corredores() {
       if (corredoresLayer != null) {
@@ -412,7 +419,7 @@
     });
 
     function show_radares() {
-      if (faixasLayer != null) {
+      if (radaresLayer != null) {
         map.removeLayer(radares_layer);
         radares_layer = null;
         return;
@@ -431,22 +438,50 @@
             var markerArray = [];
             for (var i in pontos_data) {
               position = pontos_data[i];
-              markerArray.push(L.marker([position['lon'], position['lat']], {icon: greenIcon}));
+              markerArray.push(L.marker([position['lon'], position['lat']], {icon: greenIcon}).bindTooltip('Dados: ' + position['desc'] + ' ; ' + position['TipoAcidente'], {permanent: false, direction: 'top'}));
             }
-            pontosLayer = L.featureGroup(markerArray).addTo(map);
+            radaresLayer = L.featureGroup(markerArray).addTo(map);
           })
       }).catch(function (err) {
         // Error
       });
     }
     var greenIcon = new L.Icon({
-  iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
-  shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
-  iconSize: [15, 35],
-  iconAnchor: [12, 41],
-  popupAnchor: [1, -34],
-  shadowSize: [41, 41]
-});
+      iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png',
+      shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+      iconSize: [25, 41],
+      iconAnchor: [12, 41],
+      popupAnchor: [1, -34],
+      shadowSize: [41, 41]
+    });
+
+
+    function show_ciclovias() {
+      if (cicloviasLayer != null) {
+        map.removeLayer(cicloviasLayer);
+        cicloviasLayer = null;
+        return;
+      }
+      var url = 'http://' + server + '/ciclovias'
+      fetch(url, {
+        method: 'get',
+        headers: {
+          'Accept': 'application/json',
+          'Content-Type': 'application/json'
+        },
+      }).then(function (response) {
+        response.json()
+          .then(function (result) {
+            ciclovias = JSON.parse(result)
+            console.log(faixas)
+            cicloviasLayer = L.geoJson(ciclovias, {
+              style: style_ciclovias
+            }).addTo(map);
+          })
+      }).catch(function (err) {
+        // Error
+      });
+    }
 
     show_radares()
   </script>

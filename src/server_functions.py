@@ -12,9 +12,9 @@ from shapely.geometry import shape, LineString, Polygon
 import math
 
 
-csv_incidentes = "../incidentes/records.csv"
+csv_incidentes = "../incidentes/acidentes-fev-2018.csv"
 
-acidentes = pd.read_csv(csv_incidentes, header=0,delimiter=",", low_memory=False) 
+acidentes = pd.read_csv(csv_incidentes, header=0,delimiter=";", low_memory=False) 
 
 
 def load_radares():
@@ -24,23 +24,36 @@ def load_radares():
 
     lats = []
     longs = []
+    descs = []
     for index, row in df.iterrows():
         coords = row['latitude_l']
+
+        codigo = row['codigo']
+        velocidade = row['velocidade']
+        endereco = row['endereco']
+        sentido = row['sentido']
+
+        desc =  str(codigo) + ';' + str(velocidade) + ';' +  str(endereco) + ';' +  str(sentido)
+
         if coords != 'None':
             print(coords)
             coords = coords.replace("(","").replace(")","").split(" ")
             if len(coords) > 1:
                 lats.append(coords[0])
                 longs.append(coords[1])
+                descs.append(desc)
 
-    df = pd.DataFrame(list(zip(lats, longs)), columns =['lat', 'lon'])
+    df = pd.DataFrame(list(zip(lats, longs, descs)), columns =['lat', 'lon','desc'])
     return df
 
 print(load_radares())
 
 def load_acidentes(tipos):
 
-    acidentes_copy = acidentes
+    acidentes_bike = acidentes[acidentes['bicicleta'] != 0]
+    acidentes_pedestre = acidentes[acidentes['TipoAcidente'] != 'Atropelamento']
+
+    acidentes_copy = acidentes_bike.append(acidentes_pedestre)
 
     tipos_filtros = []
     if tipos != "0":
@@ -51,6 +64,12 @@ def load_acidentes(tipos):
 
 def load_corredores():
     corredores = gpd.GeoDataFrame.from_file("../corredores/corredores/SIRGAS_SHP_corredoronibus.shp", encoding='latin-1')
+    corredores.crs = {'init' :'epsg:22523'}
+    corredores = corredores.to_crs({"init": "epsg:4326"})
+    return corredores
+
+def load_ciclovias():
+    corredores = gpd.GeoDataFrame.from_file("../corredores/bicicletas/SIRGAS_SHP_redecicloviaria.shp", encoding='latin-1')
     corredores.crs = {'init' :'epsg:22523'}
     corredores = corredores.to_crs({"init": "epsg:4326"})
     return corredores
@@ -70,6 +89,7 @@ def load_faixas():
     nomes = []
     for index, row in df.iterrows():
         list_coords = row['coords']
+
         if len(list_coords) > 1:
             line = LineString(list_coords)
             lines.append(line)
