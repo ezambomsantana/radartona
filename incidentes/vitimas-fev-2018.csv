@@ -1,0 +1,1206 @@
+id_acidente,id_vitima,id_veiculo,sexo,idade,TipoVitima,classificacao,TipoVeiculo,EstadoAlcoolizacao,escolaridade,DataObito,profissaoVitima
+D021800002,001,01,Masculino,37,Condutor,Ferida,moto,Branco,Sem Informação,,AJUDANTE DE PADEIRO
+D021800003,001,02,Masculino,44,Condutor,Ferida,moto,Branco,Ensino Fundamental I,,AUTONOMO(A)
+D021800003,002,02,Feminino,29,Passageiro,Ferida,moto,Branco,Ensino Fundamental II,,AJUDANTE GERAL
+D021800007,001,01,Masculino,57,Pedestre,Ferida,sem informação,Branco,Sem Informação,,NAO INFORMADA
+D021800010,001,01,Masculino,34,Condutor,Ferida,moto,Branco,Superior,,SI
+D021800011,001,01,Masculino,42,Condutor,Ferida,caminhão,Branco,Ensino Fundamental II,,SI
+D021800012,001,01,Masculino,42,Condutor,Ferida,moto,Branco,Sem Informação,,VENDEDOR(A)
+D021800014,001,01,Feminino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,AUTONOMO(A)
+D021800015,001,01,Masculino,28,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800017,001,01,Masculino,65,Condutor,Ferida,moto,Branco,Sem Informação,,APOSENTADO(A)
+D021800019,001,02,Masculino,38,Condutor,Ferida,moto,Branco,Sem Informação,,NAO INFORMADA
+D021800021,001,01,Masculino,57,Pedestre,Ferida,automóvel,Branco,Ensino Médio,,TECNICO(A) EM INFORMATICA
+D021800022,001,02,Masculino,74,Condutor,Ferida,bicicleta,Branco,Sem Informação,,SI
+D021800026,001,01,Masculino,23,Condutor,Ferida,caminhonete,Branco,Ensino Médio,,SI
+D021800026,002,01,Sem Informação,SI,Passageiro,Ferida,caminhonete,Branco,Sem Informação,,SI
+D021800026,003,01,Sem Informação,SI,Passageiro,Ferida,caminhonete,Branco,Sem Informação,,SI
+D021800028,001,01,Masculino,17,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800029,001,02,Masculino,35,Condutor,Ferida,moto,Branco,Superior,,PROGRAMADOR(A)
+D021800030,001,02,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800038,001,01,Feminino,63,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800039,001,01,Masculino,39,Pedestre,Ferida,caminhonete,Branco,Sem Informação,,ENTREGADOR DE GAS
+D021800040,001,01,Feminino,55,Passageiro,Ferida,ônibus,Branco,Ensino Fundamental II,,PRENDAS DOMESTICAS
+D021800044,001,01,Feminino,65,Passageiro,Ferida,ônibus,Branco,Analfabeto,,AUXILIAR DE LIMPEZA
+D021800052,001,01,Masculino,34,Condutor,Ferida,moto,Branco,Superior,,ANALISTA DE SISTEMAS
+D021800060,001,01,Masculino,40,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTORISTA
+D021800061,001,01,Feminino,18,Pedestre,Ferida,automóvel,Branco,Ensino Médio,,ESTUDANTE
+D021800062,001,02,Masculino,57,Condutor,Ferida,moto,Branco,Sem Informação,,SEGURANA
+D021800063,001,01,Masculino,17,Condutor,Ferida,moto,Branco,Ensino Médio,,AJUDANTE
+D021800067,001,01,Masculino,30,Condutor,Ferida,moto,Branco,Sem Informação,,POLICIAL MILITAR
+D021800070,001,01,Masculino,45,Condutor,Ferida,moto,Branco,Sem Informação,,FRENTISTA
+D021800071,001,02,Masculino,55,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800074,001,01,Masculino,28,Pedestre,Ferida,moto,Branco,Sem Informação,,CARPINTEIRO(A)
+D021800074,002,01,Feminino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,METALURGICO(A
+D021800080,001,02,Masculino,20,Passageiro,Ferida,moto,Branco,Sem Informação,,NAO INFORMADA
+D021800081,001,01,Feminino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,FUNILEIRO(A)
+D021800081,002,01,Masculino,08,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021800084,001,01,Feminino,52,Condutor,Ferida,moto,Branco,Superior,,PROFESSOR(A)
+D021800093,001,01,Masculino,16,Pedestre,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021800097,001,01,Masculino,32,Condutor,Ferida,moto,Branco,Superior,,WEB DESIGNER
+D021800098,001,01,Masculino,27,Condutor,Ferida,caminhonete,Branco,Sem Informação,,AUTONOMO(A)
+D021800099,001,01,Feminino,58,Pedestre,Ferida,moto,Branco,Sem Informação,,SI
+D021800101,001,01,Masculino,38,Pedestre,Ferida,moto,Branco,Sem Informação,,SI
+D021800103,001,01,Masculino,28,Condutor,Ferida,moto,Branco,Ensino Médio,,GUARDA MUNICIPAL
+D021800106,001,01,Masculino,26,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800108,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800108,002,01,Masculino,17,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021800110,001,01,Masculino,13,Pedestre,Ferida,sem informação,Branco,Sem Informação,,SI
+D021800111,001,01,Feminino,14,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021800111,002,01,Masculino,34,Pedestre,Ferida,moto,Branco,Sem Informação,,SI
+D021800111,003,01,Masculino,28,Pedestre,Ferida,moto,Branco,Sem Informação,,SI
+D021800111,004,01,Masculino,25,Condutor,Ferida,moto,Branco,Sem Informação,,VIDRACEIRO(A)
+D021800112,001,01,Masculino,23,Condutor,Ferida,moto,Branco,Ensino Médio,,AGENTE DE SEGURANCA
+D021800113,001,01,Masculino,35,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800114,001,01,Masculino,47,Pedestre,Ferida,moto,Branco,Sem Informação,,SI
+D021800117,001,02,Masculino,25,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,MECANICO(A) DE MANUTENCAO
+D021800118,001,02,Feminino,37,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800119,001,01,Masculino,30,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800120,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Sem Informação,,ANESTESISTA
+D021800121,001,01,Masculino,76,Condutor,Ferida,moto,Branco,Superior,,APOSENTADO(A)
+D021800121,002,02,Masculino,21,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800125,001,01,Feminino,33,Condutor,Ferida,moto,Branco,Ensino Médio,,AUXILIAR DE ENFERMAGEN
+D021800125,002,01,Feminino,25,Passageiro,Ferida,moto,Branco,Ensino Médio,,BALCONISTA
+D021800126,001,01,Feminino,50,Pedestre,Morta,automóvel,Branco,Sem Informação,24/02/2018,SI
+D021800130,001,01,Masculino,42,Pedestre,Morta,automóvel,Branco,Ensino Fundamental I,25/02/2018,AMBULANTE
+D021800132,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Sem Informação,,VIGILANTE
+D021800135,001,01,Masculino,22,Condutor,Ferida,moto,Branco,Sem Informação,,AUTONOMO(A)
+D021800140,001,01,Masculino,57,Condutor,Ferida,moto,Branco,Ensino Fundamental I,,PEDREIRO
+D021800140,002,01,Masculino,34,Passageiro,Ferida,moto,Branco,Ensino Fundamental II,,MANOBRISTA
+D021800143,001,02,Masculino,39,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800146,001,02,Masculino,13,Condutor,Ferida,bicicleta,Branco,Sem Informação,,ESTUDANTE
+D021800148,001,01,Masculino,35,Condutor,Morta,moto,Branco,Superior,13/02/2018,TECNICO DE INFORMATICA
+D021800148,002,01,Feminino,26,Passageiro,Ferida,moto,Branco,Superior,,SI
+D021800154,001,01,Masculino,43,Condutor,Ferida,moto,Branco,Ensino Médio,,VIGILANTE
+D021800157,001,02,Masculino,41,Condutor,Ferida,bicicleta,Branco,Sem Informação,,SI
+D021800159,001,01,Masculino,53,Pedestre,Ferida,automóvel,Branco,Ensino Fundamental I,,PEDREIRO
+D021800160,001,01,Masculino,21,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800162,001,01,Feminino,20,Pedestre,Ferida,automóvel,Branco,Sem Informação,,DESEMPREGADO(A)
+D021800165,001,01,Feminino,41,Pedestre,Ferida,automóvel,Branco,Superior,,VETERINARIO(A)
+D021800168,001,01,Masculino,22,Condutor,Ferida,moto,Branco,Ensino Médio,,AUXILIAR DE EXPEDICAO
+D021800170,001,02,Masculino,SI,Condutor,Ferida,bicicleta,Branco,Sem Informação,,SI
+D021800171,001,01,Masculino,27,Sem Informação,Ferida,moto,Branco,Ensino Fundamental II,,AUTONOMO(A)
+D021800171,002,01,Masculino,42,Sem Informação,Ferida,moto,Branco,Ensino Fundamental I,,MOTORISTA
+D021800174,001,01,Masculino,54,Condutor,Ferida,automóvel,Branco,Sem Informação,,MOTORISTA
+D021800177,001,01,Masculino,40,Condutor,Ferida,moto,Branco,Superior,,POLICIAL MILITAR
+D021800178,001,01,Masculino,31,Condutor,Ferida,moto,Branco,Ensino Médio,,TECNICO(A)
+D021800179,001,01,Masculino,32,Pedestre,Ferida,automóvel,Branco,Sem Informação,,ATENDENTE
+D021800181,001,01,Masculino,27,Condutor,Ferida,moto,Branco,Superior,,POLICIAL MILITAR
+D021800182,001,02,Masculino,SI,Condutor,Ferida,bicicleta,Branco,Sem Informação,,SI
+D021800183,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Sem Informação,,AJUDANTE DE COZINHA
+D021800185,001,01,Feminino,23,Passageiro,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800188,001,01,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800188,002,01,Feminino,SI,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021800191,001,01,Masculino,40,Condutor,Ferida,automóvel,Suspeita de Álcool,Sem Informação,,VENDEDOR(A)
+D021800192,001,02,Masculino,26,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021800192,002,02,Masculino,26,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800193,001,01,Masculino,20,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,ESTUDANTE
+D021800195,001,01,Masculino,30,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,AJUDANTE DE ELETRICISTA
+D021800197,001,02,Masculino,35,Condutor,Ferida,automóvel,Branco,Ensino Médio,,CABELEIREIRO(A)
+D021800200,001,01,Masculino,43,Pedestre,Ferida,moto,Branco,Ensino Fundamental II,,AUXILIAR DE LIMPEZA
+D021800204,001,01,Masculino,51,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,COBRADOR(A)
+D021800207,001,02,Masculino,49,Condutor,Ferida,bicicleta,Branco,Sem Informação,,TECNICO(A)
+D021800208,001,01,Masculino,20,Condutor,Ferida,moto,Branco,Sem Informação,,MECANICO DE AUTOMOVEL
+D021800209,001,01,Feminino,33,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800211,001,01,Masculino,33,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,MOTOBOY
+D021800213,001,01,Feminino,18,Pedestre,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800217,001,02,Masculino,SI,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800220,001,01,Feminino,62,Passageiro,Ferida,ônibus,Branco,Sem Informação,,SI
+D021800224,001,01,Feminino,69,Passageiro,Ferida,ônibus,Branco,Ensino Médio,,APOSENTADO(A)
+D021800229,001,02,Masculino,37,Condutor,Ferida,moto,Branco,Superior,,SI
+D021800232,001,02,Masculino,41,Condutor,Ferida,bicicleta,Branco,Superior,,DESIGNER
+D021800235,001,01,Feminino,40,Passageiro,Ferida,automóvel,Branco,Sem Informação,,MANICURE
+D021800235,002,02,Masculino,50,Condutor,Ferida,caminhonete,Suspeita de Álcool,Sem Informação,,SI
+D021800238,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Ensino Médio,,MECANICO(A)
+D021800241,001,02,Masculino,53,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800241,002,03,Feminino,30,Condutor,Ferida,automóvel,Branco,Superior,,REPRESENTANTE COMERCIAL
+D021800242,001,01,Masculino,22,Condutor,Morta,moto,Branco,Sem Informação,24/02/2018,ESTUDANTE
+D021800243,001,02,Masculino,SI,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021800243,002,02,Masculino,19,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800244,001,01,Feminino,26,Pedestre,Ferida,moto,Branco,Sem Informação,,NAO INFORMADA
+D021800248,001,01,Masculino,31,Pedestre,Ferida,ônibus,Branco,Ensino Médio,,GARON(ETE)
+D021800251,001,01,Masculino,22,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800253,001,01,Masculino,36,Passageiro,Ferida,automóvel,Branco,Ensino Fundamental II,,AJUDANTE DE MOTORISTA
+D021800254,001,01,Feminino,02,Passageiro,Ferida,automóvel,Branco,Analfabeto,,CRIANCA
+D021800255,001,01,Masculino,28,Passageiro,Ferida,moto,Branco,Sem Informação,,TECNICO(A) DE ELETRONICA
+D021800255,002,01,Masculino,28,Condutor,Ferida,moto,Branco,Sem Informação,,TECNICO(A) DE ELETRONICA
+D021800256,001,01,Feminino,SI,Condutor,Ferida,caminhonete,Branco,Sem Informação,,PEDREIRO
+D021800258,001,01,Masculino,25,Passageiro,Ferida,automóvel,Branco,Ensino Fundamental II,,SI
+D021800258,002,01,Feminino,SI,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800261,001,01,Masculino,65,Pedestre,Morta,ônibus,Branco,Sem Informação,28/02/2018,SI
+D021800269,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Sem Informação,,AUXILIAR DE COZINHA
+D021800271,001,01,Feminino,17,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021800274,001,01,Masculino,50,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTOBOY
+D021800275,001,01,Feminino,22,Pedestre,Ferida,automóvel,Branco,Ensino Médio,,ESTUDANTE
+D021800277,001,01,Feminino,43,Passageiro,Ferida,automóvel,Branco,Ensino Médio,,CABELEIREIRO(A)
+D021800278,001,01,Masculino,25,Condutor,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021800278,002,01,Feminino,24,Passageiro,Ferida,automóvel,Branco,Superior,,ESTUDANTE
+D021800279,001,01,Masculino,19,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800280,001,02,Masculino,21,Condutor,Ferida,bicicleta,Branco,Sem Informação,,SI
+D021800281,001,02,Masculino,50,Condutor,Ferida,caminhonete,Branco,Sem Informação,,MOTORISTA
+D021800281,002,01,Masculino,26,Condutor,Ferida,automóvel,Branco,Superior,,ENGENHEIRO(A)
+D021800282,001,01,Feminino,87,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800283,001,01,Masculino,44,Condutor,Morta,moto,Branco,Sem Informação,28/02/2018,PORTEIRO(A)
+D021800285,001,01,Feminino,73,Passageiro,Ferida,ônibus,Branco,Sem Informação,,SI
+D021800293,001,01,Feminino,34,Pedestre,Ferida,automóvel,Branco,Ensino Médio,,AUTONOMO(A)
+D021800298,001,01,Masculino,45,Condutor,Ferida,moto,Branco,Superior,,GERENTE ADMINISTRATIVO
+D021800301,001,01,Masculino,30,Condutor,Ferida,moto,Branco,Superior,,POLICIAL MILITAR
+D021800303,001,01,Masculino,42,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTOBOY
+D021800304,001,01,Masculino,SI,Pedestre,Ferida,moto,Branco,Sem Informação,,SI
+D021800304,002,01,Masculino,21,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800306,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800307,001,01,Feminino,52,Pedestre,Ferida,caminhonete,Branco,Sem Informação,,AUTONOMO(A)
+D021800308,001,01,Masculino,38,Condutor,Morta,moto,Branco,Sem Informação,05/02/2018,SERIGRAFISTA
+D021800308,002,01,Masculino,30,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800311,001,01,Masculino,44,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,ACOUGUEIRO(A)
+D021800312,001,02,Masculino,19,Condutor,Ferida,moto,Branco,Ensino Médio,,ESTUDANTE
+D021800313,001,01,Feminino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,VENDEDOR(A)
+D021800317,001,01,Masculino,36,Condutor,Ferida,moto,Branco,Ensino Médio,,METALURGICO(A)
+D021800318,001,01,Masculino,39,Condutor,Ferida,moto,Branco,Superior,,ENGENHEIRO CIVIL
+D021800322,001,01,Masculino,39,Condutor,Ferida,moto,Branco,Superior,,FISIOTERAPEUTA
+D021800325,001,01,Masculino,60,Pedestre,Ferida,ônibus,Branco,Sem Informação,,SI
+D021800326,001,01,Masculino,26,Condutor,Ferida,moto,Branco,Ensino Médio,,POLICIAL MILITAR
+D021800327,001,02,Sem Informação,SI,Condutor,Ferida,moto,Branco,Ensino Médio,,SI
+D021800329,001,01,Feminino,29,Passageiro,Ferida,moto,Branco,Ensino Médio,,OPERADOR DE CAIXA
+D021800330,001,01,Masculino,42,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800333,001,02,Masculino,58,Condutor,Ferida,sem informação,Branco,Superior,,PROFESSOR(A)
+D021800337,001,02,Masculino,36,Condutor,Ferida,moto,Branco,Sem Informação,,AJUDANTE DE MOTORISTA
+D021800338,001,01,Masculino,22,Condutor,Ferida,moto,Branco,Ensino Médio,,PROJETISTA
+D021800340,001,02,Masculino,51,Condutor,Ferida,moto,Branco,Ensino Fundamental I,,SI
+D021800344,001,01,Masculino,35,Condutor,Ferida,moto,Branco,Sem Informação,,TECNICO EM ENFERMAGEM
+D021800354,001,01,Masculino,36,Condutor,Ferida,moto,Branco,Ensino Fundamental I,,SUPERVISOR(A)
+D021800357,001,01,Masculino,45,Condutor,Ferida,caminhonete,Branco,Ensino Fundamental I,,FISCAL
+D021800358,001,01,Feminino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,AUXILIAR DE MECANICO
+D021800359,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800360,001,01,Masculino,21,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTOBOY
+D021800361,001,01,Masculino,41,Pedestre,Morta,automóvel,Branco,Ensino Fundamental II,25/02/2018,PIZZAIOLO(A)
+D021800362,001,01,Feminino,51,Pedestre,Ferida,automóvel,Branco,Sem Informação,,NAO INFORMADA
+D021800363,001,01,Masculino,19,Passageiro,Ferida,moto,Branco,Ensino Fundamental II,,ESTUDANTE
+D021800363,002,01,Masculino,23,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800364,001,01,Masculino,40,Condutor,Ferida,automóvel,Branco,Superior,,COMERCIANTE
+D021800364,002,02,Masculino,41,Condutor,Ferida,automóvel,Branco,Superior,,SI
+D021800364,003,03,Feminino,35,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800364,004,03,Masculino,06,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800364,005,03,Feminino,56,Passageiro,Ferida,automóvel,Branco,Sem Informação,,AI
+D021800365,001,02,Masculino,19,Condutor,Ferida,moto,Branco,Sem Informação,,ESTAGIARIO(A)
+D021800367,001,01,Masculino,44,Condutor,Ferida,moto,Branco,Ensino Médio,,MECANICO(A)
+D021800372,001,01,Masculino,56,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,AGENTE DE SEGURANCA
+D021800373,001,01,Masculino,26,Condutor,Ferida,automóvel,Branco,Superior,,GERENTE
+D021800374,001,01,Masculino,46,Pedestre,Morta,automóvel,Branco,Ensino Fundamental I,16/02/2018,FEIRANTE
+D021800377,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Ensino Médio,,AJUDANTE
+D021800378,001,01,Masculino,73,Pedestre,Morta,moto,Branco,Ensino Fundamental I,11/02/2018,APOSENTADO(A)
+D021800378,002,01,Feminino,41,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021800378,003,01,Masculino,33,Condutor,Ferida,moto,Não Alcoolizado ,Ensino Fundamental II,,CONSULTOR(A)
+D021800379,001,02,Masculino,62,Condutor,Ferida,bicicleta,Branco,Sem Informação,,AJUDANTE DE PEDREIRO
+D021800380,001,01,Masculino,22,Condutor,Ferida,moto,Branco,Sem Informação,,CABELEIREIRO(A)
+D021800381,001,01,Masculino,62,Pedestre,Ferida,moto,Branco,Sem Informação,,RESTAURADOR
+D021800385,001,01,Feminino,35,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800385,002,01,Feminino,44,Passageiro,Ferida,automóvel,Branco,Ensino Fundamental I,,COSTUREIRO(A)
+D021800386,001,01,Masculino,44,Condutor,Ferida,moto,Branco,Sem Informação,,AUTONOMO(A)
+D021800389,001,01,Masculino,55,Condutor,Ferida,moto,Branco,Sem Informação,,APOSENTADO(A)
+D021800390,001,01,Masculino,19,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021800390,002,01,Masculino,22,Condutor,Morta,moto,Branco,Ensino Fundamental II,11/02/2018,DESEMPREGADO(A)
+D021800399,001,01,Feminino,84,Pedestre,Ferida,sem informação,Branco,Superior,,NAO INFORMADA
+D021800401,001,01,Masculino,20,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,AUTONOMO(A)
+D021800401,002,02,Masculino,22,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,AUTONOMO
+D021800402,001,01,Masculino,70,Pedestre,Ferida,moto,Branco,Ensino Fundamental I,,AJUDANTE
+D021800403,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800403,002,01,Masculino,24,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021800409,001,01,Feminino,37,Condutor,Morta,moto,Branco,Sem Informação,03/02/2018,AUX ENFERMAGEM
+D021800411,001,01,Masculino,33,Condutor,Ferida,automóvel,Branco,Ensino Fundamental I,,SI
+D021800413,001,01,Masculino,33,Condutor,Ferida,moto,Branco,Sem Informação,,MOTOBOY
+D021800418,001,01,Masculino,19,Condutor,Ferida,automóvel,Branco,Ensino Fundamental II,,ESTUDANTE
+D021800418,002,01,Masculino,19,Passageiro,Ferida,automóvel,Branco,Ensino Fundamental II,,ESTUDANTE
+D021800419,001,01,Masculino,22,Pedestre,Ferida,automóvel,Branco,Ensino Fundamental II,,DESEMPREGADO
+D021800422,001,02,Masculino,36,Condutor,Ferida,moto,Branco,Sem Informação,,AJUDANTE DE MOTORISTA
+D021800424,001,01,Masculino,31,Condutor,Ferida,moto,Branco,Sem Informação,,MECANICO(A)
+D021800426,001,01,Masculino,34,Condutor,Ferida,automóvel,Branco,Ensino Médio,,SI
+D021800427,001,01,Masculino,54,Condutor,Ferida,moto,Branco,Ensino Médio,,AUTONOMO(A)
+D021800427,002,01,Feminino,11,Passageiro,Ferida,moto,Branco,Ensino Fundamental I,,ESTUDANTE
+D021800435,001,02,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800441,001,01,Masculino,41,Condutor,Ferida,moto,Branco,Sem Informação,,NAO INFORMADA
+D021800444,001,01,Masculino,31,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800445,001,01,Feminino,26,Pedestre,Ferida,sem informação,Branco,Ensino Médio,,SI
+D021800445,002,01,Masculino,02,Pedestre,Ferida,sem informação,Branco,Sem Informação,,CRIANCA
+D021800446,001,01,Masculino,40,Pedestre,Morta,sem informação,Branco,Sem Informação,26/02/2018,SI
+D021800447,001,01,Feminino,30,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800447,002,01,Masculino,40,Passageiro,Ferida,automóvel,Branco,Sem Informação,,NAO INFORMADA
+D021800447,003,01,Masculino,06,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800447,004,01,Feminino,14,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800447,005,01,Masculino,13,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800447,006,01,Masculino,10,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800447,007,01,Masculino,38,Condutor,Ferida,automóvel,Branco,Ensino Fundamental I,,PEDREIRO
+D021800448,001,01,Masculino,19,Condutor,Ferida,automóvel,Branco,Ensino Fundamental II,,SERVENTE
+D021800450,001,01,Masculino,27,Condutor,Ferida,automóvel,Branco,Sem Informação,,AUTONOMO(A)
+D021800451,001,01,Masculino,18,Pedestre,Ferida,ônibus,Branco,Sem Informação,,DESEMPREGADO
+D021800457,001,01,Masculino,20,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,ESTOQUISTA
+D021800461,001,01,Masculino,20,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800463,001,01,Masculino,39,Condutor,Ferida,moto,Branco,Superior,,MICROEMPRESARIO
+D021800465,001,01,Masculino,78,Passageiro,Ferida,ônibus,Branco,Superior,,APOSENTADO(A)
+D021800466,001,01,Masculino,26,Condutor,Ferida,moto,Branco,Superior,,ADVOGADO(A)
+D021800467,001,02,Masculino,36,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800468,001,01,Masculino,11,Pedestre,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021800472,001,01,Masculino,21,Condutor,Ferida,moto,Branco,Ensino Médio,,TECNICO(A)
+D021800475,001,01,Masculino,56,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800475,002,01,Masculino,43,Condutor,Ferida,automóvel,Branco,Ensino Fundamental II,,SI
+D021800476,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Ensino Médio,,PINTOR DE AUTOMOVEIS
+D021800482,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Superior,,VENDEDOR(A)
+D021800485,001,01,Masculino,37,Condutor,Ferida,moto,Branco,Sem Informação,,ENTREGADOR(A)
+D021800485,002,01,Feminino,43,Passageiro,Ferida,moto,Branco,Sem Informação,,GERENTE
+D021800490,001,01,Feminino,52,Pedestre,Ferida,moto,Branco,Sem Informação,,NAO INFORMADA
+D021800490,002,01,Masculino,18,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800490,003,01,Masculino,16,Passageiro,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800491,001,01,Masculino,25,Condutor,Ferida,automóvel,Branco,Ensino Fundamental II,,POLICIAL MILITAR
+D021800491,002,01,Feminino,24,Passageiro,Ferida,automóvel,Branco,Sem Informação,,POLICIAL MILITAR
+D021800491,003,01,Masculino,39,Passageiro,Ferida,automóvel,Branco,Superior,,POLICIAL MILITAR
+D021800495,001,02,Feminino,51,Condutor,Ferida,automóvel,Branco,Ensino Médio,,MANICURE
+D021800496,001,01,Masculino,57,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800497,001,01,Feminino,33,Condutor,Ferida,moto,Branco,Ensino Médio,,TECNICO EM ENFERMAGEM
+D021800498,001,01,Masculino,87,Pedestre,Morta,moto,Branco,Sem Informação,27/02/2018,APOSENTADO(A)
+D021800499,001,01,Feminino,55,Passageiro,Ferida,ônibus,Branco,Sem Informação,,SI
+D021800502,001,01,Masculino,21,Condutor,Ferida,moto,Branco,Sem Informação,,AJUDANTE
+D021800503,001,01,Feminino,21,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800505,001,01,Masculino,21,Condutor,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021800505,002,01,Feminino,24,Passageiro,Ferida,automóvel,Branco,Ensino Fundamental II,,VENDEDOR(A)
+D021800508,001,01,Masculino,18,Condutor,Ferida,moto,Branco,Sem Informação,,AUTONOMO(A)
+D021800508,002,02,Masculino,18,Passageiro,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021800509,001,02,Masculino,54,Condutor,Ferida,sem informação,Branco,Sem Informação,,SI
+D021800509,002,01,Masculino,53,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800513,001,01,Masculino,39,Condutor,Ferida,moto,Branco,Superior,,SUPERVISOR(A)
+D021800517,001,02,Feminino,31,Passageiro,Ferida,caminhonete,Branco,Ensino Médio,,CABELEIREIRO(A)
+D021800522,001,01,Feminino,22,Passageiro,Ferida,moto,Branco,Ensino Médio,,RECEPCIONISTA
+D021800523,001,01,Masculino,23,Condutor,Ferida,moto,Branco,Ensino Médio,,COBRADOR(A)
+D021800525,001,01,Masculino,21,Condutor,Ferida,moto,Branco,Ensino Médio,,METALURGICO(A)
+D021800526,001,01,Masculino,29,Pedestre,Ferida,automóvel,Branco,Ensino Fundamental I,,DESEMPREGADO(A)
+D021800529,001,01,Masculino,28,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,MOTOBOY
+D021800531,001,02,Masculino,31,Condutor,Ferida,moto,Branco,Superior,,BANCARIO(A)
+D021800532,001,01,Feminino,19,Pedestre,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800533,001,01,Feminino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,MOTOBOY
+D021800536,001,01,Feminino,07,Passageiro,Ferida,automóvel,Branco,Ensino Fundamental I,,NAO INFORMADA
+D021800536,002,01,Masculino,40,Condutor,Ferida,automóvel,Alcoolizado,Ensino Médio,,ELETRICISTA
+D021800539,001,01,Masculino,33,Condutor,Ferida,moto,Branco,Sem Informação,,NAO INFORMADA
+D021800540,001,01,Masculino,28,Pedestre,Ferida,ônibus,Branco,Sem Informação,,REPOSITOR(A)
+D021800541,001,01,Masculino,56,Pedestre,Morta,automóvel,Branco,Sem Informação,25/02/2018,MORADOR DE RUA
+D021800542,001,01,Masculino,28,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,AUXILIAR DE PRODUCAO
+D021800543,001,01,Masculino,45,Condutor,Ferida,bicicleta,Branco,Sem Informação,,SI
+D021800543,002,02,Masculino,40,Condutor,Ferida,moto,Branco,Sem Informação,,AJUDANTE DE PEDREIRO
+D021800550,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Ensino Médio,,VENDEDOR(A)
+D021800554,001,01,Masculino,31,Condutor,Ferida,automóvel,Branco,Superior,,SERVIDOR PUBLICO FEDERAL
+D021800555,001,01,Masculino,20,Condutor,Ferida,automóvel,Branco,Ensino Fundamental II,,MOTOBOY
+D021800556,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Ensino Médio,,ESTUDANTE
+D021800560,001,01,Masculino,24,Pedestre,Ferida,automóvel,Branco,Sem Informação,,MARCENEIRO(A)
+D021800563,001,01,Feminino,23,Condutor,Ferida,moto,Branco,Ensino Médio,,ESTAGIARIO(A)
+D021800565,001,02,Masculino,24,Condutor,Ferida,moto,Branco,Ensino Fundamental I,,ESTUDANTE
+D021800568,001,01,Masculino,31,Pedestre,Ferida,ônibus,Branco,Sem Informação,,AUTONOMO(A)
+D021800572,001,01,Masculino,55,Pedestre,Ferida,moto,Branco,Sem Informação,,BORRACHEIRO(A)
+D021800572,002,01,Sem Informação,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800572,003,01,Sem Informação,SI,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021800573,001,02,Masculino,38,Condutor,Ferida,automóvel,Branco,Ensino Fundamental II,,COMERCIANTE
+D021800573,002,01,Feminino,20,Passageiro,Ferida,automóvel,Branco,Ensino Médio,,AUXILIAR ADMINISTRATIVO
+D021800573,003,02,Feminino,33,Passageiro,Ferida,automóvel,Branco,Ensino Médio,,AUXILIAR GERAL
+D021800576,001,01,Masculino,48,Pedestre,Morta,automóvel,Branco,Ensino Médio,20/02/2018,JARDINEIRO(A)
+D021800578,001,01,Masculino,22,Condutor,Ferida,moto,Branco,Sem Informação,,DESEMPREGADO(A)
+D021800579,001,01,Masculino,73,Passageiro,Ferida,ônibus,Branco,Sem Informação,,AJUDANTE DE SERRALHEIRO
+D021800584,001,01,Masculino,42,Condutor,Ferida,sem informação,Branco,Sem Informação,,SI
+D021800586,001,01,Masculino,19,Condutor,Ferida,moto,Branco,Ensino Médio,,ESTUDANTE
+D021800592,001,01,Masculino,34,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800594,001,01,Masculino,10,Pedestre,Ferida,sem informação,Branco,Ensino Fundamental I,,ESTUDANTE
+D021800595,001,01,Feminino,64,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800603,001,01,Feminino,52,Pedestre,Ferida,moto,Branco,Ensino Médio,,SERVENTE
+D021800604,001,02,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800605,001,01,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800606,001,01,Masculino,24,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800607,001,01,Feminino,18,Passageiro,Ferida,moto,Branco,Ensino Médio,,ESTUDANTE
+D021800607,002,01,Masculino,21,Condutor,Ferida,moto,Branco,Ensino Médio,,AJUDANTE GERAL
+D021800608,001,02,Masculino,50,Condutor,Ferida,automóvel,Branco,Ensino Fundamental II,,SI
+D021800609,001,01,Feminino,SI,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800614,001,02,Feminino,34,Condutor,Ferida,automóvel,Branco,Sem Informação,,MANICURE
+D021800617,001,01,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,si
+D021800623,001,01,Masculino,SI,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800625,001,01,Masculino,20,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,REPOSITOR(A)
+D021800626,001,01,Masculino,50,Condutor,Ferida,automóvel,Branco,Sem Informação,,ENCARREGADO
+D021800627,001,01,Masculino,32,Condutor,Ferida,moto,Branco,Superior,,SI
+D021800630,001,01,Masculino,23,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800634,001,01,Masculino,32,Condutor,Ferida,moto,Branco,Sem Informação,,MOTORISTA
+D021800638,001,01,Masculino,41,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800641,001,01,Masculino,43,Condutor,Ferida,moto,Branco,Superior,,PSICANALISTA
+D021800642,001,01,Masculino,74,Pedestre,Morta,caminhonete,Branco,Ensino Fundamental II,06/03/2018,APOSENTADO(A)
+D021800647,001,01,Feminino,34,Passageiro,Ferida,automóvel,Branco,Superior,,ENFERMEIRO(A)
+D021800650,001,01,Masculino,19,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,DESEMPREGADO
+D021800651,001,01,Feminino,39,Passageiro,Ferida,moto,Branco,Superior,,ADVOGADO(A)
+D021800651,002,01,Masculino,37,Condutor,Ferida,moto,Branco,Superior,,POLICIAL MILITAR
+D021800651,003,02,Masculino,33,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,VIGILANTE
+D021800654,001,01,Masculino,17,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800656,001,02,Masculino,30,Condutor,Ferida,moto,Branco,Ensino Fundamental I,,MOTOBOY
+D021800660,001,01,Masculino,34,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800662,001,01,Masculino,27,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,ENCARREGADO(A) DE SETOR
+D021800664,001,01,Feminino,35,Pedestre,Ferida,moto,Branco,Ensino Médio,,COSTUREIRO(A)
+D021800668,001,01,Feminino,SI,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800669,001,01,Masculino,37,Condutor,Ferida,moto,Branco,Superior,,PROFESSOR(A)
+D021800673,001,01,Feminino,68,Pedestre,Ferida,moto,Branco,Sem Informação,,SI
+D021800676,001,01,Masculino,75,Pedestre,Ferida,moto,Branco,Ensino Fundamental II,,APOSENTADO(A)
+D021800677,001,01,Masculino,48,Condutor,Ferida,bicicleta,Branco,Ensino Médio,,TECNICO EM ENFERMAGEM
+D021800678,001,01,Masculino,39,Passageiro,Morta,moto,Branco,Sem Informação,03/03/2018,VIGILANTE
+D021800678,002,01,Masculino,35,Condutor,Ferida,moto,Branco,Sem Informação,,AJUDANTE DE PEDREIRO
+D021800678,003,02,Feminino,28,Passageiro,Ferida,moto,Branco,Ensino Médio,,DESEMPREGADA
+D021800678,004,02,Masculino,29,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,PINTOR
+D021800681,001,01,Feminino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,AUTONOMO(A)
+D021800682,001,01,Feminino,22,Passageiro,Ferida,moto,Branco,Ensino Fundamental II,,OPERADOR(A) TELEMARKETING
+D021800683,001,01,Masculino,13,Pedestre,Ferida,automóvel,Branco,Ensino Fundamental I,,ESTUDANTE
+D021800684,001,01,Feminino,34,Passageiro,Ferida,moto,Branco,Sem Informação,,COMERCIANTE
+D021800691,001,01,Masculino,12,Pedestre,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800695,001,01,Masculino,42,Condutor,Ferida,moto,Branco,Sem Informação,,EMPRESARIO(A)
+D021800697,001,01,Masculino,46,Condutor,Ferida,automóvel,Branco,Ensino Médio,,VENDEDOR(A)
+D021800700,001,02,Masculino,19,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800702,001,01,Feminino,32,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800704,001,01,Masculino,30,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800704,002,01,Masculino,SI,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800705,001,01,Masculino,31,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,VIGILANTE
+D021800710,001,01,Feminino,53,Pedestre,Ferida,moto,Branco,Superior,,SI
+D021800712,001,01,Masculino,57,Condutor,Ferida,bicicleta,Branco,Ensino Fundamental I,,PORTEIRO(A)
+D021800713,001,01,Masculino,28,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800715,001,02,Masculino,35,Condutor,Ferida,moto,Branco,Superior,,ANALISTA
+D021800716,001,01,Feminino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,MOTOBOY
+D021800719,001,01,Feminino,41,Pedestre,Ferida,caminhonete,Branco,Sem Informação,,SI
+D021800720,001,01,Masculino,23,Condutor,Ferida,moto,Branco,Ensino Médio,,VENDEDOR(A)
+D021800723,001,01,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,
+D021800723,002,02,Masculino,30,Condutor,Ferida,automóvel,Branco,Ensino Fundamental II,,PEDREIRO
+D021800725,001,02,Masculino,42,Condutor,Ferida,bicicleta,Branco,Sem Informação,,VIGILANTE
+D021800728,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Superior,,MOTOBOY
+D021800729,001,01,Feminino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800731,001,01,Masculino,20,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTOBOY
+D021800733,001,01,Feminino,40,Pedestre,Morta,automóvel,Branco,Ensino Médio,20/02/2018,OPERADOR(A) TELEMARKETING
+D021800734,001,01,Masculino,46,Pedestre,Morta,sem informação,Branco,Ensino Fundamental I,05/02/2018,AUTONOMO
+D021800735,001,01,Feminino,18,Passageiro,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800750,001,02,Masculino,33,Condutor,Ferida,automóvel,Branco,Sem Informação,,AJUDANTE GERAL
+D021800752,001,02,Masculino,59,Condutor,Ferida,moto,Branco,Ensino Fundamental I,,MOTOBOY
+D021800760,001,01,Masculino,41,Condutor,Ferida,moto,Branco,Sem Informação,,NAO INFORMADA
+D021800762,001,01,Masculino,53,Condutor,Ferida,moto,Branco,Superior,,ADMINISTRADOR DE EMPRESAS
+D021800764,001,02,Masculino,25,Condutor,Ferida,bicicleta,Branco,Sem Informação,,DESEMPREGADO(A)
+D021800765,001,01,Masculino,37,Condutor,Morta,moto,Branco,Sem Informação,16/02/2018,MOTOBOY
+D021800765,002,01,Masculino,17,Passageiro,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800770,001,01,Masculino,43,Condutor,Ferida,moto,Branco,Superior,,PROFESSOR(A)
+D021800771,001,01,Feminino,12,Pedestre,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021800771,002,01,Masculino,SI,Pedestre,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021800773,001,01,Feminino,27,Pedestre,Ferida,caminhonete,Branco,Ensino Médio,,SI
+D021800773,002,01,Masculino,09,Pedestre,Ferida,caminhonete,Branco,Ensino Fundamental I,,ESTUDANTE
+D021800782,001,01,Feminino,13,Pedestre,Ferida,automóvel,Branco,Ensino Fundamental II,,ESTUDANTE
+D021800783,001,01,Masculino,30,Condutor,Ferida,moto,Branco,Ensino Fundamental I,,EMPRESARIO(A)
+D021800785,001,02,Masculino,19,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800788,001,01,Masculino,29,Pedestre,Ferida,automóvel,Branco,Sem Informação,,POLICIAL MILITAR
+D021800789,001,01,Feminino,44,Pedestre,Ferida,automóvel,Branco,Ensino Fundamental I,,VENDEDOR(A) AMBULANTE
+D021800790,001,01,Masculino,20,Condutor,Ferida,automóvel,Branco,Ensino Médio,,MOTORISTA
+D021800791,001,01,Masculino,27,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800793,001,01,Masculino,38,Condutor,Ferida,moto,Branco,Sem Informação,,BALCONISTA
+D021800796,001,01,Masculino,36,Pedestre,Morta,ônibus,Branco,Ensino Fundamental II,02/02/2018,DESEMPREGADO
+D021800805,001,01,Masculino,39,Condutor,Ferida,automóvel,Branco,Superior,,DESEMPREGADO
+D021800810,001,01,Masculino,48,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800812,001,01,Masculino,61,Condutor,Ferida,automóvel,Branco,Ensino Fundamental I,,ESTUDANTE
+D021800815,001,01,Masculino,32,Condutor,Ferida,moto,Branco,Ensino Médio,,POLICIAL MILITAR
+D021800819,001,01,Masculino,06,Pedestre,Ferida,automóvel,Branco,Ensino Fundamental I,,
+D021800820,001,01,Masculino,33,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800822,001,01,Feminino,SI,Pedestre,Ferida,moto,Branco,Sem Informação,,si
+D021800822,002,01,Masculino,33,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,CHAVEIRO(A)
+D021800824,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Sem Informação,,DESEMPREGADO(A)
+D021800826,001,02,Masculino,26,Condutor,Ferida,bicicleta,Branco,Sem Informação,,AUTONOMO(A)
+D021800827,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800829,001,01,Feminino,23,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800833,001,01,Feminino,34,Condutor,Ferida,moto,Branco,Superior,,CABELEIREIRO(A)
+D021800834,001,01,Masculino,28,Condutor,Morta,moto,Branco,Sem Informação,15/02/2018,MOTOBOY
+D021800835,001,02,Masculino,45,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800835,002,02,Feminino,42,Passageiro,Ferida,automóvel,Branco,Ensino Médio,,SI
+D021800835,003,02,Feminino,09,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800837,001,02,Masculino,26,Condutor,Ferida,moto,Branco,Ensino Médio,,AUXILIAR DE ENFERMAGEN
+D021800842,001,01,Masculino,35,Condutor,Ferida,moto,Branco,Sem Informação,,AUTONOMO(A)
+D021800843,001,02,Masculino,27,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800847,001,01,Feminino,36,Condutor,Ferida,moto,Branco,Ensino Médio,,ENCARREGADO
+D021800850,001,01,Feminino,25,Pedestre,Ferida,caminhonete,Branco,Sem Informação,,SI
+D021800851,001,01,Masculino,30,Pedestre,Morta,ônibus,Branco,Ensino Fundamental II,03/02/2018,PORTEIRO
+D021800855,001,01,Masculino,30,Condutor,Ferida,moto,Branco,Ensino Médio,,POLICIAL MILITAR
+D021800857,001,02,Masculino,SI,Condutor,Ferida,bicicleta,Branco,Sem Informação,,SI
+D021800858,001,01,Masculino,21,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800860,001,01,Masculino,45,Pedestre,Ferida,caminhão,Branco,Ensino Fundamental II,,MOTORISTA
+D021800862,001,02,Masculino,16,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800863,001,01,Masculino,37,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,MOTOBOY
+D021800867,001,01,Masculino,21,Condutor,Ferida,moto,Branco,Sem Informação,,NAO INFORMADA
+D021800868,001,01,Masculino,30,Condutor,Morta,moto,Branco,Sem Informação,25/02/2018,CARPINTEIRO(A)
+D021800868,002,01,Feminino,24,Passageiro,Ferida,moto,Branco,Ensino Fundamental II,,ESTUDANTE
+D021800871,001,01,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800877,001,01,Masculino,16,Pedestre,Ferida,sem informação,Branco,Sem Informação,,SI
+D021800881,001,01,Feminino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800886,001,01,Masculino,29,Condutor,Ferida,caminhonete,Branco,Sem Informação,,ATENDENTE
+D021800891,001,01,Masculino,71,Condutor,Ferida,moto,Branco,Ensino Fundamental I,,PEDREIRO
+D021800892,001,01,Masculino,28,Condutor,Ferida,moto,Branco,Sem Informação,,DESEMPREGADO(A)
+D021800893,001,01,Masculino,54,Condutor,Ferida,moto,Branco,Sem Informação,,MECANICO(A)
+D021800904,001,01,Masculino,45,Pedestre,Ferida,caminhão,Branco,Ensino Fundamental II,,MOTORISTA
+D021800906,001,01,Masculino,27,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800910,001,01,Feminino,67,Pedestre,Ferida,automóvel,Branco,Ensino Fundamental I,,SI
+D021800917,001,01,Masculino,29,Condutor,Ferida,automóvel,Alcoolizado,Ensino Fundamental I,,PEDREIRO
+D021800919,001,01,Masculino,31,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021800920,001,01,Masculino,21,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021800921,001,01,Masculino,41,Condutor,Ferida,moto,Branco,Superior,,SI
+D021800924,001,02,Feminino,62,Pedestre,Ferida,automóvel,Branco,Superior,,PROFESSOR(A)
+D021800925,001,01,Feminino,71,Pedestre,Ferida,automóvel,Branco,Ensino Médio,,SI
+D021800928,001,01,Masculino,25,Condutor,Ferida,moto,Branco,Sem Informação,,NAO INFORMADA
+D021800931,001,02,Masculino,23,Condutor,Ferida,automóvel,Branco,Ensino Médio,,AJUDANTE DE ELETRICISTA
+D021800933,001,01,Masculino,28,Condutor,Ferida,moto,Branco,Ensino Médio,,GERENTE
+D021800934,001,01,Masculino,16,Passageiro,Ferida,moto,Suspeita de Álcool,Ensino Fundamental I,,SI
+D021800936,001,01,Masculino,32,Condutor,Ferida,moto,Branco,Sem Informação,,INSTRUTOR(A)
+D021800937,001,01,Masculino,56,Pedestre,Ferida,ônibus,Branco,Sem Informação,,SI
+D021800939,001,01,Feminino,SI,Condutor,Ferida,automóvel,Branco,Sem Informação,,si
+D021800948,001,02,Masculino,40,Condutor,Ferida,moto,Branco,Sem Informação,,METALURGICO(A)
+D021800949,001,01,Masculino,26,Pedestre,Ferida,sem informação,Branco,Ensino Fundamental I,,AJUDANTE DE COZINHA
+D021800952,001,01,Feminino,22,Passageiro,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021800953,001,01,Feminino,34,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800955,001,02,Masculino,30,Condutor,Ferida,moto,Branco,Ensino Médio,,BOMBEIRO(A)
+D021800956,001,01,Masculino,31,Condutor,Ferida,moto,Branco,Sem Informação,,METALURGICO(A)
+D021800959,001,01,Masculino,40,Pedestre,Ferida,sem informação,Branco,Sem Informação,,TAXISTA
+D021800961,001,01,Feminino,40,Condutor,Ferida,moto,Branco,Ensino Médio,,COSTUREIRO(A)
+D021800964,001,01,Feminino,19,Pedestre,Ferida,moto,Branco,Sem Informação,,VENDEDOR(A)
+D021800964,002,01,Masculino,33,Condutor,Ferida,moto,Branco,Sem Informação,,CONTADOR(A)
+D021800965,001,01,Masculino,28,Condutor,Ferida,moto,Branco,Ensino Médio,,VIGILANTE
+D021800965,002,02,Masculino,31,Condutor,Ferida,moto,Branco,Sem Informação,,OUTROS
+D021800967,001,01,Feminino,29,Passageiro,Ferida,ônibus,Não Alcoolizado ,Superior,,FARMACEUTICO(A)
+D021800968,001,01,Feminino,20,Passageiro,Ferida,ônibus,Não Alcoolizado ,Sem Informação,,ESTUDANTE
+D021800974,001,01,Feminino,12,Pedestre,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021800977,001,01,Masculino,21,Condutor,Ferida,moto,Branco,Sem Informação,,AGENTE DE SEGURANCA
+D021800978,001,02,Masculino,36,Condutor,Ferida,automóvel,Branco,Sem Informação,,BANCARIO(A)
+D021800979,001,02,Feminino,41,Condutor,Ferida,automóvel,Branco,Superior,,PROFESSOR(A)
+D021800979,002,01,Masculino,18,Condutor,Ferida,moto,Branco,Sem Informação,,DESEMPREGADO
+D021800988,001,01,Masculino,41,Condutor,Ferida,moto,Branco,Superior,,ADVOGADO(A)
+D021800989,001,01,Masculino,37,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800992,001,01,Masculino,28,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021800995,001,01,Masculino,60,Condutor,Ferida,automóvel,Branco,Ensino Fundamental I,,BALCONISTA
+D021800995,002,01,Feminino,39,Passageiro,Ferida,automóvel,Branco,Ensino Fundamental II,,EMPREGADO DOMESTICO
+D021801001,001,01,Masculino,82,Pedestre,Ferida,caminhonete,Branco,Sem Informação,,SI
+D021801004,001,01,Feminino,07,Pedestre,Ferida,automóvel,Branco,Ensino Fundamental I,,ESTUDANTE
+D021801005,001,01,Masculino,32,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801005,002,01,Masculino,18,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021801006,001,01,Masculino,19,Condutor,Ferida,moto,Branco,Ensino Médio,,AUXILIAR ADMINISTRATIVO
+D021801007,001,01,Masculino,33,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801008,001,01,Feminino,40,Passageiro,Ferida,ônibus,Branco,Sem Informação,,si
+D021801014,001,01,Feminino,18,Condutor,Ferida,bicicleta,Branco,Sem Informação,,ESTUDANTE
+D021801020,001,02,Masculino,35,Condutor,Ferida,moto,Branco,Ensino Médio,,EMPRESARIO(A)
+D021801021,001,01,Masculino,38,Pedestre,Ferida,moto,Branco,Sem Informação,,AJUDANTE DE PEDREIRO
+D021801027,001,01,Masculino,20,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,MOTOBOY
+D021801036,001,01,Masculino,46,Condutor,Ferida,automóvel,Branco,Sem Informação,,AJUDANTE DE MOTORISTA
+D021801037,001,01,Feminino,35,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,AUTONOMO(A)
+D021801039,001,01,Masculino,25,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801042,001,01,Masculino,24,Pedestre,Ferida,sem informação,Branco,Ensino Médio,,MARCENEIRO
+D021801044,001,01,Feminino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021801045,001,03,Feminino,40,Condutor,Ferida,automóvel,Branco,Superior,,NAO INFORMADA
+D021801051,001,01,Feminino,46,Passageiro,Ferida,ônibus,Branco,Sem Informação,,EMPREGADO DOMESTICO
+D021801052,001,01,Masculino,31,Condutor,Ferida,moto,Branco,Superior,,ANALISTA CONTABIL
+D021801055,001,01,Feminino,15,Passageiro,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021801056,001,01,Feminino,48,Passageiro,Ferida,moto,Branco,Superior,,ANALISTA
+D021801062,001,01,Masculino,74,Pedestre,Ferida,ônibus,Branco,Sem Informação,,APOSENTADO(A)
+D021801064,001,01,Masculino,25,Pedestre,Ferida,sem informação,Branco,Ensino Fundamental II,,ATENDENTE
+D021801066,001,02,Masculino,64,Condutor,Ferida,bicicleta,Branco,Ensino Fundamental I,,APOSENTADO(A)
+D021801069,001,01,Masculino,30,Condutor,Ferida,moto,Branco,Ensino Médio,,SEGURANCA
+D021801070,001,02,Feminino,24,Condutor,Ferida,automóvel,Branco,Superior,,DESEMPREGADO
+D021801074,001,02,Masculino,34,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021801076,001,01,Masculino,42,Condutor,Morta,moto,Branco,Sem Informação,20/02/2018,MANOBRISTA
+D021801078,001,01,Masculino,60,Condutor,Ferida,moto,Branco,Superior,,PROFESSOR(A)
+D021801091,001,01,Masculino,22,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801091,002,01,Masculino,28,Condutor,Morta,automóvel,Branco,Ensino Fundamental II,15/02/2018,AUTONOMO
+D021801092,001,01,Masculino,57,Pedestre,Morta,micro-ônibus,Branco,Sem Informação,09/02/2018,LETRISTA
+D021801093,001,01,Feminino,33,Pedestre,Ferida,automóvel,Branco,Superior,,FUNCIONPUBLICO ESTADUAL
+D021801094,001,01,Masculino,22,Condutor,Ferida,moto,Branco,Sem Informação,,NAO INFORMADA
+D021801095,001,01,Masculino,59,Condutor,Ferida,automóvel,Branco,Superior,,COMERCIANTE
+D021801100,001,01,Feminino,66,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801101,001,01,Masculino,36,Condutor,Ferida,moto,Branco,Superior,,NAO INFORMADA
+D021801103,001,01,Masculino,20,Condutor,Ferida,moto,Alcoolizado,Sem Informação,,INSTRUTOR(A)
+D021801115,001,01,Masculino,32,Condutor,Ferida,moto,Branco,Ensino Médio,,PEDREIRO
+D021801115,002,01,Masculino,39,Passageiro,Ferida,moto,Branco,Ensino Fundamental I,,PINTOR(A)
+D021801116,001,01,Feminino,32,Condutor,Ferida,micro-ônibus,Branco,Sem Informação,,SI
+D021801124,001,01,Masculino,26,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,MONTADOR(A)
+D021801124,002,01,Masculino,22,Passageiro,Ferida,moto,Branco,Ensino Fundamental II,,AJUDANTE
+D021801124,003,01,Feminino,44,Pedestre,Ferida,moto,Branco,Sem Informação,,MANICURE
+D021801124,004,01,Feminino,11,Pedestre,Ferida,moto,Branco,Sem Informação,,SI
+D021801125,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Sem Informação,,MANOBRISTA
+D021801136,001,01,Masculino,36,Condutor,Ferida,caminhonete,Branco,Ensino Fundamental I,,COMERCIANTE
+D021801138,001,01,Feminino,19,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801139,001,01,Masculino,37,Condutor,Ferida,moto,Branco,Ensino Fundamental I,,MOTORISTA
+D021801142,001,01,Feminino,72,Pedestre,Ferida,automóvel,Branco,Sem Informação,,NAO INFORMADA
+D021801143,001,01,Masculino,55,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801148,001,01,Feminino,90,Pedestre,Ferida,ônibus,Branco,Sem Informação,,SI
+D021801151,001,01,Masculino,25,Condutor,Ferida,moto,Branco,Sem Informação,,JARDINEIRO(A)
+D021801152,001,01,Masculino,18,Condutor,Ferida,moto,Branco,Ensino Médio,,AJUDANTE
+D021801153,001,01,Feminino,24,Passageiro,Ferida,automóvel,Branco,Sem Informação,,VENDEDOR(A)
+D021801157,001,01,Masculino,17,Condutor,Ferida,bicicleta,Branco,Ensino Fundamental I,,ESTUDANTE
+D021801160,001,01,Feminino,31,Passageiro,Ferida,ônibus urbano,Branco,Superior,,RECEPCIONISTA
+D021801164,001,02,Masculino,22,Condutor,Ferida,moto,Branco,Sem Informação,,VENDEDOR(A)
+D021801167,001,01,Masculino,18,Condutor,Ferida,moto,Branco,Superior,,AUXILIAR DE MECANICO
+D021801168,001,01,Feminino,47,Pedestre,Ferida,moto,Branco,Ensino Médio,,PRENDAS DOMESTICAS
+D021801168,002,01,Masculino,37,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,INSPETOR(A)
+D021801169,001,01,Masculino,33,Condutor,Ferida,moto,Branco,Sem Informação,,CAMINHONEIRO
+D021801174,001,01,Masculino,59,Pedestre,Ferida,automóvel,Branco,Ensino Fundamental II,,DESEMPREGADO
+D021801175,001,01,Masculino,36,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801177,001,01,Masculino,55,Passageiro,Ferida,ônibus,Branco,Sem Informação,,AJUDANTE DE PEDREIRO
+D021801178,001,01,Masculino,21,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801179,001,02,Masculino,36,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801182,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801185,001,01,Masculino,21,Condutor,Ferida,moto,Branco,Ensino Médio,,SI
+D021801187,001,01,Feminino,21,Passageiro,Ferida,moto,Branco,Ensino Médio,,COMPRADOR(A)
+D021801187,002,01,Masculino,32,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,OPERADOR DE MAQUINA
+D021801193,001,01,Masculino,29,Pedestre,Ferida,automóvel,Suspeita de Álcool,Sem Informação,,AJUDANTE DE MOTORISTA
+D021801195,001,01,Feminino,54,Passageiro,Ferida,sem informação,Branco,Ensino Fundamental I,,OPERADOR DE MAQUINA
+D021801196,001,01,Feminino,62,Passageiro,Ferida,ônibus,Branco,Ensino Fundamental II,,APOSENTADO(A)
+D021801197,001,01,Feminino,06,Pedestre,Ferida,automóvel,Branco,Sem Informação,,CRIANCA
+D021801199,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Superior,,TECNICO EM LABORATORIO
+D021801201,001,01,Feminino,34,Passageiro,Ferida,ônibus,Branco,Superior,,AUTONOMO(A)
+D021801203,001,01,Masculino,21,Pedestre,Ferida,moto,Branco,Sem Informação,,AUTONOMO(A)
+D021801207,001,01,Masculino,27,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTOBOY
+D021801210,001,02,Masculino,35,Condutor,Ferida,moto,Branco,Sem Informação,,COBRADOR(A)
+D021801211,001,01,Feminino,56,Passageiro,Ferida,automóvel,Branco,Ensino Fundamental I,,COZINHEIRO(A)
+D021801211,002,01,Feminino,11,Passageiro,Ferida,automóvel,Branco,Ensino Fundamental I,,ESTUDANTE
+D021801212,001,01,Masculino,32,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801213,001,01,Feminino,27,Passageiro,Ferida,moto,Branco,Sem Informação,,BARMAN
+D021801214,001,01,Masculino,18,Condutor,Ferida,moto,Branco,Ensino Médio,,AJUDANTE
+D021801214,002,01,Masculino,15,Passageiro,Ferida,moto,Branco,Ensino Fundamental II,,ESTUDANTE
+D021801215,001,01,Feminino,47,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801222,001,02,Masculino,30,Condutor,Ferida,moto,Branco,Ensino Médio,,ENTREGADOR(A)
+D021801225,001,01,Masculino,22,Passageiro,Ferida,automóvel,Branco,Superior,,INSPETOR(A)
+D021801225,002,01,Masculino,24,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801225,003,01,Masculino,SI,Condutor,Ferida,automóvel,Branco,Sem Informação,,ATENDENTE DE LANCHONETE
+D021801226,001,01,Masculino,70,Pedestre,Ferida,moto,Branco,Sem Informação,,APOSENTADO(A)
+D021801227,001,01,Feminino,27,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021801227,002,01,Masculino,28,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801228,001,02,Masculino,54,Condutor,Ferida,moto,Branco,Superior,,ANALISTA DE SISTEMAS
+D021801230,001,01,Feminino,49,Pedestre,Ferida,automóvel,Branco,Superior,,ANALISTA RECURSOS HUMANOS
+D021801234,001,01,Masculino,17,Condutor,Morta,moto,Branco,Ensino Fundamental II,11/02/2018,ESTUDANTE
+D021801234,002,01,Masculino,16,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021801236,001,01,Masculino,21,Condutor,Ferida,moto,Branco,Ensino Fundamental I,,ELETRICISTA
+D021801238,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Sem Informação,,ATENDENTE
+D021801241,001,01,Masculino,34,Condutor,Ferida,automóvel,Branco,Ensino Médio,,ALMOXARIFE
+D021801241,002,01,Feminino,32,Passageiro,Ferida,automóvel,Branco,Superior,,SI
+D021801242,001,01,Feminino,13,Pedestre,Ferida,sem informação,Branco,Sem Informação,,ESTUDANTE
+D021801249,001,01,Feminino,34,Condutor,Ferida,automóvel,Branco,Ensino Fundamental II,,MOTORISTA
+D021801252,001,01,Masculino,23,Condutor,Morta,moto,Branco,Ensino Médio,11/02/2018,GARCOM
+D021801256,001,02,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801261,001,01,Masculino,34,Condutor,Ferida,moto,Branco,Ensino Médio,,SI
+D021801262,001,01,Feminino,42,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801262,002,01,Masculino,35,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801264,001,01,Masculino,41,Condutor,Ferida,moto,Branco,Sem Informação,,VIGILANTE
+D021801265,001,02,Masculino,SI,Passageiro,Ferida,caminhonete,Branco,Sem Informação,,SI
+D021801272,001,01,Masculino,27,Condutor,Ferida,moto,Branco,Sem Informação,,DESEMPREGADO(A)
+D021801273,001,01,Feminino,35,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801275,001,01,Feminino,78,Pedestre,Morta,sem informação,Branco,Ensino Fundamental II,10/02/2018,DO LAR
+D021801277,001,01,Feminino,56,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801281,001,01,Masculino,11,Pedestre,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021801284,001,01,Masculino,26,Condutor,Ferida,moto,Branco,Sem Informação,,NAO INFORMADA
+D021801285,001,01,Feminino,45,Condutor,Ferida,automóvel,Branco,Superior,,PRENDAS DOMESTICAS
+D021801288,001,01,Masculino,18,Condutor,Ferida,moto,Branco,Sem Informação,,CABELEIREIRO(A)
+D021801292,001,01,Masculino,31,Condutor,Morta,moto,Branco,Sem Informação,03/02/2018,PORTEIRO(A)
+D021801292,002,01,Masculino,SI,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021801306,001,01,Masculino,29,Pedestre,Ferida,moto,Branco,Ensino Médio,,ESTOQUISTA
+D021801307,001,01,Feminino,SI,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021801308,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Ensino Médio,,POLICIAL MILITAR
+D021801312,001,01,Feminino,61,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SERVENTE
+D021801313,001,01,Masculino,21,Pedestre,Ferida,moto,Branco,Ensino Médio,,REPOSITOR(A)
+D021801315,001,01,Feminino,40,Condutor,Ferida,automóvel,Branco,Superior,,PROFESSOR(A)
+D021801318,001,01,Masculino,37,Condutor,Ferida,moto,Branco,Superior,,ENFERMEIRO(A)
+D021801319,001,01,Masculino,36,Condutor,Ferida,moto,Branco,Sem Informação,,ENCANADOR(A)
+D021801322,001,01,Feminino,21,Passageiro,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021801324,001,01,Masculino,38,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTOBOY
+D021801327,001,01,Masculino,19,Condutor,Morta,moto,Branco,Sem Informação,12/02/2018,AJ DE MECANICO
+D021801334,001,01,Masculino,21,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801335,001,02,Feminino,23,Passageiro,Ferida,automóvel,Branco,Ensino Médio,,BALCONISTA
+D021801335,002,02,Feminino,SI,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801342,001,01,Feminino,17,Passageiro,Ferida,moto,Branco,Ensino Fundamental II,,ESTUDANTE
+D021801342,002,01,Masculino,20,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,ESTUDANTE
+D021801350,001,02,Masculino,21,Condutor,Ferida,moto,Branco,Ensino Médio,,ESTOQUISTA
+D021801355,001,01,Masculino,25,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,MOTOBOY
+D021801356,001,01,Feminino,61,Pedestre,Ferida,moto,Branco,Sem Informação,,EMPREGADO DOMESTICO
+D021801363,001,01,Feminino,16,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801365,001,01,Masculino,20,Condutor,Ferida,moto,Branco,Ensino Médio,,AUTONOMO(A)
+D021801366,001,02,Masculino,50,Passageiro,Ferida,automóvel,Branco,Superior,,SI
+D021801366,002,02,Masculino,44,Passageiro,Ferida,automóvel,Branco,Superior,,SI
+D021801368,001,01,Feminino,16,Pedestre,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021801369,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTOBOY
+D021801370,001,01,Masculino,35,Condutor,Ferida,moto,Branco,Sem Informação,,AUXILIAR DE GARCOM
+D021801372,001,01,Masculino,SI,Pedestre,Ferida,moto,Branco,Sem Informação,,
+D021801372,002,01,Masculino,38,Condutor,Ferida,moto,Branco,Sem Informação,,
+D021801374,001,01,Masculino,33,Condutor,Ferida,moto,Branco,Sem Informação,,COZINHEIRO(A)
+D021801375,001,01,Masculino,30,Condutor,Ferida,caminhonete,Branco,Sem Informação,,ORIENTADOR EDUCACIONAL
+D021801375,002,02,Feminino,58,Condutor,Ferida,sem informação,Branco,Sem Informação,,NAO INFORMADA
+D021801378,001,01,Masculino,38,Condutor,Ferida,moto,Branco,Sem Informação,,MONTADOR(A)
+D021801379,001,01,Feminino,47,Pedestre,Ferida,moto,Branco,Ensino Médio,,COZINHEIRO(A)
+D021801383,001,01,Masculino,30,Condutor,Ferida,moto,Branco,Sem Informação,,AJUDANTE GERAL
+D021801387,001,02,Feminino,SI,Condutor,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021801391,001,01,Masculino,22,Passageiro,Ferida,moto,Branco,Sem Informação,,NAO INFORMADA
+D021801394,001,01,Feminino,21,Pedestre,Ferida,automóvel,Branco,Ensino Médio,,DESEMPREGADO(A)
+D021801398,001,01,Masculino,39,Condutor,Ferida,moto,Branco,Ensino Médio,,VIGILANTE
+D021801399,001,01,Masculino,46,Pedestre,Ferida,ônibus,Não Alcoolizado ,Sem Informação,,CONSULTOR(A)
+D021801405,001,02,Masculino,29,Condutor,Ferida,moto,Branco,Ensino Médio,,VIGILANTE
+D021801409,001,01,Masculino,40,Passageiro,Ferida,ônibus,Branco,Ensino Fundamental I,,AUTONOMO(A)
+D021801410,001,02,Masculino,29,Condutor,Ferida,moto,Branco,Ensino Médio,,POLICIAL MILITAR
+D021801410,002,01,Masculino,28,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,ENTREGADOR DE GAS
+D021801411,001,01,Masculino,24,Condutor,Ferida,automóvel,Alcoolizado,Ensino Médio,,VENDEDOR(A)
+D021801420,001,01,Masculino,03,Pedestre,Ferida,bicicleta,Branco,Sem Informação,,CRIANCA
+D021801422,001,01,Masculino,60,Condutor,Morta,automóvel,Branco,Superior,08/02/2018,POLICIAL CIVIL
+D021801426,001,01,Masculino,46,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,COBRADOR(A)
+D021801428,001,01,Feminino,34,Condutor,Ferida,automóvel,Branco,Superior,,ASSISTENTE ADMINISTRATIVO
+D021801430,001,02,Masculino,29,Condutor,Ferida,bicicleta,Branco,Ensino Médio,,PROJETISTA
+D021801433,001,02,Masculino,25,Condutor,Ferida,moto,Branco,Sem Informação,,POLICIAL MILITAR
+D021801436,001,01,Masculino,20,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTOBOY
+D021801438,001,01,Feminino,63,Pedestre,Ferida,moto,Não Alcoolizado ,Sem Informação,,PRENDAS DOMESTICAS
+D021801442,001,01,Masculino,27,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801446,001,01,Masculino,32,Pedestre,Ferida,ônibus,Branco,Ensino Fundamental II,,AJUDANTE
+D021801448,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Sem Informação,,ENFESTADOR(A)
+D021801450,001,02,Masculino,35,Pedestre,Ferida,automóvel,Branco,Superior,,AGENTE DE SAUDE
+D021801450,002,02,Feminino,30,Pedestre,Ferida,automóvel,Branco,Superior,,ENFERMEIRO(A)
+D021801451,001,01,Masculino,29,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801451,002,01,Masculino,48,Passageiro,Ferida,automóvel,Branco,Sem Informação,,AGENTE DE SEGURANCA
+D021801452,001,01,Masculino,26,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801452,002,01,Feminino,55,Passageiro,Ferida,moto,Branco,Sem Informação,,AGENTE DE SERVICOS GERAIS
+D021801454,001,01,Masculino,42,Condutor,Ferida,moto,Branco,Superior,,NAO INFORMADA
+D021801460,001,01,Feminino,41,Pedestre,Ferida,automóvel,Branco,Ensino Fundamental II,,AUXILIAR ADMINISTRATIVO
+D021801466,001,01,Masculino,28,Condutor,Ferida,moto,Branco,Sem Informação,,AGENTE DE SEGURANCA
+D021801467,001,01,Feminino,13,Pedestre,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021801473,001,01,Masculino,30,Condutor,Ferida,bicicleta,Branco,Ensino Médio,,POLICIAL MILITAR
+D021801476,001,01,Masculino,47,Condutor,Ferida,moto,Branco,Sem Informação,,AJUDANTE
+D021801479,001,01,Masculino,45,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021801481,001,01,Masculino,22,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801487,001,01,Feminino,66,Pedestre,Ferida,ônibus,Branco,Sem Informação,,SI
+D021801488,001,01,Feminino,32,Condutor,Ferida,moto,Branco,Superior,,OUTROS
+D021801492,001,01,Masculino,25,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801493,001,01,Masculino,40,Condutor,Ferida,bicicleta,Branco,Superior,,ENGENHEIRO(A)
+D021801496,001,01,Masculino,18,Passageiro,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021801496,002,01,Masculino,19,Condutor,Morta,moto,Branco,Ensino Médio,13/02/2018,AJUDANTE
+D021801500,001,01,Masculino,SI,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801504,001,01,Masculino,17,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801505,001,02,Feminino,SI,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801506,001,01,Masculino,17,Condutor,Ferida,moto,Branco,Ensino Fundamental I,,ESTUDANTE
+D021801506,002,01,Masculino,18,Passageiro,Ferida,moto,Branco,Ensino Fundamental II,,DESEMPREGADO
+D021801512,001,02,Masculino,48,Condutor,Ferida,moto,Branco,Sem Informação,,VIDRACEIRO(A)
+D021801513,001,01,Feminino,39,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801513,002,01,Masculino,45,Condutor,Ferida,automóvel,Suspeita de Álcool,Sem Informação,,AGENTE DE SEGURANCA
+D021801514,001,01,Feminino,81,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801515,001,01,Masculino,35,Condutor,Ferida,moto,Branco,Superior,,POLICIAL CIVIL
+D021801518,001,01,Masculino,18,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,AJUDANTE GERAL
+D021801523,001,01,Masculino,34,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,SI
+D021801527,001,01,Masculino,41,Passageiro,Ferida,automóvel,Branco,Sem Informação,,AGENTE DE SEGURANCA
+D021801531,001,01,Masculino,02,Pedestre,Ferida,caminhonete,Branco,Sem Informação,,CRIANCA
+D021801532,001,01,Feminino,76,Passageiro,Ferida,automóvel,Branco,Ensino Fundamental II,,APOSENTADO(A)
+D021801534,001,01,Masculino,22,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021801536,001,01,Masculino,32,Condutor,Ferida,moto,Branco,Sem Informação,,POLIDOR DE METAIS
+D021801541,001,01,Feminino,66,Pedestre,Ferida,moto,Branco,Sem Informação,,APOSENTADO(A)
+D021801544,001,01,Masculino,37,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801545,001,01,Feminino,24,Passageiro,Ferida,ônibus,Branco,Sem Informação,,SI
+D021801546,001,01,Masculino,21,Passageiro,Ferida,automóvel,Branco,Superior,,SI
+D021801546,002,01,Masculino,23,Passageiro,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021801546,003,01,Masculino,23,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801551,001,01,Feminino,01,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801551,002,01,Masculino,03,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801552,001,01,Feminino,48,Pedestre,Ferida,moto,Branco,Sem Informação,,SI
+D021801557,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801559,001,02,Masculino,62,Condutor,Ferida,moto,Branco,Superior,,SERVIDOR PUBLICO ESTADUAL
+D021801560,001,01,Masculino,40,Pedestre,Ferida,sem informação,Branco,Ensino Fundamental I,,AJUDANTE DE PEDREIRO
+D021801564,001,01,Masculino,56,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801564,002,01,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801567,001,01,Feminino,SI,Pedestre,Ferida,caminhão,Branco,Sem Informação,,SI
+D021801567,002,01,Masculino,43,Pedestre,Ferida,caminhão,Branco,Sem Informação,,AJUDANTE DE PEDREIRO
+D021801567,003,01,Masculino,08,Pedestre,Ferida,caminhão,Branco,Sem Informação,,SI
+D021801573,001,02,Feminino,58,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801575,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Superior,,ANALISTA
+D021801577,001,02,Feminino,28,Passageiro,Ferida,moto,Branco,Superior,,ENFERMEIRO(A)
+D021801579,001,01,Masculino,07,Pedestre,Ferida,caminhonete,Branco,Ensino Fundamental I,,ESTUDANTE
+D021801585,001,01,Feminino,34,Passageiro,Ferida,ônibus,Branco,Sem Informação,,SI
+D021801587,001,01,Feminino,67,Pedestre,Ferida,caminhonete,Branco,Ensino Fundamental II,,AUTONOMO(A)
+D021801589,001,01,Masculino,47,Pedestre,Ferida,moto,Branco,Ensino Fundamental I,,VENDEDOR(A)
+D021801593,001,01,Feminino,31,Pedestre,Ferida,moto,Branco,Ensino Médio,,OPERADOR DE CAIXA
+D021801594,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Ensino Médio,,TAXISTA
+D021801595,001,02,Masculino,39,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTOBOY
+D021801595,002,02,Feminino,13,Passageiro,Ferida,moto,Branco,Ensino Fundamental I,,ESTUDANTE
+D021801606,001,02,Masculino,30,Condutor,Ferida,moto,Branco,Sem Informação,,MOTOBOY
+D021801607,001,01,Masculino,35,Condutor,Ferida,moto,Branco,Ensino Médio,,PEDREIRO
+D021801610,001,01,Masculino,33,Passageiro,Ferida,automóvel,Branco,Sem Informação,,COSTUREIRO(A)
+D021801610,002,02,Feminino,28,Passageiro,Ferida,automóvel,Branco,Ensino Médio,,OPERADOR(A) TELEMARKETING
+D021801610,003,01,Masculino,23,Condutor,Ferida,automóvel,Alcoolizado,Sem Informação,,COSTUREIRO(A)
+D021801613,001,01,Masculino,33,Condutor,Ferida,automóvel,Branco,Ensino Médio,,COMERCIANTE
+D021801616,001,01,Masculino,38,Condutor,Ferida,moto,Branco,Ensino Médio,,POLICIAL MILITAR
+D021801617,001,01,Masculino,26,Condutor,Ferida,automóvel,Branco,Ensino Médio,,MOTOBOY
+D021801621,001,01,Masculino,45,Passageiro,Ferida,automóvel,Branco,Sem Informação,,JARDINEIRO(A)
+D021801621,002,01,Masculino,51,Condutor,Ferida,automóvel,Alcoolizado,Ensino Médio,,VENDEDOR(A) AMBULANTE
+D021801628,001,01,Masculino,27,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTOBOY
+D021801631,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,MOTOBOY
+D021801639,001,01,Masculino,22,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801642,001,01,Masculino,65,Condutor,Ferida,bicicleta,Branco,Ensino Fundamental I,,CARPINTEIRO(A)
+D021801647,001,01,Masculino,30,Condutor,Ferida,moto,Branco,Ensino Médio,,POLICIAL MILITAR
+D021801648,001,01,Masculino,22,Condutor,Ferida,moto,Branco,Sem Informação,,CONFERENTE
+D021801651,001,02,Masculino,39,Condutor,Ferida,bicicleta,Branco,Ensino Fundamental I,,VIGILANTE
+D021801653,001,02,Masculino,SI,Passageiro,Ferida,automóvel,Não Alcoolizado ,Sem Informação,,SI
+D021801654,001,01,Masculino,12,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801656,001,01,Masculino,31,Condutor,Ferida,moto,Branco,Sem Informação,,MOTOBOY
+D021801657,001,01,Masculino,34,Condutor,Ferida,moto,Branco,Superior,,SECURITARIO(A)
+D021801661,001,01,Masculino,07,Pedestre,Morta,ônibus,Branco,Sem Informação,09/02/2018,CRIANCA
+D021801663,001,02,Masculino,41,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801664,001,01,Feminino,25,Pedestre,Ferida,ônibus,Branco,Ensino Médio,,BALCONISTA
+D021801665,001,01,Masculino,14,Condutor,Ferida,bicicleta,Branco,Sem Informação,,ESTUDANTE
+D021801672,001,01,Feminino,52,Pedestre,Ferida,caminhonete,Branco,Sem Informação,,NAO INFORMADA
+D021801672,002,01,Feminino,08,Pedestre,Ferida,caminhonete,Branco,Sem Informação,,ESTUDANTE
+D021801673,001,01,Masculino,25,Condutor,Ferida,automóvel,Branco,Ensino Médio,,AJUDANTE
+D021801677,001,01,Masculino,15,Condutor,Ferida,ônibus,Branco,Sem Informação,,SI
+D021801680,001,01,Masculino,67,Pedestre,Morta,automóvel,Branco,Sem Informação,09/02/2018,PORTEIRO(A)
+D021801682,001,01,Feminino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,PINTOR(A)
+D021801685,001,01,Masculino,27,Passageiro,Morta,automóvel,Branco,Ensino Médio,17/02/2018,AUX ADMINISTRATIVO
+D021801685,002,01,Masculino,26,Condutor,Ferida,automóvel,Branco,Superior,,ESTUDANTE
+D021801692,001,01,Masculino,38,Condutor,Ferida,automóvel,Branco,Ensino Médio,,AJUDANTE GERAL
+D021801692,002,01,Feminino,31,Passageiro,Ferida,automóvel,Branco,Ensino Médio,,AUTONOMO(A)
+D021801693,001,01,Masculino,15,Pedestre,Ferida,caminhonete,Branco,Sem Informação,,ESTUDANTE
+D021801708,001,01,Masculino,21,Pedestre,Ferida,caminhonete,Branco,Sem Informação,,ESTUDANTE
+D021801711,001,01,Masculino,26,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,AUTONOMO(A)
+D021801714,001,01,Masculino,28,Condutor,Morta,moto,Branco,Sem Informação,10/02/2018,MOTORISTA
+D021801715,001,02,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801721,001,01,Sem Informação,SI,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801722,001,01,Masculino,20,Condutor,Ferida,automóvel,Suspeita de Álcool,Ensino Fundamental II,,TAXISTA
+D021801722,002,01,Masculino,21,Passageiro,Ferida,automóvel,Branco,Ensino Fundamental I,,PINTOR(A)
+D021801726,001,01,Feminino,85,Pedestre,Ferida,automóvel,Branco,Sem Informação,,APOSENTADO(A)
+D021801728,001,01,Masculino,26,Condutor,Ferida,moto,Branco,Superior,,TECNICO(A)
+D021801731,001,01,Masculino,32,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTOBOY
+D021801732,001,01,Masculino,60,Condutor,Ferida,moto,Branco,Superior,,SI
+D021801733,001,02,Feminino,29,Condutor,Ferida,moto,Branco,Sem Informação,,SECRETARIO(A)
+D021801737,001,01,Feminino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,AJUDANTE DE PINTOR
+D021801737,002,02,Masculino,28,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801738,001,01,Masculino,29,Pedestre,Ferida,ônibus,Branco,Sem Informação,,NAO INFORMADA
+D021801739,001,01,Masculino,35,Pedestre,Ferida,ônibus,Branco,Ensino Fundamental I,,AUXILIAR DE SERVIOS GERAIS
+D021801742,001,01,Masculino,48,Condutor,Ferida,caminhonete,Branco,Sem Informação,,VIGILANTE
+D021801743,001,01,Masculino,18,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021801750,001,01,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801752,001,01,Masculino,41,Condutor,Ferida,moto,Branco,Sem Informação,,PROFESSOR(A)
+D021801754,001,01,Masculino,33,Pedestre,Ferida,automóvel,Branco,Superior,,INSTRUTOR(A)
+D021801757,001,01,Masculino,51,Condutor,Ferida,moto,Branco,Ensino Fundamental I,,MOTORISTA
+D021801758,001,01,Masculino,30,Condutor,Ferida,moto,Branco,Ensino Médio,,POLICIAL MILITAR
+D021801764,001,01,Masculino,22,Passageiro,Ferida,caminhão,Branco,Sem Informação,,AJUDANTE
+D021801764,002,01,Masculino,47,Condutor,Ferida,caminhão,Branco,Sem Informação,,MOTORISTA
+D021801765,001,01,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801772,001,01,Masculino,31,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTOBOY
+D021801775,001,01,Masculino,SI,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801775,002,01,Feminino,SI,Condutor,Ferida,automóvel,Branco,Sem Informação,,MOTORISTA
+D021801777,001,02,Masculino,18,Passageiro,Ferida,automóvel,Branco,Ensino Médio,,TECNICO(A)
+D021801777,002,02,Masculino,20,Condutor,Ferida,automóvel,Branco,Ensino Médio,,TECNICO(A)
+D021801777,003,01,Masculino,35,Condutor,Ferida,automóvel,Branco,Sem Informação,,ATENDENTE
+D021801778,001,01,Masculino,23,Condutor,Ferida,moto,Branco,Ensino Médio,,SEGURANCA
+D021801783,001,01,Masculino,36,Condutor,Ferida,bicicleta,Branco,Superior,,ADVOGADO(A)
+D021801788,001,01,Feminino,29,Condutor,Ferida,moto,Branco,Ensino Médio,,TELEFONISTA
+D021801794,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Superior,,EMPRESARIO(A)
+D021801797,001,01,Feminino,32,Condutor,Ferida,moto,Branco,Sem Informação,,NAO INFORMADA
+D021801798,001,01,Masculino,40,Pedestre,Ferida,moto,Branco,Sem Informação,,SI
+D021801801,001,01,Masculino,30,Condutor,Ferida,moto,Branco,Sem Informação,,NAO INFORMADA
+D021801809,001,01,Masculino,27,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,MOTOBOY
+D021801810,001,01,Masculino,20,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021801811,001,02,Feminino,SI,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801811,002,02,Sem Informação,SI,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801812,001,01,Masculino,SI,Pedestre,Ferida,automóvel,Branco,Sem Informação,,si
+D021801816,001,01,Masculino,32,Condutor,Ferida,moto,Branco,Sem Informação,,INSTALADOR(A)
+D021801817,001,01,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801818,001,01,Masculino,18,Pedestre,Ferida,sem informação,Branco,Ensino Fundamental II,,ESTUDANTE
+D021801822,001,01,Feminino,41,Passageiro,Ferida,sem informação,Branco,Sem Informação,,AUXILIAR DE SERVIOS GERAIS
+D021801823,001,01,Masculino,56,Condutor,Ferida,caminhonete,Branco,Sem Informação,,COMERCIANTE
+D021801823,002,02,Feminino,61,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801824,001,01,Masculino,26,Condutor,Ferida,moto,Branco,Sem Informação,,COMERCIANTE
+D021801826,001,01,Masculino,54,Pedestre,Morta,ônibus,Branco,Sem Informação,11/02/2018,MORADOR DE RUA
+D021801829,001,01,Feminino,34,Condutor,Ferida,automóvel,Branco,Sem Informação,,COBRADOR(A)
+D021801830,001,01,Masculino,43,Pedestre,Morta,ônibus,Alcoolizado,Ensino Fundamental II,03/02/2018,AJUDANTE DE PEDREIRO
+D021801832,001,01,Masculino,37,Condutor,Ferida,moto,Branco,Sem Informação,,MOTOBOY
+D021801836,001,01,Masculino,54,Condutor,Ferida,moto,Branco,Sem Informação,,TRATADOR
+D021801837,001,01,Masculino,24,Condutor,Morta,moto,Branco,Sem Informação,05/02/2018,LIDER DE MANUTENCAO
+D021801846,001,01,Masculino,38,Condutor,Ferida,automóvel,Branco,Sem Informação,,AUTONOMO(A)
+D021801846,002,01,Masculino,19,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801846,003,01,Feminino,19,Passageiro,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021801846,004,01,Feminino,16,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801847,001,02,Masculino,20,Condutor,Ferida,moto,Branco,Sem Informação,,BALCONISTA
+D021801849,001,01,Masculino,45,Condutor,Ferida,automóvel,Suspeita de Álcool,Sem Informação,,ZELADOR(A)
+D021801851,001,02,Masculino,41,Condutor,Ferida,moto,Branco,Ensino Médio,,POLICIAL MILITAR
+D021801854,001,01,Masculino,11,Pedestre,Ferida,moto,Branco,Sem Informação,,SI
+D021801855,001,01,Feminino,71,Pedestre,Ferida,moto,Branco,Sem Informação,,APOSENTADO(A)
+D021801855,002,01,Masculino,SI,Condutor,Ferida,moto,Branco,Ensino Médio,,AJUDANTE GERAL
+D021801856,001,01,Feminino,32,Condutor,Ferida,automóvel,Branco,Superior,,ESTILISTA
+D021801859,001,01,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801861,001,02,Masculino,17,Condutor,Ferida,bicicleta,Branco,Sem Informação,,ESTUDANTE
+D021801865,001,01,Masculino,35,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTOBOY
+D021801872,001,01,Masculino,28,Condutor,Morta,automóvel,Branco,Ensino Fundamental I,26/02/2018,APOSENTADO
+D021801873,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021801875,001,01,Feminino,39,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801875,002,01,Masculino,27,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801878,001,01,Feminino,SI,Pedestre,Ferida,moto,Branco,Sem Informação,,SI
+D021801880,001,01,Masculino,23,Passageiro,Ferida,moto,Branco,Sem Informação,,POLICIAL MILITAR
+D021801881,001,01,Masculino,22,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801882,001,01,Masculino,24,Passageiro,Ferida,ônibus,Não Alcoolizado ,Sem Informação,,ATENDENTE
+D021801883,001,01,Feminino,78,Pedestre,Ferida,automóvel,Branco,Ensino Fundamental II,,APOSENTADO(A)
+D021801884,001,01,Feminino,65,Pedestre,Ferida,moto,Branco,Ensino Fundamental I,,APOSENTADO(A)
+D021801886,001,01,Masculino,27,Condutor,Ferida,moto,Branco,Superior,,RADIOLOGISTA
+D021801887,001,01,Masculino,28,Condutor,Ferida,moto,Branco,Sem Informação,,POLICIAL MILITAR
+D021801889,001,01,Masculino,51,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801892,001,01,Feminino,SI,Pedestre,Ferida,caminhonete,Branco,Sem Informação,,SI
+D021801896,001,01,Feminino,37,Pedestre,Ferida,moto,Branco,Sem Informação,,EMPREGADO DOMESTICO
+D021801896,002,01,Sem Informação,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801898,001,01,Masculino,32,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801899,001,02,Feminino,47,Condutor,Ferida,moto,Branco,Superior,,SERVIDOR PUBLICO ESTADUAL
+D021801900,001,01,Feminino,32,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021801900,002,01,Masculino,39,Condutor,Ferida,moto,Branco,Sem Informação,,VIGILANTE
+D021801905,001,01,Masculino,34,Condutor,Ferida,moto,Branco,Sem Informação,,TECNICO EM ENFERMAGEM
+D021801914,001,01,Masculino,59,Pedestre,Morta,automóvel,Branco,Ensino Fundamental I,10/02/2018,AUTONOMO(A)
+D021801915,001,01,Feminino,43,Passageiro,Ferida,micro-ônibus,Branco,Ensino Médio,,ARTESAO(A)
+D021801915,002,01,Feminino,62,Passageiro,Ferida,micro-ônibus,Branco,Ensino Fundamental I,,PRENDAS DOMESTICAS
+D021801920,001,01,Masculino,32,Condutor,Ferida,moto,Branco,Ensino Médio,,AJUDANTE
+D021801922,001,01,Masculino,25,Condutor,Morta,moto,Branco,Sem Informação,13/02/2018,GARCOM
+D021801923,001,02,Feminino,19,Sem Informação,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021801923,002,02,Feminino,44,Sem Informação,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801923,003,01,Masculino,19,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,FEIRANTE
+D021801924,001,01,Masculino,16,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021801930,001,01,Masculino,SI,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021801937,001,01,Masculino,56,Pedestre,Ferida,automóvel,Branco,Superior,,NAO INFORMADA
+D021801940,001,01,Feminino,34,Condutor,Ferida,automóvel,Branco,Superior,,FUNCIONPUBLICO ESTADUAL
+D021801940,002,02,Feminino,52,Passageiro,Ferida,automóvel,Branco,Superior,,FUNCIONPUBLICO ESTADUAL
+D021801944,001,01,Feminino,49,Pedestre,Ferida,automóvel,Suspeita de Álcool,Ensino Fundamental I,,AJUDANTE
+D021801947,001,01,Masculino,31,Condutor,Ferida,moto,Branco,Sem Informação,,MOTOBOY
+D021801951,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021801953,001,01,Feminino,04,Pedestre,Ferida,automóvel,Branco,Sem Informação,,CRIANCA
+D021801955,001,01,Masculino,36,Condutor,Ferida,moto,Branco,Ensino Médio,,MONTADOR DE MOVEIS MADEIRA
+D021801958,001,01,Feminino,21,Passageiro,Ferida,automóvel,Branco,Ensino Fundamental II,,AJUDANTE DE COZINHA
+D021801963,001,01,Masculino,13,Pedestre,Ferida,automóvel,Branco,Ensino Fundamental I,,ESTUDANTE
+D021801964,001,01,Masculino,35,Condutor,Ferida,moto,Branco,Sem Informação,,ACOUGUEIRO(A)
+D021801966,001,01,Masculino,54,Passageiro,Ferida,ônibus,Branco,Ensino Fundamental I,,COMERCIANTE
+D021801967,001,01,Masculino,25,Sem Informação,Ferida,sem informação,Branco,Ensino Fundamental II,,ACOUGUEIRO(A)
+D021801970,001,01,Feminino,64,Pedestre,Morta,ônibus,Branco,Ensino Fundamental I,18/02/2018,APOSENTADA
+D021801973,001,01,Masculino,28,Passageiro,Ferida,automóvel,Branco,Sem Informação,,AJUDANTE DE PEDREIRO
+D021801973,002,01,Masculino,SI,Passageiro,Ferida,automóvel,Branco,Sem Informação,,AJUDANTE DE PEDREIRO
+D021801973,003,01,Masculino,38,Passageiro,Ferida,automóvel,Branco,Sem Informação,,AJUDANTE DE PINTOR
+D021801973,004,01,Masculino,SI,Passageiro,Ferida,automóvel,Branco,Sem Informação,,AJUDANTE DE PEDREIRO
+D021801974,001,01,Masculino,37,Condutor,Ferida,bicicleta,Branco,Ensino Fundamental II,,AUTONOMO(A)
+D021801979,001,02,Masculino,28,Condutor,Ferida,automóvel,Branco,Sem Informação,,MOTOBOY
+D021801985,001,02,Masculino,21,Condutor,Ferida,caminhonete,Branco,Ensino Fundamental II,,MOTORISTA
+D021801985,002,01,Masculino,70,Condutor,Ferida,automóvel,Branco,Sem Informação,,APOSENTADO(A)
+D021801985,003,02,Feminino,18,Passageiro,Ferida,caminhonete,Branco,Sem Informação,,FEIRANTE
+D021801986,001,01,Masculino,56,Condutor,Ferida,moto,Branco,Sem Informação,,MOTOBOY
+D021801987,001,02,Masculino,45,Condutor,Ferida,caminhonete,Branco,Ensino Médio,,MOTORISTA
+D021801991,001,01,Masculino,48,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802005,001,02,Feminino,31,Condutor,Ferida,bicicleta,Branco,Superior,,BIOLOGO(A)
+D021802008,001,01,Masculino,27,Condutor,Ferida,moto,Branco,Ensino Médio,,VIGILANTE
+D021802013,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,COBRADOR(A)
+D021802013,002,01,Feminino,20,Passageiro,Ferida,moto,Branco,Ensino Médio,,OPERADOR DE CAIXA
+D021802015,001,01,Masculino,30,Pedestre,Ferida,automóvel,Branco,Ensino Fundamental II,,si
+D021802016,001,01,Masculino,40,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021802021,001,01,Feminino,29,Sem Informação,Ferida,ônibus,Branco,Sem Informação,,SI
+D021802021,002,01,Masculino,32,Condutor,Ferida,ônibus,Branco,Sem Informação,,COBRADOR(A)
+D021802022,001,01,Masculino,35,Condutor,Ferida,moto,Branco,Sem Informação,,ELETRICISTA
+D021802023,001,01,Masculino,49,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,PEDREIRO
+D021802033,001,01,Feminino,31,Condutor,Ferida,automóvel,Branco,Superior,,PROFESSOR(A)
+D021802034,001,01,Feminino,13,Pedestre,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021802037,001,01,Masculino,29,Pedestre,Ferida,caminhonete,Branco,Sem Informação,,AJUDANTE
+D021802041,001,01,Masculino,43,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802041,002,01,Masculino,18,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021802043,001,01,Masculino,49,Condutor,Morta,moto,Branco,Superior,14/02/2018,MOTOBOY
+D021802050,001,01,Masculino,46,Condutor,Ferida,automóvel,Branco,Sem Informação,,POLICIAL MILITAR
+D021802050,002,01,Feminino,45,Passageiro,Ferida,automóvel,Branco,Ensino Médio,,POLICIAL MILITAR
+D021802050,003,01,Masculino,40,Passageiro,Ferida,automóvel,Branco,Ensino Médio,,POLICIAL MILITAR
+D021802050,004,01,Masculino,45,Passageiro,Ferida,automóvel,Branco,Ensino Médio,,POLICIAL MILITAR
+D021802056,001,01,Masculino,39,Condutor,Ferida,moto,Branco,Sem Informação,,GRAFICO(A)
+D021802059,001,01,Feminino,30,Passageiro,Ferida,moto,Branco,Ensino Médio,,AUTONOMO(A)
+D021802061,001,01,Feminino,14,Pedestre,Ferida,caminhão,Branco,Sem Informação,,ESTUDANTE
+D021802063,001,02,Masculino,38,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,CHEFE
+D021802066,001,01,Masculino,25,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802069,001,01,Masculino,42,Condutor,Ferida,moto,Branco,Superior,,POLICIAL MILITAR
+D021802069,002,02,Masculino,31,Condutor,Ferida,moto,Branco,Ensino Médio,,POLICIAL MILITAR
+D021802076,001,02,Masculino,32,Condutor,Ferida,moto,Branco,Ensino Médio,,ELETRICISTA
+D021802079,001,01,Feminino,21,Pedestre,Ferida,automóvel,Branco,Sem Informação,,VENDEDOR(A)
+D021802080,001,01,Masculino,23,Condutor,Ferida,moto,Branco,Sem Informação,,AGENTE DE SEGURANCA
+D021802080,002,02,Masculino,18,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021802082,001,01,Masculino,46,Condutor,Ferida,bicicleta,Branco,Sem Informação,,SI
+D021802086,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Ensino Médio,,GERENTE ADMINISTRATIVO
+D021802087,001,01,Masculino,40,Condutor,Ferida,bicicleta,Branco,Superior,,FARMACEUTICO(A)
+D021802090,001,01,Masculino,50,Condutor,Ferida,moto,Branco,Ensino Médio,,ZELADOR(A)
+D021802091,001,01,Masculino,19,Condutor,Ferida,moto,Branco,Sem Informação,,VENDEDOR(A)
+D021802098,001,01,Masculino,31,Condutor,Ferida,moto,Branco,Ensino Fundamental I,,SERVENTE
+D021802100,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,AUXILIAR DE LABORATORIO
+D021802104,001,01,Feminino,45,Passageiro,Ferida,ônibus,Branco,Sem Informação,,SI
+D021802116,001,01,Masculino,34,Condutor,Ferida,moto,Branco,Sem Informação,,AJUDANTE DE MOTORISTA
+D021802119,001,01,Masculino,52,Pedestre,Ferida,sem informação,Branco,Sem Informação,,NAO INFORMADA
+D021802121,001,01,Feminino,68,Pedestre,Ferida,automóvel,Branco,Superior,,APOSENTADO(A)
+D021802127,001,01,Masculino,30,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802130,001,01,Masculino,32,Condutor,Ferida,moto,Branco,Sem Informação,,ENFERMEIRO(A)
+D021802134,001,02,Masculino,38,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,ENCARREGADO
+D021802152,001,01,Feminino,25,Passageiro,Ferida,moto,Branco,Ensino Médio,,ATENDENTE
+D021802152,002,01,Masculino,22,Condutor,Ferida,moto,Branco,Sem Informação,,AUXILIAR DE PRODUCAO
+D021802157,001,01,Masculino,19,Condutor,Ferida,moto,Branco,Sem Informação,,GARON(ETE)
+D021802161,001,02,Masculino,15,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021802169,001,02,Masculino,32,Condutor,Ferida,moto,Branco,Superior,,VENDEDOR(A)
+D021802169,002,02,Feminino,28,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021802171,001,01,Masculino,SI,Pedestre,Ferida,automóvel,Suspeita de Álcool,Sem Informação,,SI
+D021802173,001,01,Masculino,07,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021802184,001,01,Masculino,56,Condutor,Ferida,moto,Branco,Superior,,AUTONOMO(A)
+D021802185,001,01,Masculino,68,Passageiro,Ferida,automóvel,Branco,Superior,,APOSENTADO(A)
+D021802186,001,02,Feminino,33,Condutor,Ferida,moto,Branco,Ensino Médio,,AJUDANTE DE ELETRICISTA
+D021802188,001,01,Feminino,SI,Condutor,Ferida,automóvel,Branco,Sem Informação,,AUXILIAR DE ENFERMAGEN
+D021802192,001,01,Masculino,55,Condutor,Morta,moto,Branco,Sem Informação,25/02/2018,PORTEIRO(A)
+D021802198,001,01,Feminino,65,Passageiro,Ferida,ônibus,Branco,Superior,,APOSENTADO(A)
+D021802199,001,01,Masculino,53,Condutor,Ferida,moto,Branco,Superior,,BIOLOGO(A)
+D021802202,001,01,Masculino,41,Pedestre,Ferida,ônibus,Branco,Sem Informação,,MOTORISTA
+D021802206,001,01,Masculino,26,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802207,001,02,Masculino,33,Passageiro,Ferida,moto,Branco,Ensino Fundamental I,,AJUDANTE GERAL
+D021802216,001,01,Masculino,52,Passageiro,Ferida,caminhão,Branco,Sem Informação,,MOTORISTA
+D021802221,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Ensino Médio,,AUTONOMO(A)
+D021802223,001,02,Feminino,22,Condutor,Ferida,automóvel,Branco,Ensino Médio,,ESTUDANTE
+D021802233,001,01,Masculino,06,Pedestre,Ferida,automóvel,Branco,Analfabeto,,NAO INFORMADA
+D021802238,001,01,Masculino,19,Condutor,Ferida,bicicleta,Branco,Ensino Fundamental II,,DESEMPREGADO(A)
+D021802240,001,01,Masculino,30,Condutor,Ferida,bicicleta,Branco,Superior,,ENFERMEIRO (A)
+D021802242,001,01,Masculino,32,Condutor,Ferida,moto,Branco,Ensino Médio,,MANOBRISTA
+D021802244,001,01,Masculino,44,Condutor,Ferida,automóvel,Branco,Ensino Fundamental I,,PINTOR(A)
+D021802245,001,01,Masculino,20,Passageiro,Ferida,automóvel,Branco,Ensino Médio,,ESTUDANTE
+D021802245,002,01,Masculino,19,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021802245,003,01,Masculino,SI,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021802246,001,01,Feminino,68,Condutor,Ferida,automóvel,Branco,Superior,,PEDAGOGO(A)
+D021802247,001,01,Masculino,40,Condutor,Ferida,moto,Branco,Ensino Médio,,FISCAL
+D021802251,001,01,Masculino,32,Passageiro,Ferida,automóvel,Branco,Ensino Médio,,OUTROS
+D021802251,002,01,Masculino,30,Passageiro,Ferida,automóvel,Branco,Ensino Médio,,OUTROS
+D021802252,001,01,Feminino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,PEDREIRO
+D021802256,001,02,Masculino,27,Condutor,Ferida,moto,Branco,Superior,,POLICIAL MILITAR
+D021802256,002,01,Masculino,34,Condutor,Ferida,moto,Branco,Sem Informação,,AJUDANTE DE MOTORISTA
+D021802257,001,01,Feminino,03,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021802263,001,01,Masculino,SI,Pedestre,Ferida,moto,Branco,Sem Informação,,SI
+D021802263,002,01,Masculino,21,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,SI
+D021802270,001,01,Masculino,33,Condutor,Ferida,moto,Branco,Sem Informação,,PORTEIRO(A)
+D021802283,001,02,Masculino,55,Condutor,Ferida,moto,Branco,Superior,,COMERCIANTE
+D021802284,001,01,Feminino,71,Pedestre,Ferida,ônibus,Branco,Sem Informação,,APOSENTADO(A)
+D021802285,001,01,Masculino,23,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802288,001,01,Masculino,43,Condutor,Morta,moto,Branco,Sem Informação,16/02/2018,GRAFICO SENIOR
+D021802292,001,01,Masculino,28,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTOBOY
+D021802294,001,01,Masculino,23,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021802295,001,01,Masculino,40,Condutor,Ferida,moto,Branco,Ensino Médio,,VIGILANTE
+D021802298,001,01,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802299,001,01,Feminino,75,Pedestre,Morta,ônibus,Branco,Superior,26/02/2018,APOSENTADA
+D021802304,001,01,Masculino,49,Condutor,Ferida,automóvel,Branco,Ensino Fundamental II,,MECANICO DE REFRIGERACAO
+D021802308,001,01,Feminino,26,Passageiro,Ferida,ônibus,Branco,Sem Informação,,SI
+D021802310,001,01,Masculino,22,Condutor,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021802315,001,02,Feminino,12,Passageiro,Ferida,jipe,Branco,Sem Informação,,SI
+D021802315,002,02,Masculino,09,Passageiro,Ferida,jipe,Branco,Sem Informação,,SI
+D021802319,001,01,Feminino,46,Pedestre,Ferida,moto,Branco,Sem Informação,,SI
+D021802320,001,01,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802323,001,01,Masculino,45,Pedestre,Morta,caminhonete,Branco,Ensino Médio,16/02/2018,PEDREIRO
+D021802326,001,01,Feminino,61,Pedestre,Ferida,moto,Branco,Ensino Fundamental II,,TRABALHADOR RURAL
+D021802328,001,01,Feminino,05,Pedestre,Ferida,caminhonete,Branco,Analfabeto,,SI
+D021802330,001,01,Masculino,38,Condutor,Ferida,moto,Branco,Superior,,NAO INFORMADA
+D021802331,001,01,Masculino,41,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802334,001,01,Feminino,58,Pedestre,Ferida,automóvel,Branco,Sem Informação,,AUTONOMO(A)
+D021802336,001,01,Masculino,27,Condutor,Ferida,moto,Branco,Ensino Médio,,MANOBRISTA
+D021802342,001,01,Masculino,42,Condutor,Ferida,moto,Branco,Sem Informação,,GRAFICO(A)
+D021802347,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,BALCONISTA
+D021802356,001,01,Masculino,27,Pedestre,Ferida,moto,Branco,Superior,,SERVIDOR PUBLICO MUNICIPAL
+D021802365,001,01,Masculino,41,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTORISTA
+D021802368,001,01,Masculino,34,Condutor,Ferida,moto,Branco,Sem Informação,,GARON(ETE)
+D021802370,001,01,Masculino,20,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,ENTREGADOR(A)
+D021802370,002,01,Feminino,30,Passageiro,Ferida,moto,Branco,Superior,,NAO INFORMADA
+D021802374,001,01,Masculino,38,Condutor,Ferida,moto,Branco,Sem Informação,,TECNICO EM TELECOMUNICACOES
+D021802381,001,01,Feminino,29,Passageiro,Ferida,moto,Branco,Superior,,PROFESSOR(A)
+D021802383,001,02,Masculino,35,Condutor,Ferida,moto,Branco,Ensino Médio,,OPERADOR(A)
+D021802387,001,01,Masculino,26,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802390,001,01,Masculino,27,Condutor,Ferida,moto,Branco,Sem Informação,,EMPACOTADOR
+D021802390,002,01,Feminino,31,Passageiro,Ferida,moto,Branco,Sem Informação,,ESTUDANTE
+D021802391,001,02,Masculino,53,Condutor,Ferida,moto,Branco,Superior,,AGENTE PUBLICITARIO
+D021802393,001,01,Masculino,30,Condutor,Ferida,moto,Branco,Ensino Médio,,ELETRICISTA
+D021802395,001,01,Masculino,71,Pedestre,Ferida,moto,Branco,Sem Informação,,si
+D021802399,001,01,Feminino,03,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021802403,001,02,Masculino,47,Condutor,Ferida,moto,Branco,Ensino Médio,,ELETRICISTA
+D021802410,001,01,Masculino,42,Condutor,Ferida,moto,Branco,Ensino Fundamental I,,PEDREIRO
+D021802412,001,01,Masculino,21,Condutor,Ferida,moto,Branco,Ensino Médio,,MECANICO(A)
+D021802416,001,01,Masculino,27,Condutor,Ferida,moto,Branco,Sem Informação,,NAO INFORMADA
+D021802417,001,01,Feminino,89,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021802418,001,01,Masculino,20,Condutor,Ferida,moto,Branco,Ensino Médio,,DESEMPREGADO
+D021802421,001,01,Masculino,SI,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021802427,001,02,Masculino,SI,Passageiro,Ferida,ônibus,Branco,Sem Informação,,SI
+D021802441,001,01,Masculino,17,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802442,001,02,Masculino,59,Condutor,Ferida,moto,Branco,Sem Informação,,VENDEDOR(A)
+D021802443,001,01,Feminino,34,Pedestre,Ferida,automóvel,Branco,Sem Informação,,RECEPCIONISTA
+D021802444,001,01,Masculino,64,Condutor,Ferida,bicicleta,Branco,Ensino Fundamental II,,MOTORISTA
+D021802445,001,01,Masculino,28,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802448,001,01,Masculino,81,Pedestre,Morta,ônibus,Branco,Ensino Fundamental I,14/02/2018,APOSENTADO(A)
+D021802450,001,01,Masculino,46,Condutor,Ferida,moto,Branco,Superior,,FUNILEIRO(A)
+D021802453,001,02,Masculino,18,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802454,001,01,Masculino,18,Condutor,Ferida,moto,Branco,Ensino Médio,,ESTUDANTE
+D021802459,001,01,Masculino,18,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,AJUDANTE
+D021802464,001,01,Masculino,20,Condutor,Ferida,moto,Alcoolizado,Ensino Fundamental II,,AJUDANTE GERAL
+D021802465,001,01,Feminino,25,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021802470,001,01,Feminino,64,Passageiro,Ferida,caminhonete,Branco,Sem Informação,,SI
+D021802470,002,01,Masculino,67,Condutor,Ferida,caminhonete,Branco,Sem Informação,,SI
+D021802471,001,01,Masculino,43,Condutor,Ferida,moto,Branco,Sem Informação,,AGENTE ADMINISTRATIVO
+D021802474,001,01,Feminino,28,Pedestre,Ferida,ônibus,Branco,Sem Informação,,SI
+D021802478,001,01,Feminino,46,Condutor,Ferida,automóvel,Branco,Superior,,SI
+D021802484,001,01,Masculino,54,Pedestre,Ferida,automóvel,Branco,Ensino Fundamental II,,FUNILEIRO(A)
+D021802489,001,01,Masculino,37,Condutor,Ferida,moto,Branco,Sem Informação,,GERENTE
+D021802494,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Ensino Médio,,AJUDANTE DE COZINHA
+D021802494,002,01,Masculino,31,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021802495,001,01,Masculino,50,Condutor,Ferida,moto,Branco,Ensino Médio,,DESEMPREGADO
+D021802496,001,01,Masculino,16,Passageiro,Ferida,automóvel,Branco,Sem Informação,,DESEMPREGADO
+D021802500,001,01,Masculino,29,Pedestre,Ferida,moto,Branco,Sem Informação,,AJUDANTE DE COZINHA
+D021802505,001,01,Feminino,37,Passageiro,Ferida,automóvel,Branco,Sem Informação,,ATENDENTE
+D021802507,001,02,Masculino,36,Condutor,Ferida,bicicleta,Branco,Sem Informação,,NAO INFORMADA
+D021802509,001,01,Masculino,13,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021802510,001,02,Masculino,43,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802513,001,01,Masculino,20,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802516,001,01,Masculino,23,Condutor,Ferida,moto,Branco,Ensino Médio,,TECNICO(A)
+D021802519,001,01,Masculino,28,Condutor,Ferida,moto,Branco,Sem Informação,,REPOSITOR(A)
+D021802529,001,01,Masculino,44,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,AUXILIAR TECNICO INFORMATICA
+D021802529,002,01,Masculino,31,Passageiro,Ferida,moto,Branco,Ensino Fundamental II,,SI
+D021802530,001,01,Masculino,41,Pedestre,Ferida,caminhão,Branco,Ensino Médio,,CABISTA
+D021802531,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Ensino Médio,,MANOBRISTA
+D021802532,001,01,Feminino,21,Condutor,Ferida,bicicleta,Branco,Sem Informação,,SI
+D021802532,002,01,Feminino,05,Passageiro,Ferida,bicicleta,Branco,Sem Informação,,CRIANCA
+D021802542,001,01,Masculino,21,Condutor,Ferida,automóvel,Branco,Sem Informação,,AUXILIAR DE MECANICO
+D021802542,002,01,Masculino,24,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021802545,001,01,Masculino,32,Condutor,Ferida,automóvel,Alcoolizado,Sem Informação,,SI
+D021802550,001,01,Feminino,44,Condutor,Ferida,moto,Branco,Ensino Médio,,POLICIAL MILITAR
+D021802559,001,01,Masculino,41,Condutor,Ferida,moto,Branco,Ensino Médio,,BOMBEIRO(A)
+D021802563,001,01,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802566,001,01,Masculino,02,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021802566,002,01,Feminino,36,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021802567,001,01,Feminino,77,Pedestre,Ferida,moto,Branco,Ensino Fundamental II,,APOSENTADO(A)
+D021802572,001,01,Masculino,21,Passageiro,Morta,moto,Branco,Ensino Médio,14/02/2018,AJ GERAL
+D021802572,002,01,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802573,001,01,Masculino,38,Pedestre,Ferida,automóvel,Branco,Sem Informação,,SI
+D021802580,001,01,Masculino,36,Condutor,Morta,automóvel,Branco,Sem Informação,05/02/2018,VENDEDOR
+D021802581,001,01,Feminino,35,Passageiro,Ferida,moto,Branco,Ensino Médio,,OUTROS
+D021802581,002,01,Masculino,52,Condutor,Ferida,moto,Branco,Ensino Fundamental I,,AUTONOMO(A)
+D021802582,001,01,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802583,001,01,Masculino,31,Condutor,Ferida,automóvel,Branco,Ensino Médio,,POLICIAL MILITAR
+D021802590,001,01,Masculino,34,Pedestre,Ferida,moto,Branco,Sem Informação,,DESEMPREGADO(A)
+D021802592,001,01,Masculino,33,Condutor,Ferida,automóvel,Branco,Sem Informação,,POLICIAL MILITAR
+D021802594,001,01,Masculino,53,Pedestre,Ferida,automóvel,Branco,Ensino Médio,,EMPRESARIO(A)
+D021802598,001,01,Masculino,35,Condutor,Ferida,moto,Branco,Sem Informação,,VIGILANTE
+D021802600,001,01,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802601,001,01,Masculino,20,Condutor,Ferida,moto,Branco,Sem Informação,,AJUDANTE DE ELETRICISTA
+D021802605,001,01,Masculino,31,Condutor,Ferida,moto,Branco,Ensino Médio,,POLICIAL MILITAR
+D021802606,001,02,Masculino,24,Condutor,Ferida,moto,Branco,Ensino Médio,,AJUDANTE GERAL
+D021802609,001,01,Feminino,46,Pedestre,Ferida,moto,Branco,Sem Informação,,EMPREGADA DOMESTICO
+D021802609,002,01,Masculino,36,Condutor,Ferida,moto,Branco,Sem Informação,,TECNICO(A) EM INFORMATICA
+D021802614,001,01,Feminino,26,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802618,001,02,Masculino,20,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802621,001,01,Feminino,31,Passageiro,Ferida,moto,Branco,Ensino Médio,,AUXILIAR ADMINISTRATIVO
+D021802621,002,01,Masculino,32,Condutor,Ferida,moto,Branco,Sem Informação,,AUXILIAR ADMINISTRATIVO
+D021802625,001,01,Feminino,60,Pedestre,Ferida,moto,Branco,Sem Informação,,SI
+D021802628,001,02,Masculino,33,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802634,001,01,Feminino,26,Pedestre,Ferida,automóvel,Branco,Sem Informação,,NAO INFORMADA
+D021802637,001,01,Masculino,33,Condutor,Ferida,moto,Branco,Ensino Médio,,PORTEIRO(A)
+D021802638,001,02,Masculino,34,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021802638,002,02,Feminino,24,Passageiro,Ferida,automóvel,Branco,Sem Informação,,SI
+D021802638,003,01,Masculino,34,Condutor,Ferida,automóvel,Branco,Sem Informação,,SI
+D021802644,001,02,Feminino,47,Condutor,Ferida,moto,Branco,Superior,,SI
+D021802658,001,01,Masculino,31,Condutor,Ferida,moto,Branco,Sem Informação,,MOTOBOY
+D021802661,001,02,Masculino,40,Condutor,Ferida,bicicleta,Branco,Sem Informação,,VENDEDOR(A)
+D021802662,001,01,Masculino,51,Condutor,Ferida,moto,Branco,Ensino Médio,,si
+D021802664,001,01,Feminino,17,Passageiro,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021802671,001,01,Masculino,80,Pedestre,Ferida,automóvel,Branco,Sem Informação,,APOSENTADO(A)
+D021802680,001,01,Masculino,21,Condutor,Ferida,moto,Branco,Ensino Médio,,VENDEDOR(A)
+D021802683,001,01,Masculino,35,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802683,002,02,Masculino,44,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802687,001,01,Masculino,26,Condutor,Ferida,moto,Branco,Ensino Médio,,AUTONOMO(A)
+D021802688,001,01,Masculino,52,Condutor,Ferida,bicicleta,Branco,Sem Informação,,CABELEIREIRO(A)
+D021802694,001,01,Masculino,11,Pedestre,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021802697,001,01,Feminino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,COLETOR
+D021802701,001,01,Masculino,19,Condutor,Ferida,moto,Branco,Sem Informação,,BARBEIRO
+D021802704,001,01,Feminino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,MOTORISTA
+D021802708,001,01,Masculino,38,Condutor,Ferida,moto,Branco,Ensino Médio,,MONTADOR DE MOVEIS MADEIRA
+D021802715,001,01,Feminino,09,Pedestre,Ferida,ônibus,Branco,Sem Informação,,SI
+D021802716,001,01,Masculino,20,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTORISTA
+D021802722,001,01,Masculino,39,Pedestre,Ferida,ônibus,Branco,Sem Informação,,ACOUGUEIRO(A)
+D021802723,001,01,Feminino,27,Condutor,Ferida,moto,Branco,Ensino Médio,,RECEPCIONISTA
+D021802724,001,01,Masculino,45,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802725,001,01,Masculino,56,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802736,001,01,Masculino,SI,Pedestre,Ferida,sem informação,Branco,Sem Informação,,SI
+D021802738,001,01,Masculino,50,Condutor,Ferida,moto,Branco,Superior,,PROFESSOR(A)
+D021802743,001,01,Feminino,57,Passageiro,Ferida,ônibus,Branco,Sem Informação,,SI
+D021802748,001,01,Masculino,09,Passageiro,Ferida,automóvel,Branco,Ensino Fundamental I,,NAO INFORMADA
+D021802750,001,01,Feminino,50,Pedestre,Ferida,ônibus,Branco,Sem Informação,,VENDEDOR(A) AMBULANTE
+D021802752,001,01,Feminino,34,Condutor,Ferida,moto,Branco,Ensino Médio,,TECNICO EM ENFERMAGEM
+D021802755,001,01,Masculino,44,Condutor,Ferida,moto,Branco,Sem Informação,,si
+D021802758,001,01,Feminino,23,Passageiro,Ferida,automóvel,Branco,Sem Informação,,NAO INFORMADA
+D021802758,002,01,Masculino,22,Condutor,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021802759,001,01,Feminino,57,Condutor,Ferida,ônibus,Branco,Sem Informação,,MOTORISTA DE ONIBUS URBANO
+D021802759,002,01,Feminino,52,Passageiro,Ferida,ônibus,Branco,Sem Informação,,AUXILIAR DE LIMPEZA
+D021802759,003,01,Feminino,77,Passageiro,Ferida,ônibus,Branco,Sem Informação,,APOSENTADO(A)
+D021802759,004,01,Feminino,55,Passageiro,Ferida,ônibus,Branco,Sem Informação,,BABA
+D021802759,005,01,Feminino,24,Passageiro,Ferida,ônibus,Branco,Sem Informação,,ESTUDANTE
+D021802759,006,01,Masculino,28,Passageiro,Ferida,ônibus,Branco,Superior,,ANALISTA DE SISTEMAS
+D021802759,007,01,Feminino,42,Passageiro,Ferida,ônibus,Branco,Sem Informação,,BABA
+D021802759,008,01,Masculino,47,Passageiro,Ferida,ônibus,Branco,Sem Informação,,AUTONOMO(A)
+D021802759,009,01,Feminino,32,Passageiro,Ferida,ônibus,Branco,Sem Informação,,SI
+D021802759,010,01,Feminino,60,Passageiro,Ferida,ônibus,Branco,Sem Informação,,SI
+D021802759,011,01,Feminino,57,Passageiro,Ferida,ônibus,Branco,Sem Informação,,SI
+D021802759,012,01,Feminino,37,Passageiro,Ferida,ônibus,Branco,Sem Informação,,EMPREGADO DOMESTICO
+D021802759,013,01,Feminino,38,Passageiro,Ferida,ônibus,Branco,Sem Informação,,COSTUREIRO(A)
+D021802759,014,01,Feminino,30,Passageiro,Ferida,ônibus,Branco,Sem Informação,,COBRADOR(A)
+D021802759,015,01,Feminino,57,Passageiro,Ferida,ônibus,Branco,Sem Informação,,COZINHEIRO(A)
+D021802761,001,01,Masculino,40,Condutor,Ferida,moto,Branco,Sem Informação,,CONSULTOR(A)
+D021802765,001,01,Masculino,38,Condutor,Ferida,moto,Branco,Sem Informação,,GERENTE
+D021802768,001,01,Masculino,SI,Pedestre,Ferida,van,Branco,Sem Informação,,SI
+D021802777,001,02,Masculino,37,Condutor,Ferida,ônibus,Branco,Sem Informação,,MOTORISTA DE ONIBUS URBANO
+D021802777,002,01,Masculino,27,Pedestre,Ferida,ônibus,Branco,Sem Informação,,TECNICO(A) EM INFORMATICA
+D021802777,003,01,Feminino,43,Pedestre,Ferida,ônibus,Branco,Sem Informação,,PRENDAS DOMESTICAS
+D021802777,004,01,Feminino,56,Pedestre,Ferida,ônibus,Branco,Sem Informação,,SI
+D021802786,001,01,Feminino,70,Pedestre,Ferida,moto,Branco,Ensino Fundamental I,,SI
+D021802788,001,02,Masculino,33,Condutor,Ferida,bicicleta,Branco,Sem Informação,,SI
+D021802791,001,01,Masculino,60,Condutor,Ferida,caminhão,Branco,Ensino Fundamental I,,MOTORISTA
+D021802793,001,01,Feminino,74,Pedestre,Morta,ônibus,Branco,Ensino Médio,05/03/2018,APOSENTADA
+D021802798,001,02,Masculino,23,Condutor,Ferida,moto,Branco,Sem Informação,,PORTEIRO(A)
+D021802801,001,01,Feminino,47,Pedestre,Ferida,automóvel,Branco,Ensino Médio,,SI
+D021802805,001,01,Feminino,53,Pedestre,Ferida,sem informação,Branco,Ensino Médio,,CONTROLADOR(A) DE QUALIDADE
+D021802806,001,02,Masculino,39,Condutor,Ferida,moto,Branco,Sem Informação,,COMERCIANTE
+D021802809,001,01,Masculino,47,Pedestre,Morta,moto,Branco,Ensino Fundamental I,28/02/2018,AUTONOMO(A)
+D021802810,001,02,Masculino,43,Condutor,Ferida,moto,Branco,Sem Informação,,POLICIAL MILITAR
+D021802814,001,01,Masculino,33,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,PROMOTOR DE VENDAS
+D021802817,001,01,Masculino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802818,001,01,Masculino,35,Condutor,Ferida,moto,Branco,Ensino Médio,,MOTOBOY
+D021802819,001,01,Feminino,25,Pedestre,Ferida,ônibus,Branco,Superior,,ESTILISTA
+D021802821,001,01,Masculino,18,Pedestre,Morta,automóvel,Branco,Ensino Médio,17/02/2018,DESEMPREGADO
+D021802823,001,02,Feminino,21,Condutor,Ferida,automóvel,Branco,Superior,,PROFESSOR(A)
+D021802826,001,01,Masculino,45,Pedestre,Ferida,automóvel,Branco,Ensino Médio,,APOSENTADO(A)
+D021802828,001,01,Masculino,62,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802832,001,01,Masculino,20,Condutor,Ferida,moto,Branco,Ensino Fundamental II,,AUTONOMO(A)
+D021802833,001,01,Masculino,33,Pedestre,Ferida,ônibus,Branco,Sem Informação,,si
+D021802834,001,01,Feminino,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SOCIOLOGO(A)
+D021802838,001,02,Feminino,22,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802840,001,01,Feminino,37,Passageiro,Ferida,automóvel,Branco,Superior,,FISIOTERAPEUTA
+D021802842,001,01,Masculino,37,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802843,001,01,Feminino,28,Condutor,Ferida,moto,Branco,Ensino Médio,,AUXILIAR ADMINISTRATIVO
+D021802844,001,02,Masculino,22,Condutor,Ferida,moto,Branco,Ensino Médio,,ESTUDANTE
+D021802847,001,02,Masculino,42,Condutor,Ferida,moto,Branco,Sem Informação,,PORTEIRO(A)
+D021802853,001,01,Masculino,25,Condutor,Ferida,moto,Branco,Ensino Médio,,MECANICO(A)
+D021802856,001,01,Masculino,52,Pedestre,Ferida,ônibus,Branco,Sem Informação,,SI
+D021802858,001,01,Feminino,21,Condutor,Ferida,moto,Branco,Ensino Médio,,ANALISTA
+D021802859,001,01,Feminino,70,Passageiro,Ferida,automóvel,Branco,Ensino Fundamental II,,PRENDAS DOMESTICAS
+D021802862,001,01,Feminino,13,Passageiro,Ferida,automóvel,Branco,Ensino Fundamental I,,ESTUDANTE
+D021802870,001,01,Sem Informação,SI,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802870,002,01,Sem Informação,SI,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021802875,001,01,Masculino,52,Condutor,Ferida,moto,Branco,Sem Informação,,AJUDANTE DE PEDREIRO
+D021802877,001,01,Masculino,25,Condutor,Morta,moto,Branco,Sem Informação,09/02/2018,MOTOBOY
+D021802885,001,01,Feminino,55,Passageiro,Ferida,ônibus,Branco,Ensino Fundamental II,,VENDEDOR(A)
+D021802885,002,01,Feminino,SI,Passageiro,Ferida,ônibus,Branco,Sem Informação,,SI
+D021802885,003,01,Feminino,SI,Passageiro,Ferida,ônibus,Branco,Sem Informação,,SI
+D021802886,001,01,Masculino,47,Condutor,Ferida,moto,Branco,Ensino Fundamental I,,VIGILANTE
+D021802889,001,01,Masculino,29,Condutor,Ferida,moto,Branco,Ensino Médio,,CONSULTOR(A)
+D021802894,001,01,Masculino,38,Condutor,Ferida,moto,Branco,Sem Informação,,MOTOBOY
+D021802913,001,01,Feminino,27,Condutor,Ferida,moto,Branco,Superior,,FUNCIONPUBLICO MUNICIPAL
+D021802918,001,01,Masculino,35,Passageiro,Ferida,automóvel,Branco,Sem Informação,,DESEMPREGADO
+D021802928,001,01,Feminino,44,Condutor,Ferida,moto,Branco,Sem Informação,,AUTONOMO(A)
+D021802928,002,01,Masculino,22,Passageiro,Ferida,moto,Branco,Sem Informação,,SI
+D021802929,001,01,Feminino,47,Condutor,Ferida,automóvel,Branco,Superior,,ADMINISTRADOR DE EMPRESAS
+D021802933,001,01,Masculino,37,Condutor,Ferida,moto,Branco,Superior,,NAO INFORMADA
+D021802939,001,01,Masculino,34,Condutor,Ferida,moto,Branco,Sem Informação,,SI
+D021802946,001,01,Masculino,22,Condutor,Ferida,moto,Branco,Ensino Médio,,ESTOQUISTA
+D021802949,001,01,Feminino,42,Passageiro,Ferida,moto,Branco,Superior,,PROFESSOR(A)
+D021802955,001,01,Feminino,63,Pedestre,Morta,caminhonete,Branco,Superior,07/03/2018,PROFESSOR(A)
+D021802959,001,01,Masculino,31,Condutor,Ferida,moto,Branco,Sem Informação,,NAO INFORMADA
+D021802964,001,02,Feminino,50,Passageiro,Ferida,automóvel,Branco,Sem Informação,,COSTUREIRO(A)
+D021802964,002,01,Feminino,26,Passageiro,Ferida,automóvel,Branco,Sem Informação,,COSTUREIRO(A)
+D021802964,003,01,Feminino,17,Passageiro,Ferida,automóvel,Branco,Sem Informação,,ESTUDANTE
+D021802964,004,01,Masculino,28,Condutor,Ferida,automóvel,Branco,Sem Informação,,COMERCIANTE
+D021802965,001,01,Feminino,36,Condutor,Ferida,moto,Branco,Superior,,ASSISTENTE ADMINISTRATIVO
+D021802970,001,01,Feminino,26,Pedestre,Ferida,moto,Branco,Sem Informação,,SI
+D021802972,001,02,Masculino,25,Condutor,Ferida,moto,Branco,Superior,,BANCARIO(A)
+D021802973,001,01,Masculino,24,Condutor,Ferida,moto,Branco,Superior,,COMERCIANTE
+D021802973,002,01,Feminino,20,Passageiro,Ferida,moto,Branco,Sem Informação,,AUTONOMO(A)
+D021802974,001,01,Masculino,42,Pedestre,Ferida,caminhonete,Branco,Ensino Médio,,GUARDA MUNICIPAL
+D021802975,001,01,Masculino,58,Pedestre,Morta,automóvel,Branco,Ensino Médio,27/02/2018,ELETRICISTA
+D021802976,001,01,Feminino,55,Pedestre,Morta,moto,Branco,Ensino Fundamental I,13/03/2018,DIARISTA
+D021802976,002,01,Masculino,20,Condutor,Ferida,moto,Branco,Superior,,JORNALISTA

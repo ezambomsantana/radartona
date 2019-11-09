@@ -1,0 +1,1639 @@
+id_acidente,id_veiculo,TipoVeiculo,SexoCondutor,idade_condutor,CategoriaHabilitacao,UsaCintoSeguranca,EstadoAlcoolizacao,escolaridade
+D021800002,01,moto,Masculino,37,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800002,02,caminhão,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800003,01,automóvel,Masculino,32,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800003,02,moto,Masculino,44,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021800007,01,sem informação,Masculino,28,Sem Informação,Sem Informação,Branco,Superior
+D021800010,01,moto,Masculino,34,Sem Informação,Sem Informação,Branco,Superior
+D021800010,02,caminhonete,Masculino,45,Sem Informação,Sem Informação,Branco,Superior
+D021800011,01,caminhão,Masculino,42,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800012,01,moto,Masculino,42,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800012,02,automóvel,Masculino,44,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800014,01,moto,Masculino,22,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800014,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800014,03,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800015,01,moto,Masculino,28,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800015,02,automóvel,Masculino,56,Sem Informação,Sem Informação,Branco,Superior
+D021800017,01,moto,Masculino,65,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800019,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800019,02,moto,Masculino,38,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800021,01,automóvel,Masculino,54,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800022,01,automóvel,Masculino,61,Habilitado,Sem Informação,Branco,Sem Informação
+D021800022,02,bicicleta,Masculino,74,Não Exigível,Sem Informação,Branco,Sem Informação
+D021800026,01,caminhonete,Masculino,23,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800026,02,automóvel,Masculino,57,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800028,01,moto,Masculino,17,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800028,02,caminhonete,Masculino,31,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800029,01,automóvel,Masculino,53,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800029,02,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Superior
+D021800030,01,automóvel,Masculino,63,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800030,02,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800038,01,automóvel,Feminino,36,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800039,01,caminhonete,Masculino,36,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800040,01,ônibus,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800044,01,ônibus,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800052,01,moto,Masculino,34,Sem Informação,Sem Informação,Branco,Superior
+D021800052,02,automóvel,Masculino,25,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800060,01,moto,Masculino,40,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800060,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800061,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800062,01,automóvel,Masculino,28,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800062,02,moto,Masculino,57,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800063,01,moto,Masculino,17,Inabilitado,Sem Informação,Branco,Ensino Médio
+D021800067,01,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800067,02,automóvel,Feminino,36,Sem Informação,Sem Informação,Branco,Superior
+D021800070,01,moto,Masculino,45,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800070,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800071,01,automóvel,Masculino,48,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800071,02,automóvel,Masculino,55,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800074,01,moto,Masculino,29,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800080,01,automóvel,Masculino,38,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800080,02,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800081,01,moto,Masculino,35,Inabilitado,Sem Informação,Suspeita de Álcool,Sem Informação
+D021800081,02,automóvel,Feminino,54,Sem Informação,Sem Informação,Branco,Superior
+D021800084,01,moto,Feminino,SI,Sem Informação,Sem Informação,Branco,Superior
+D021800084,02,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800093,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800097,01,moto,Masculino,32,Sem Informação,Sem Informação,Branco,Superior
+D021800097,02,automóvel,Feminino,83,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800097,03,automóvel,Feminino,37,Sem Informação,Sem Informação,Branco,Superior
+D021800098,01,caminhonete,Masculino,27,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800099,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800101,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800103,01,moto,Masculino,28,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800103,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800106,01,moto,Masculino,26,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800108,01,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800108,02,automóvel,Masculino,65,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800110,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800111,01,moto,Masculino,25,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800112,01,moto,Masculino,23,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800113,01,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800113,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800114,01,moto,Masculino,25,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800117,01,automóvel,Masculino,41,Inabilitado,Sem Informação,Branco,Analfabeto
+D021800117,02,moto,Masculino,25,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800118,01,automóvel,Masculino,38,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800118,02,automóvel,Masculino,39,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800118,03,ônibus,Masculino,49,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800119,01,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800119,02,automóvel,Masculino,49,Sem Informação,Sem Informação,Branco,Superior
+D021800120,01,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800120,02,automóvel,Masculino,27,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800121,01,moto,Masculino,76,Sem Informação,Sem Informação,Branco,Superior
+D021800121,02,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800125,01,moto,Feminino,33,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800125,02,automóvel,Feminino,35,Sem Informação,Sem Informação,Branco,Superior
+D021800126,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800130,01,automóvel,Masculino,50,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800132,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800132,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800135,01,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800135,02,sem informação,Masculino,51,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800140,01,moto,Masculino,57,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021800140,02,automóvel,Masculino,47,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021800143,01,automóvel,Masculino,59,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800143,02,moto,Masculino,39,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800146,01,automóvel,Feminino,36,Habilitado,Sem Informação,Branco,Superior
+D021800146,02,bicicleta,Masculino,13,Não Exigível,Sem Informação,Branco,Sem Informação
+D021800148,01,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800148,02,automóvel,Feminino,32,Inabilitado,Sem Informação,Não Alcoolizado ,Ensino Médio
+D021800154,01,moto,Masculino,43,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800154,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800157,01,caminhão,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800157,02,bicicleta,Masculino,41,Não Exigível,Sem Informação,Branco,Sem Informação
+D021800159,01,automóvel,Masculino,30,Inabilitado,Sem Informação,Branco,Ensino Médio
+D021800160,01,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800160,02,ônibus,Masculino,71,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800162,01,automóvel,Feminino,24,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800165,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800168,01,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800168,02,automóvel,Feminino,45,Sem Informação,Sem Informação,Branco,Superior
+D021800170,01,automóvel,Masculino,26,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800170,02,bicicleta,Masculino,SI,Não Exigível,Sem Informação,Branco,Sem Informação
+D021800171,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800171,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800174,01,automóvel,Masculino,54,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800177,01,moto,Masculino,40,Sem Informação,Sem Informação,Branco,Superior
+D021800177,02,automóvel,Masculino,65,Sem Informação,Sem Informação,Branco,Superior
+D021800178,01,moto,Masculino,31,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800178,02,caminhonete,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800179,01,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800181,01,moto,Masculino,27,Sem Informação,Sem Informação,Branco,Superior
+D021800181,02,automóvel,Masculino,50,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800182,01,automóvel,Masculino,51,Sem Informação,Sem Informação,Branco,Superior
+D021800182,02,bicicleta,Masculino,SI,Não Exigível,Sem Informação,Branco,Sem Informação
+D021800183,01,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800183,02,automóvel,Masculino,32,Sem Informação,Sem Informação,Branco,Superior
+D021800185,01,moto,Masculino,31,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800185,02,automóvel,Masculino,18,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800188,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800188,02,micro-ônibus,Masculino,50,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800191,01,automóvel,Masculino,40,Sem Informação,Sem Informação,Suspeita de Álcool,Sem Informação
+D021800192,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800192,02,moto,Masculino,26,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800193,01,moto,Masculino,20,Habilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800193,02,automóvel,Masculino,21,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800195,01,moto,Masculino,30,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800195,02,automóvel,Masculino,58,Sem Informação,Sem Informação,Branco,Superior
+D021800197,01,automóvel,Masculino,25,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800197,02,automóvel,Masculino,35,Inabilitado,Sem Informação,Branco,Ensino Médio
+D021800200,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800204,01,moto,Masculino,51,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800204,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800207,01,automóvel,Masculino,26,Inabilitado,Sem Informação,Branco,Ensino Médio
+D021800207,02,bicicleta,Masculino,49,Não Exigível,Sem Informação,Branco,Sem Informação
+D021800208,01,moto,Masculino,20,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800208,02,automóvel,Masculino,20,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800209,01,automóvel,Masculino,35,Sem Informação,Sem Informação,Alcoolizado,Sem Informação
+D021800211,01,moto,Masculino,33,Habilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800211,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800213,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800217,01,caminhonete,Masculino,35,Sem Informação,Sem Informação,Branco,Superior
+D021800217,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800220,01,ônibus,Masculino,61,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800224,01,ônibus,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800229,01,automóvel,Masculino,24,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800229,02,moto,Masculino,37,Sem Informação,Sem Informação,Branco,Superior
+D021800232,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800232,02,bicicleta,Masculino,41,Não Exigível,Sem Informação,Branco,Superior
+D021800235,01,automóvel,Feminino,38,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800235,02,caminhonete,Masculino,50,Sem Informação,Sem Informação,Suspeita de Álcool,Sem Informação
+D021800238,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800238,02,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800241,01,caminhão,Masculino,31,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800241,02,moto,Masculino,53,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800241,03,automóvel,Feminino,30,Sem Informação,Sem Informação,Branco,Superior
+D021800242,01,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800243,01,automóvel,Masculino,46,Sem Informação,Sem Informação,Suspeita de Álcool,Sem Informação
+D021800243,02,moto,Masculino,19,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800244,01,moto,Masculino,63,Sem Informação,Sem Informação,Branco,Superior
+D021800248,01,ônibus,Masculino,46,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800251,01,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800251,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800253,01,automóvel,Feminino,36,Habilitado,Sem Informação,Alcoolizado,Ensino Médio
+D021800253,02,caminhão,Masculino,60,Habilitado,Sem Informação,Branco,Ensino Médio
+D021800254,01,automóvel,Feminino,30,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800254,02,caminhonete,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800255,01,moto,Masculino,28,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800255,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800256,01,caminhonete,Masculino,33,Habilitado,Sem Informação,Suspeita de Álcool,Ensino Fundamental II
+D021800258,01,automóvel,Masculino,31,Inabilitado,Sem Informação,Branco,Ensino Médio
+D021800261,01,ônibus,Masculino,43,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800269,01,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800269,02,automóvel,Masculino,59,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800271,01,moto,Masculino,37,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800271,02,automóvel,Feminino,25,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800274,01,moto,Masculino,50,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800274,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800275,01,automóvel,Feminino,41,Inabilitado,Sem Informação,Branco,Ensino Médio
+D021800277,01,automóvel,Masculino,49,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800277,02,automóvel,Masculino,25,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800278,01,automóvel,Masculino,38,Habilitado,Sem Informação,Branco,Ensino Médio
+D021800278,02,caminhão,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800278,03,moto,Masculino,25,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800279,01,moto,Masculino,19,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800279,02,automóvel,Feminino,68,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800280,01,automóvel,Masculino,31,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800280,02,bicicleta,Masculino,21,Não Exigível,Sem Informação,Branco,Sem Informação
+D021800281,01,automóvel,Masculino,26,Habilitado,Sem Informação,Branco,Superior
+D021800281,02,caminhonete,Masculino,50,Habilitado,Sem Informação,Branco,Sem Informação
+D021800281,03,automóvel,Masculino,47,Habilitado,Sem Informação,Branco,Sem Informação
+D021800282,01,automóvel,Masculino,37,Sem Informação,Sem Informação,Branco,Superior
+D021800283,01,moto,Masculino,44,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800283,02,automóvel,Feminino,41,Sem Informação,Sem Informação,Branco,Superior
+D021800285,01,ônibus,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800293,01,automóvel,Masculino,52,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800298,01,moto,Masculino,45,Sem Informação,Sem Informação,Branco,Superior
+D021800301,01,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Superior
+D021800303,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800303,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800304,01,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800306,01,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800307,01,caminhonete,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800308,01,moto,Masculino,38,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800308,02,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800311,01,moto,Masculino,44,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800312,01,automóvel,Masculino,39,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800312,02,moto,Masculino,19,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800313,01,moto,Masculino,20,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800317,01,moto,Masculino,36,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800317,02,automóvel,Masculino,54,Sem Informação,Sem Informação,Branco,Superior
+D021800318,01,moto,Masculino,39,Sem Informação,Sem Informação,Branco,Superior
+D021800318,02,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800322,01,moto,Masculino,39,Habilitado,Sem Informação,Branco,Superior
+D021800322,02,automóvel,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800325,01,ônibus,Masculino,51,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800326,01,moto,Masculino,26,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800327,01,caminhonete,Masculino,24,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800327,02,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800329,01,moto,Masculino,39,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800330,01,moto,Masculino,42,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800333,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800333,02,sem informação,Masculino,58,Sem Informação,Sem Informação,Branco,Superior
+D021800337,01,automóvel,Feminino,43,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800337,02,moto,Masculino,36,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800338,01,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800338,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800340,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800340,02,moto,Masculino,51,Habilitado,Sem Informação,Branco,Ensino Fundamental I
+D021800344,01,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800344,02,automóvel,Masculino,20,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800354,01,moto,Masculino,36,Sem Informação,Sem Informação,Branco,Superior
+D021800354,02,caminhonete,Masculino,40,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021800357,01,caminhonete,Masculino,45,Habilitado,Sem Informação,Branco,Ensino Fundamental I
+D021800358,01,moto,Masculino,34,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800358,02,automóvel,Masculino,28,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800359,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800359,02,automóvel,Masculino,37,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800360,01,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800361,01,automóvel,Masculino,22,Sem Informação,Sem Informação,Alcoolizado,Ensino Fundamental II
+D021800362,01,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800363,01,moto,Masculino,23,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800364,01,automóvel,Masculino,40,Sem Informação,Sem Informação,Branco,Superior
+D021800364,02,automóvel,Masculino,41,Sem Informação,Sem Informação,Branco,Superior
+D021800364,03,automóvel,Feminino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800365,01,automóvel,Masculino,65,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800365,02,moto,Masculino,19,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800367,01,moto,Masculino,44,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800372,01,moto,Masculino,56,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800372,02,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800373,01,automóvel,Masculino,26,Habilitado,Sem Informação,Branco,Superior
+D021800373,02,automóvel,Masculino,33,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800374,01,automóvel,Masculino,87,Sem Informação,Sem Informação,Não Alcoolizado ,Ensino Médio
+D021800374,02,automóvel,Feminino,34,Sem Informação,Sem Informação,Branco,Superior
+D021800374,03,automóvel,Masculino,50,Sem Informação,Sem Informação,Não Alcoolizado ,Ensino Fundamental II
+D021800377,01,moto,Masculino,29,Habilitado,Sem Informação,Branco,Ensino Médio
+D021800377,02,automóvel,Masculino,29,Habilitado,Sem Informação,Branco,Ensino Médio
+D021800378,01,moto,Masculino,33,Sem Informação,Sem Informação,Não Alcoolizado ,Ensino Fundamental II
+D021800379,01,caminhonete,Masculino,44,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800379,02,bicicleta,Masculino,62,Não Exigível,Sem Informação,Branco,Sem Informação
+D021800380,01,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800380,02,automóvel,Masculino,37,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800381,01,moto,Masculino,21,Habilitado,Sem Informação,Branco,Sem Informação
+D021800385,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800386,01,moto,Masculino,44,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800386,02,automóvel,Masculino,61,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800389,01,moto,Masculino,55,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800389,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800390,01,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800399,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800401,01,moto,Masculino,20,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800401,02,moto,Masculino,22,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800402,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800403,01,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800403,02,automóvel,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800409,01,moto,Feminino,37,Habilitado,Sem Informação,Branco,Sem Informação
+D021800411,01,automóvel,Masculino,46,Inabilitado,Sem Informação,Suspeita de Álcool,Ensino Fundamental II
+D021800413,01,moto,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800413,02,caminhonete,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800418,01,automóvel,Masculino,17,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800419,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800422,01,automóvel,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800422,02,moto,Masculino,36,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800424,01,moto,Masculino,31,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800424,02,automóvel,Masculino,26,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800426,01,automóvel,Masculino,34,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800426,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800427,01,moto,Masculino,54,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800427,02,moto,Masculino,28,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800435,01,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800435,02,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800435,03,automóvel,Masculino,27,Sem Informação,Sem Informação,Branco,Superior
+D021800441,01,moto,Masculino,41,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800441,02,automóvel,Feminino,27,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800444,01,moto,Masculino,31,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800444,02,automóvel,Feminino,36,Sem Informação,Sem Informação,Branco,Superior
+D021800445,01,sem informação,Masculino,32,Sem Informação,Sem Informação,Branco,Superior
+D021800446,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800447,01,automóvel,Masculino,38,Inabilitado,Sem Informação,Branco,Ensino Fundamental I
+D021800448,01,automóvel,Masculino,19,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800448,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800448,03,caminhonete,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800450,01,automóvel,Masculino,27,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800450,02,caminhão,Masculino,51,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800451,01,ônibus,Masculino,52,Habilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800457,01,moto,Masculino,20,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800457,02,automóvel,Masculino,48,Habilitado,Sem Informação,Suspeita de Álcool,Ensino Médio
+D021800461,01,moto,Masculino,20,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800461,02,automóvel,Masculino,26,Habilitado,Sem Informação,Branco,Sem Informação
+D021800463,01,moto,Masculino,18,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800463,02,caminhonete,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800465,01,ônibus,Masculino,50,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800466,01,moto,Masculino,26,Sem Informação,Sem Informação,Branco,Superior
+D021800466,02,caminhonete,Masculino,40,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800467,01,automóvel,Masculino,59,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800467,02,moto,Masculino,36,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800468,01,automóvel,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800472,01,moto,Masculino,21,Inabilitado,Sem Informação,Branco,Ensino Médio
+D021800472,02,automóvel,Feminino,40,Habilitado,Sem Informação,Branco,Superior
+D021800475,01,automóvel,Masculino,43,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800475,02,caminhonete,Masculino,23,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800476,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Superior
+D021800482,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Superior
+D021800482,02,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800485,01,moto,Masculino,37,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800485,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800490,01,moto,Masculino,18,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800490,02,automóvel,Masculino,47,Sem Informação,Sem Informação,Branco,Superior
+D021800491,01,automóvel,Masculino,25,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800491,02,automóvel,Masculino,19,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800495,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800495,02,automóvel,Feminino,51,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800496,01,automóvel,Masculino,57,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800496,02,ônibus,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800497,01,moto,Feminino,33,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800497,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800498,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800499,01,ônibus,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800502,01,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800502,02,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800503,01,moto,Feminino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800503,02,automóvel,Feminino,46,Sem Informação,Sem Informação,Branco,Superior
+D021800505,01,automóvel,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800505,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800508,01,moto,Masculino,18,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800508,02,automóvel,Masculino,18,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800509,01,automóvel,Masculino,53,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800509,02,sem informação,Masculino,54,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800513,01,moto,Masculino,39,Sem Informação,Sem Informação,Branco,Superior
+D021800513,02,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800517,01,ônibus,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800517,02,caminhonete,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800522,01,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800522,02,automóvel,Masculino,39,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800523,01,moto,Masculino,23,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800523,02,automóvel,Masculino,22,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800525,01,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800525,02,automóvel,Masculino,54,Sem Informação,Sem Informação,Branco,Superior
+D021800526,01,automóvel,Masculino,32,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800529,01,moto,Masculino,28,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800529,02,automóvel,Masculino,64,Sem Informação,Sem Informação,Branco,Superior
+D021800531,01,automóvel,Masculino,59,Habilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800531,02,moto,Masculino,31,Habilitado,Sem Informação,Branco,Superior
+D021800532,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800533,01,moto,Masculino,25,Inabilitado,Sem Informação,Branco,Ensino Médio
+D021800536,01,automóvel,Masculino,40,Sem Informação,Sem Informação,Alcoolizado,Ensino Médio
+D021800536,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800539,01,moto,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800539,02,automóvel,Feminino,42,Sem Informação,Sem Informação,Branco,Superior
+D021800539,03,automóvel,Feminino,38,Sem Informação,Sem Informação,Branco,Superior
+D021800540,01,ônibus,Masculino,60,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800541,01,automóvel,Masculino,28,Habilitado,Sem Informação,Branco,Sem Informação
+D021800542,01,moto,Masculino,28,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800542,02,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800543,01,bicicleta,Masculino,45,Não Exigível,Sem Informação,Branco,Sem Informação
+D021800543,02,moto,Masculino,40,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800550,01,moto,Masculino,24,Habilitado,Sem Informação,Branco,Ensino Médio
+D021800550,02,automóvel,Feminino,54,Habilitado,Sem Informação,Branco,Ensino Médio
+D021800554,01,automóvel,Masculino,31,Sem Informação,Sem Informação,Branco,Superior
+D021800554,02,ônibus,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800555,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800555,02,moto,Masculino,20,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800556,01,moto,Masculino,15,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800556,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800560,01,automóvel,Feminino,40,Sem Informação,Sem Informação,Branco,Superior
+D021800560,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800563,01,moto,Feminino,23,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800563,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800565,01,automóvel,Masculino,28,Inabilitado,Sem Informação,Suspeita de Álcool,Sem Informação
+D021800565,02,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021800568,01,ônibus,Masculino,40,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021800572,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800573,01,automóvel,Masculino,20,Habilitado,Sem Informação,Suspeita de Álcool,Ensino Fundamental II
+D021800573,02,automóvel,Masculino,38,Habilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800576,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800578,01,moto,Masculino,22,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800578,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800579,01,ônibus,Masculino,38,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800584,01,sem informação,Masculino,42,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800584,02,automóvel,Masculino,23,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800586,01,moto,Masculino,19,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800592,01,moto,Masculino,34,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800592,02,automóvel,Masculino,35,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800594,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800595,01,automóvel,Masculino,37,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800603,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800604,01,automóvel,Feminino,41,Sem Informação,Sem Informação,Branco,Superior
+D021800604,02,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800605,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800605,02,automóvel,Masculino,33,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800606,01,automóvel,Masculino,27,Sem Informação,Sem Informação,Suspeita de Álcool,Ensino Médio
+D021800607,01,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800608,01,automóvel,Masculino,35,Sem Informação,Sem Informação,Branco,Superior
+D021800608,02,automóvel,Masculino,50,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800609,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800614,01,automóvel,Masculino,35,Sem Informação,Sem Informação,Alcoolizado,Ensino Médio
+D021800614,02,automóvel,Feminino,34,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800614,03,automóvel,Feminino,53,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800617,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800617,02,automóvel,Masculino,28,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800623,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800625,01,moto,Masculino,20,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800625,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800626,01,automóvel,Masculino,50,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800627,01,moto,Masculino,32,Sem Informação,Sem Informação,Branco,Superior
+D021800627,02,automóvel,Feminino,52,Sem Informação,Sem Informação,Branco,Superior
+D021800630,01,automóvel,Masculino,32,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800634,01,moto,Masculino,32,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800634,02,automóvel,Feminino,54,Sem Informação,Sem Informação,Branco,Superior
+D021800638,01,moto,Masculino,41,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800638,02,automóvel,Feminino,54,Sem Informação,Sem Informação,Branco,Superior
+D021800638,03,caminhonete,Feminino,61,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800641,01,moto,Masculino,43,Sem Informação,Sem Informação,Branco,Superior
+D021800641,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800642,01,caminhonete,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800647,01,automóvel,Masculino,63,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800647,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800650,01,moto,Masculino,19,Habilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800650,02,automóvel,Masculino,33,Habilitado,Sem Informação,Branco,Superior
+D021800651,01,moto,Masculino,37,Sem Informação,Sem Informação,Branco,Superior
+D021800651,02,moto,Masculino,33,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800654,01,moto,Masculino,17,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800654,02,caminhão,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800656,01,automóvel,Masculino,22,Sem Informação,Sem Informação,Branco,Superior
+D021800656,02,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021800660,01,moto,Masculino,34,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800660,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800662,01,moto,Masculino,27,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800662,02,automóvel,Masculino,45,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800664,01,moto,Masculino,24,Habilitado,Sem Informação,Branco,Ensino Médio
+D021800668,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800669,01,moto,Masculino,37,Sem Informação,Sem Informação,Branco,Superior
+D021800669,02,automóvel,Feminino,55,Sem Informação,Sem Informação,Branco,Superior
+D021800673,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800676,01,moto,Masculino,19,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800677,01,bicicleta,Masculino,48,Não Exigível,Sem Informação,Branco,Ensino Médio
+D021800678,01,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800678,02,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800681,01,moto,Masculino,19,Inabilitado,Sem Informação,Branco,Ensino Médio
+D021800682,01,moto,Masculino,33,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800682,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800683,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800684,01,moto,Masculino,41,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800684,02,automóvel,Masculino,34,Sem Informação,Sem Informação,Branco,Superior
+D021800691,01,moto,Masculino,48,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800695,01,moto,Masculino,42,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800695,02,caminhonete,Masculino,50,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800697,01,automóvel,Masculino,46,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800700,01,automóvel,Masculino,59,Sem Informação,Sem Informação,Branco,Superior
+D021800700,02,moto,Masculino,19,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800702,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800702,02,automóvel,Masculino,19,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800704,01,automóvel,Masculino,30,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800704,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800704,03,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800705,01,moto,Masculino,31,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800705,02,automóvel,Masculino,28,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800710,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800712,01,bicicleta,Masculino,57,Não Exigível,Sem Informação,Branco,Ensino Fundamental I
+D021800712,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800713,01,moto,Masculino,28,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800713,02,caminhonete,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800715,01,automóvel,Feminino,34,Sem Informação,Sem Informação,Branco,Superior
+D021800715,02,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Superior
+D021800716,01,moto,Masculino,18,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800719,01,caminhonete,Masculino,74,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021800720,01,moto,Masculino,23,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800720,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800723,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800723,02,automóvel,Masculino,30,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800725,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800725,02,bicicleta,Masculino,42,Não Exigível,Sem Informação,Branco,Sem Informação
+D021800728,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Superior
+D021800728,02,automóvel,Masculino,38,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800729,01,moto,Masculino,18,Inabilitado,Sem Informação,Alcoolizado,Ensino Fundamental I
+D021800729,02,automóvel,Masculino,28,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800731,01,moto,Masculino,20,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800731,02,automóvel,Feminino,25,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800733,01,automóvel,Feminino,45,Sem Informação,Sem Informação,Branco,Superior
+D021800734,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800735,01,moto,Masculino,34,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800735,02,automóvel,Masculino,26,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800750,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800750,02,automóvel,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800752,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800752,02,moto,Masculino,59,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021800752,03,automóvel,Masculino,64,Sem Informação,Sem Informação,Branco,Superior
+D021800760,01,moto,Masculino,41,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800760,02,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800762,01,moto,Masculino,53,Sem Informação,Sem Informação,Branco,Superior
+D021800762,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800764,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800764,02,bicicleta,Masculino,25,Não Exigível,Sem Informação,Branco,Sem Informação
+D021800765,01,moto,Masculino,37,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800765,02,automóvel,Masculino,40,Sem Informação,Sem Informação,Branco,Superior
+D021800770,01,moto,Masculino,43,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800770,02,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800771,01,automóvel,Masculino,30,Habilitado,Sem Informação,Branco,Sem Informação
+D021800773,01,caminhonete,Masculino,49,Sem Informação,Sem Informação,Branco,Superior
+D021800782,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Alcoolizado,Sem Informação
+D021800783,01,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021800783,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800785,01,caminhonete,Sem Informação,26,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800785,02,moto,Masculino,19,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800788,01,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800789,01,automóvel,Masculino,37,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800790,01,automóvel,Masculino,20,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800790,02,ônibus,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800791,01,moto,Masculino,27,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800791,02,automóvel,Masculino,29,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800793,01,moto,Masculino,38,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800793,02,automóvel,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800796,01,ônibus,Masculino,42,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800805,01,automóvel,Masculino,22,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800810,01,moto,Masculino,48,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800810,02,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800812,01,automóvel,Masculino,17,Inabilitado,Sem Informação,Branco,Ensino Médio
+D021800815,01,moto,Masculino,32,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800815,02,automóvel,Masculino,49,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021800819,01,automóvel,Masculino,33,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800820,01,moto,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800820,02,caminhão,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800822,01,moto,Masculino,33,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800824,01,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800824,02,automóvel,Masculino,54,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800826,01,automóvel,Masculino,26,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800826,02,bicicleta,Masculino,26,Não Exigível,Sem Informação,Branco,Sem Informação
+D021800827,01,moto,Masculino,38,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800829,01,automóvel,Masculino,29,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800833,01,moto,Feminino,34,Sem Informação,Sem Informação,Branco,Superior
+D021800833,02,automóvel,Masculino,40,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800834,01,moto,Masculino,28,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800834,02,caminhão,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800835,01,automóvel,Masculino,40,Sem Informação,Sem Informação,Alcoolizado,Ensino Fundamental II
+D021800835,02,automóvel,Masculino,45,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800837,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800837,02,moto,Masculino,26,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800842,01,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800843,01,ônibus,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800843,02,moto,Masculino,27,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800847,01,moto,Feminino,36,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800847,02,automóvel,Masculino,60,Sem Informação,Sem Informação,Branco,Superior
+D021800850,01,caminhonete,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800851,01,ônibus,Masculino,47,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800855,01,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800857,01,automóvel,Masculino,43,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800857,02,bicicleta,Masculino,SI,Não Exigível,Sem Informação,Branco,Sem Informação
+D021800858,01,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800860,01,caminhão,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800862,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800862,02,moto,Masculino,16,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800863,01,moto,Masculino,37,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800863,02,automóvel,Masculino,27,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800867,01,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800867,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800868,01,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800868,02,automóvel,Masculino,27,Sem Informação,Sem Informação,Suspeita de Álcool,Superior
+D021800871,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800871,02,automóvel,Feminino,25,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800877,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800881,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800881,02,automóvel,Masculino,21,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800886,01,caminhonete,Masculino,29,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800891,01,moto,Masculino,71,Habilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800891,02,automóvel,Feminino,56,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800892,01,moto,Masculino,28,Habilitado,Sem Informação,Branco,Sem Informação
+D021800893,01,moto,Masculino,54,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800893,02,ônibus,Masculino,34,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800904,01,caminhão,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800906,01,moto,Masculino,27,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800906,02,automóvel,Masculino,38,Sem Informação,Sem Informação,Branco,Superior
+D021800910,01,automóvel,Masculino,28,Sem Informação,Sem Informação,Alcoolizado,Ensino Médio
+D021800917,01,automóvel,Masculino,29,Habilitado,Sem Informação,Alcoolizado,Ensino Fundamental I
+D021800917,02,caminhonete,Feminino,49,Habilitado,Sem Informação,Branco,Superior
+D021800919,01,automóvel,Masculino,31,Habilitado,Sem Informação,Branco,Sem Informação
+D021800919,02,automóvel,Masculino,41,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800920,01,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800920,02,caminhonete,Masculino,34,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800921,01,moto,Masculino,41,Sem Informação,Sem Informação,Branco,Superior
+D021800921,02,automóvel,Masculino,23,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800924,01,automóvel,Masculino,39,Habilitado,Sem Informação,Branco,Ensino Médio
+D021800924,02,automóvel,Masculino,40,Habilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800925,01,automóvel,Masculino,36,Habilitado,Sem Informação,Branco,Ensino Médio
+D021800928,01,moto,Masculino,25,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800928,02,automóvel,Feminino,53,Sem Informação,Sem Informação,Branco,Superior
+D021800931,01,automóvel,Masculino,48,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800931,02,automóvel,Masculino,23,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800933,01,moto,Masculino,28,Habilitado,Sem Informação,Branco,Ensino Médio
+D021800933,02,automóvel,Feminino,28,Habilitado,Sem Informação,Branco,Sem Informação
+D021800934,01,moto,Masculino,19,Inabilitado,Sem Informação,Alcoolizado,Ensino Fundamental I
+D021800934,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800936,01,moto,Masculino,32,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800936,02,automóvel,Masculino,42,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800937,01,ônibus,Masculino,45,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800939,01,automóvel,Masculino,39,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800948,01,ônibus,Masculino,36,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800948,02,moto,Masculino,40,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800949,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800952,01,automóvel,Masculino,21,Habilitado,Sem Informação,Suspeita de Álcool,Ensino Fundamental II
+D021800953,01,moto,Feminino,34,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800953,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800955,01,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021800955,02,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800956,01,moto,Masculino,31,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800956,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800956,03,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800959,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800961,01,moto,Feminino,40,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800961,02,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800964,01,moto,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800965,01,moto,Masculino,28,Sem Informação,Sem Informação,Suspeita de Álcool,Ensino Médio
+D021800965,02,moto,Masculino,31,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800967,01,ônibus,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800968,01,ônibus,Masculino,42,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800974,01,automóvel,Feminino,38,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021800977,01,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800977,02,automóvel,Masculino,23,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021800978,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800978,02,automóvel,Masculino,36,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800979,01,moto,Masculino,18,Inabilitado,Sem Informação,Branco,Sem Informação
+D021800979,02,automóvel,Feminino,41,Sem Informação,Sem Informação,Branco,Superior
+D021800988,01,moto,Masculino,41,Sem Informação,Sem Informação,Branco,Superior
+D021800989,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800989,02,automóvel,Masculino,37,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800992,01,moto,Masculino,28,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800992,02,automóvel,Feminino,36,Sem Informação,Sem Informação,Branco,Sem Informação
+D021800995,01,automóvel,Masculino,60,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021800995,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801001,01,caminhonete,Masculino,50,Inabilitado,Sem Informação,Branco,Ensino Fundamental I
+D021801004,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801005,01,moto,Masculino,32,Habilitado,Sem Informação,Branco,Sem Informação
+D021801005,02,ônibus,Masculino,33,Habilitado,Sem Informação,Branco,Sem Informação
+D021801006,01,moto,Masculino,19,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801006,02,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801007,01,moto,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801008,01,ônibus,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801014,01,bicicleta,Feminino,18,Não Exigível,Sem Informação,Branco,Sem Informação
+D021801014,02,automóvel,Masculino,24,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801020,01,automóvel,Masculino,52,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801020,02,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801021,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801027,01,moto,Masculino,20,Habilitado,Sem Informação,Branco,Ensino Fundamental II
+D021801027,02,automóvel,Masculino,39,Habilitado,Sem Informação,Branco,Sem Informação
+D021801036,01,automóvel,Masculino,46,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801037,01,moto,Feminino,35,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801039,01,moto,Masculino,25,Inabilitado,Sem Informação,Branco,Sem Informação
+D021801039,02,ônibus,Masculino,28,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801042,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801044,01,moto,Masculino,21,Inabilitado,Sem Informação,Branco,Sem Informação
+D021801044,02,automóvel,Masculino,31,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801045,01,automóvel,Feminino,62,Sem Informação,Sem Informação,Branco,Superior
+D021801045,02,automóvel,Feminino,40,Sem Informação,Sem Informação,Branco,Superior
+D021801045,03,automóvel,Feminino,40,Sem Informação,Sem Informação,Branco,Superior
+D021801051,01,ônibus,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801052,01,moto,Masculino,31,Sem Informação,Sem Informação,Branco,Superior
+D021801052,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801052,03,automóvel,Feminino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801055,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801055,02,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801056,01,moto,Masculino,38,Sem Informação,Sem Informação,Branco,Superior
+D021801056,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801062,01,ônibus,Masculino,26,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801064,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801066,01,automóvel,Masculino,56,Inabilitado,Sem Informação,Branco,Ensino Fundamental I
+D021801066,02,bicicleta,Masculino,64,Não Exigível,Sem Informação,Branco,Ensino Fundamental I
+D021801069,01,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801069,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801070,01,automóvel,Masculino,33,Habilitado,Sem Informação,Suspeita de Álcool,Ensino Médio
+D021801070,02,automóvel,Feminino,24,Habilitado,Sem Informação,Branco,Superior
+D021801074,01,sem informação,Masculino,51,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801074,02,moto,Masculino,34,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801076,01,moto,Masculino,42,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801076,02,ônibus,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801078,01,moto,Masculino,60,Sem Informação,Sem Informação,Branco,Superior
+D021801078,02,automóvel,Masculino,43,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801091,01,automóvel,Masculino,28,Habilitado,Sem Informação,Branco,Ensino Fundamental II
+D021801091,02,ônibus,Masculino,44,Habilitado,Sem Informação,Branco,Sem Informação
+D021801092,01,micro-ônibus,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801093,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801094,01,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801094,02,automóvel,Masculino,40,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801095,01,automóvel,Masculino,59,Habilitado,Sem Informação,Branco,Superior
+D021801095,02,ônibus,Masculino,42,Habilitado,Sem Informação,Branco,Sem Informação
+D021801100,01,automóvel,Masculino,31,Inabilitado,Sem Informação,Branco,Sem Informação
+D021801101,01,moto,Masculino,36,Sem Informação,Sem Informação,Branco,Superior
+D021801101,02,caminhonete,Feminino,71,Sem Informação,Sem Informação,Branco,Superior
+D021801103,01,moto,Masculino,20,Inabilitado,Sem Informação,Alcoolizado,Sem Informação
+D021801103,02,automóvel,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801115,01,moto,Masculino,32,Habilitado,Sem Informação,Branco,Ensino Médio
+D021801115,02,automóvel,Feminino,51,Habilitado,Sem Informação,Branco,Superior
+D021801115,03,automóvel,Masculino,42,Habilitado,Sem Informação,Branco,Ensino Médio
+D021801116,01,micro-ônibus,Feminino,32,Habilitado,Sem Informação,Branco,Sem Informação
+D021801124,01,moto,Masculino,26,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021801125,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801136,01,caminhonete,Masculino,36,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021801136,02,automóvel,Masculino,24,Sem Informação,Sem Informação,Alcoolizado,Ensino Médio
+D021801138,01,automóvel,Feminino,24,Sem Informação,Sem Informação,Branco,Superior
+D021801139,01,moto,Masculino,37,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021801139,02,automóvel,Masculino,34,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801142,01,automóvel,Masculino,38,Inabilitado,Sem Informação,Branco,Ensino Médio
+D021801143,01,automóvel,Masculino,55,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801148,01,ônibus,Masculino,59,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801151,01,moto,Masculino,25,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801151,02,automóvel,Feminino,40,Sem Informação,Sem Informação,Branco,Superior
+D021801152,01,moto,Masculino,18,Inabilitado,Sem Informação,Branco,Ensino Médio
+D021801153,01,automóvel,Masculino,25,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801153,02,automóvel,Masculino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801157,01,bicicleta,Masculino,17,Não Exigível,Sem Informação,Branco,Ensino Fundamental I
+D021801157,02,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801160,01,ônibus urbano,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801164,01,automóvel,Feminino,32,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801164,02,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801167,01,moto,Masculino,18,Sem Informação,Sem Informação,Branco,Superior
+D021801168,01,moto,Masculino,37,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801169,01,moto,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801169,02,automóvel,Masculino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801174,01,automóvel,Masculino,28,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801175,01,moto,Masculino,36,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801175,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801177,01,ônibus,Masculino,43,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801178,01,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801178,02,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801179,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801179,02,moto,Masculino,36,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801182,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801182,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801185,01,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801185,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801187,01,moto,Masculino,32,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801193,01,automóvel,Masculino,28,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801195,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801196,01,ônibus,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801197,01,automóvel,Masculino,50,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801199,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Superior
+D021801199,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801201,01,ônibus,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801203,01,moto,Masculino,45,Sem Informação,Sem Informação,Branco,Superior
+D021801207,01,moto,Masculino,27,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801207,02,automóvel,Masculino,21,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801210,01,automóvel,Feminino,36,Habilitado,Sem Informação,Branco,Ensino Médio
+D021801210,02,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801211,01,automóvel,Masculino,48,Inabilitado,Sem Informação,Branco,Ensino Fundamental I
+D021801212,01,moto,Masculino,32,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801212,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801213,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801213,02,ônibus,Masculino,41,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801214,01,moto,Masculino,18,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801214,02,automóvel,Masculino,24,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801215,01,automóvel,Masculino,34,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801222,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801222,02,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801225,01,automóvel,Masculino,21,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801226,01,moto,Masculino,18,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801227,01,moto,Masculino,28,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801227,02,automóvel,Feminino,28,Sem Informação,Sem Informação,Branco,Superior
+D021801228,01,automóvel,Feminino,35,Sem Informação,Sem Informação,Branco,Superior
+D021801228,02,moto,Masculino,54,Sem Informação,Sem Informação,Branco,Superior
+D021801230,01,automóvel,Masculino,39,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801234,01,moto,Masculino,17,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021801236,01,moto,Masculino,21,Inabilitado,Sem Informação,Branco,Ensino Fundamental I
+D021801236,02,automóvel,Masculino,32,Habilitado,Sem Informação,Branco,Sem Informação
+D021801238,01,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801238,02,automóvel,Masculino,38,Sem Informação,Sem Informação,Branco,Superior
+D021801241,01,automóvel,Masculino,34,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801241,02,automóvel,Feminino,36,Sem Informação,Sem Informação,Branco,Superior
+D021801242,01,sem informação,Masculino,27,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801249,01,automóvel,Feminino,34,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801252,01,moto,Masculino,23,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801256,01,sem informação,Masculino,35,Sem Informação,Sem Informação,Branco,Superior
+D021801256,02,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801261,01,moto,Masculino,34,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801261,02,caminhão,Masculino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801262,01,automóvel,Masculino,60,Habilitado,Sem Informação,Não Alcoolizado ,Ensino Fundamental II
+D021801264,01,moto,Masculino,41,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801265,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801265,02,caminhonete,Masculino,40,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801272,01,moto,Masculino,27,Habilitado,Sem Informação,Branco,Sem Informação
+D021801272,02,automóvel,Masculino,30,Habilitado,Sem Informação,Branco,Superior
+D021801273,01,automóvel,Masculino,66,Habilitado,Sem Informação,Branco,Sem Informação
+D021801275,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801277,01,automóvel,Feminino,18,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801277,02,automóvel,Masculino,37,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801281,01,automóvel,Masculino,43,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801284,01,moto,Masculino,26,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801284,02,automóvel,Feminino,36,Sem Informação,Sem Informação,Branco,Superior
+D021801285,01,automóvel,Feminino,45,Sem Informação,Sem Informação,Branco,Superior
+D021801285,02,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801285,03,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801288,01,moto,Masculino,18,Inabilitado,Sem Informação,Branco,Sem Informação
+D021801288,02,automóvel,Feminino,28,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801292,01,moto,Masculino,31,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801306,01,moto,Masculino,41,Habilitado,Sem Informação,Branco,Ensino Médio
+D021801307,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801307,02,automóvel,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801308,01,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801308,02,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801312,01,automóvel,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801313,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801315,01,automóvel,Feminino,40,Sem Informação,Sem Informação,Branco,Superior
+D021801315,02,van,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801318,01,moto,Masculino,37,Sem Informação,Sem Informação,Branco,Superior
+D021801318,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801319,01,moto,Masculino,36,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801319,02,automóvel,Masculino,45,Inabilitado,Sem Informação,Branco,Sem Informação
+D021801322,01,automóvel,Masculino,35,Sem Informação,Sem Informação,Alcoolizado,Sem Informação
+D021801324,01,moto,Masculino,38,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801324,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801327,01,moto,Masculino,19,Inabilitado,Sem Informação,Branco,Ensino Médio
+D021801334,01,automóvel,Masculino,34,Habilitado,Sem Informação,Suspeita de Álcool,Sem Informação
+D021801335,01,automóvel,Feminino,57,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021801335,02,automóvel,Masculino,24,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801335,03,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801342,01,moto,Masculino,20,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801342,02,automóvel,Masculino,25,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801350,01,caminhão,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801350,02,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801355,01,moto,Masculino,25,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801355,02,caminhonete,Masculino,56,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801356,01,moto,Masculino,34,Habilitado,Sem Informação,Branco,Sem Informação
+D021801363,01,automóvel,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801363,02,automóvel,Masculino,26,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801365,01,moto,Masculino,20,Habilitado,Sem Informação,Branco,Ensino Médio
+D021801365,02,automóvel,Masculino,44,Inabilitado,Sem Informação,Branco,Ensino Fundamental I
+D021801366,01,automóvel,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801366,02,automóvel,Masculino,36,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801368,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801369,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801369,02,caminhão,Masculino,32,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801370,01,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801370,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801372,01,moto,Masculino,38,Habilitado,Sem Informação,Branco,Sem Informação
+D021801374,01,moto,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801375,01,caminhonete,Masculino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801375,02,sem informação,Feminino,58,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801378,01,moto,Masculino,38,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801379,01,moto,Masculino,28,Sem Informação,Sem Informação,Branco,Superior
+D021801383,01,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801387,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801387,02,automóvel,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801391,01,moto,Masculino,22,Inabilitado,Sem Informação,Branco,Sem Informação
+D021801391,02,automóvel,Feminino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801394,01,automóvel,Feminino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801398,01,moto,Masculino,39,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801398,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801399,01,ônibus,Masculino,44,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801405,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801405,02,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801409,01,ônibus,Masculino,52,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021801410,01,moto,Masculino,28,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021801410,02,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801411,01,automóvel,Masculino,24,Sem Informação,Sem Informação,Alcoolizado,Ensino Médio
+D021801411,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801420,01,bicicleta,Masculino,18,Não Exigível,Sem Informação,Branco,Ensino Fundamental II
+D021801422,01,automóvel,Masculino,60,Sem Informação,Sem Informação,Branco,Superior
+D021801422,02,ônibus,Masculino,46,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801426,01,moto,Masculino,46,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801426,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801428,01,automóvel,Feminino,34,Habilitado,Sem Informação,Branco,Superior
+D021801428,02,automóvel,Masculino,69,Sem Informação,Sem Informação,Branco,Superior
+D021801430,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801430,02,bicicleta,Masculino,29,Não Exigível,Sem Informação,Branco,Ensino Médio
+D021801433,01,automóvel,Feminino,29,Sem Informação,Sem Informação,Branco,Superior
+D021801433,02,moto,Masculino,25,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801436,01,moto,Masculino,20,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801436,02,automóvel,Masculino,50,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801438,01,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801442,01,moto,Masculino,27,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801442,02,automóvel,Masculino,27,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801446,01,ônibus,Masculino,49,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801448,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801448,02,automóvel,Feminino,38,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801450,01,automóvel,Masculino,31,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801450,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801451,01,automóvel,Masculino,29,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801451,02,caminhonete,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801452,01,moto,Masculino,26,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801452,02,automóvel,Feminino,31,Sem Informação,Sem Informação,Branco,Superior
+D021801454,01,moto,Masculino,42,Sem Informação,Sem Informação,Branco,Superior
+D021801454,02,automóvel,Feminino,31,Sem Informação,Sem Informação,Branco,Superior
+D021801460,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801466,01,moto,Masculino,28,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801467,01,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801473,01,bicicleta,Masculino,30,Não Exigível,Sem Informação,Branco,Ensino Médio
+D021801473,02,automóvel,Masculino,53,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801476,01,moto,Masculino,47,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801476,02,automóvel,Masculino,18,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801479,01,moto,Masculino,35,Sem Informação,Sem Informação,Não Alcoolizado ,Ensino Fundamental II
+D021801479,02,automóvel,Masculino,53,Sem Informação,Sem Informação,Não Alcoolizado ,Ensino Fundamental II
+D021801481,01,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801481,02,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801487,01,ônibus,Masculino,34,Sem Informação,Sem Informação,Branco,Superior
+D021801488,01,moto,Masculino,32,Sem Informação,Sem Informação,Branco,Superior
+D021801492,01,moto,Masculino,25,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801492,02,automóvel,Masculino,28,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801493,01,bicicleta,Masculino,40,Não Exigível,Sem Informação,Branco,Superior
+D021801493,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801496,01,moto,Masculino,19,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801496,02,ônibus,Masculino,37,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801500,01,automóvel,Feminino,42,Sem Informação,Sem Informação,Branco,Superior
+D021801504,01,moto,Masculino,17,Inabilitado,Sem Informação,Branco,Sem Informação
+D021801504,02,automóvel,Feminino,22,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801505,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Suspeita de Álcool,Sem Informação
+D021801505,02,automóvel,Masculino,50,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801506,01,moto,Masculino,17,Inabilitado,Sem Informação,Branco,Ensino Fundamental I
+D021801506,02,ônibus,Masculino,42,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801512,01,automóvel,Feminino,42,Sem Informação,Sem Informação,Branco,Superior
+D021801512,02,moto,Masculino,48,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801513,01,automóvel,Masculino,45,Sem Informação,Sem Informação,Suspeita de Álcool,Sem Informação
+D021801514,01,automóvel,Masculino,58,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801515,01,moto,Masculino,45,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801515,02,caminhão,Masculino,45,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801515,03,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801518,01,moto,Masculino,18,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801518,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801523,01,moto,Masculino,34,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801523,02,automóvel,Masculino,41,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801527,01,automóvel,Masculino,19,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021801531,01,caminhonete,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801532,01,automóvel,Masculino,72,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801532,02,automóvel,Feminino,30,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801534,01,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801534,02,automóvel,Feminino,44,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801536,01,moto,Masculino,32,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801541,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801544,01,moto,Masculino,37,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801544,02,automóvel,Masculino,38,Sem Informação,Sem Informação,Branco,Superior
+D021801545,01,ônibus,Masculino,60,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801546,01,automóvel,Masculino,23,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801551,01,automóvel,Masculino,62,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801552,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801557,01,moto,Masculino,24,Inabilitado,Sem Informação,Branco,Sem Informação
+D021801557,02,automóvel,Masculino,60,Sem Informação,Sem Informação,Branco,Superior
+D021801559,01,automóvel,Masculino,43,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801559,02,moto,Masculino,62,Sem Informação,Sem Informação,Branco,Superior
+D021801560,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801564,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801567,01,caminhão,Masculino,36,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801573,01,automóvel,Masculino,47,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801573,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801575,01,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Superior
+D021801575,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801577,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801577,02,moto,Masculino,26,Sem Informação,Sem Informação,Branco,Superior
+D021801579,01,caminhonete,Masculino,67,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801585,01,ônibus,Masculino,35,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801587,01,caminhonete,Masculino,23,Habilitado,Sem Informação,Branco,Ensino Fundamental II
+D021801589,01,moto,Masculino,32,Habilitado,Sem Informação,Branco,Ensino Médio
+D021801593,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801594,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801594,02,automóvel,Masculino,33,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801595,01,automóvel,Masculino,30,Sem Informação,Sem Informação,Branco,Superior
+D021801595,02,moto,Masculino,39,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801595,03,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801606,01,automóvel,Masculino,19,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801606,02,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801607,01,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801607,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801610,01,automóvel,Masculino,23,Inabilitado,Sem Informação,Alcoolizado,Sem Informação
+D021801610,02,automóvel,Masculino,26,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801610,03,automóvel,Masculino,51,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801613,01,automóvel,Masculino,33,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801616,01,moto,Masculino,38,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801617,01,automóvel,Feminino,51,Habilitado,Sem Informação,Branco,Ensino Médio
+D021801617,02,moto,Masculino,26,Habilitado,Sem Informação,Branco,Ensino Médio
+D021801617,03,automóvel,Masculino,42,Habilitado,Sem Informação,Branco,Ensino Fundamental II
+D021801621,01,automóvel,Masculino,51,Inabilitado,Sem Informação,Alcoolizado,Ensino Médio
+D021801628,01,moto,Masculino,27,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801628,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801631,01,moto,Masculino,29,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021801631,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801639,01,automóvel,Masculino,27,Sem Informação,Sem Informação,Branco,Superior
+D021801642,01,bicicleta,Masculino,65,Não Exigível,Sem Informação,Branco,Ensino Fundamental I
+D021801642,02,automóvel,Feminino,49,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801647,01,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801647,02,automóvel,Feminino,63,Habilitado,Sem Informação,Branco,Sem Informação
+D021801648,01,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801648,02,automóvel,Masculino,45,Sem Informação,Sem Informação,Branco,Superior
+D021801651,01,automóvel,Masculino,60,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801651,02,bicicleta,Masculino,39,Não Exigível,Sem Informação,Branco,Ensino Fundamental I
+D021801653,01,automóvel,Masculino,37,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801653,02,automóvel,Masculino,24,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801654,01,automóvel,Masculino,40,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801656,01,moto,Masculino,31,Habilitado,Sem Informação,Branco,Sem Informação
+D021801656,02,automóvel,Feminino,46,Habilitado,Sem Informação,Branco,Sem Informação
+D021801657,01,moto,Masculino,34,Sem Informação,Sem Informação,Branco,Superior
+D021801657,02,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801661,01,ônibus,Masculino,42,Sem Informação,Sem Informação,Não Alcoolizado ,Sem Informação
+D021801663,01,automóvel,Masculino,31,Habilitado,Sem Informação,Branco,Sem Informação
+D021801663,02,moto,Masculino,41,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801664,01,ônibus,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801665,01,bicicleta,Masculino,14,Não Exigível,Sem Informação,Branco,Sem Informação
+D021801665,02,automóvel,Masculino,70,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801672,01,caminhonete,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801673,01,automóvel,Masculino,25,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801677,01,ônibus,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801677,02,bicicleta,Masculino,15,Não Exigível,Sem Informação,Branco,Sem Informação
+D021801680,01,automóvel,Masculino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801682,01,moto,Masculino,25,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021801682,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801685,01,automóvel,Masculino,26,Habilitado,Sem Informação,Branco,Superior
+D021801692,01,automóvel,Masculino,38,Habilitado,Sem Informação,Branco,Ensino Médio
+D021801692,02,automóvel,Feminino,30,Sem Informação,Sem Informação,Branco,Superior
+D021801693,01,caminhonete,Masculino,37,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801708,01,caminhonete,Masculino,42,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801711,01,moto,Masculino,26,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801711,02,automóvel,Masculino,31,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801714,01,moto,Masculino,28,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801714,02,caminhão,Masculino,71,Sem Informação,Sem Informação,Não Alcoolizado ,Sem Informação
+D021801715,01,automóvel,Feminino,40,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801715,02,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801721,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801722,01,automóvel,Masculino,20,Sem Informação,Sem Informação,Suspeita de Álcool,Ensino Fundamental II
+D021801726,01,automóvel,Feminino,55,Habilitado,Sem Informação,Branco,Superior
+D021801728,01,moto,Masculino,26,Sem Informação,Sem Informação,Branco,Superior
+D021801728,02,sem informação,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801731,01,moto,Masculino,32,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801731,02,automóvel,Masculino,33,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801732,01,moto,Masculino,60,Sem Informação,Sem Informação,Branco,Superior
+D021801732,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801733,01,caminhonete,Masculino,70,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801733,02,moto,Feminino,29,Inabilitado,Sem Informação,Branco,Sem Informação
+D021801737,01,moto,Masculino,34,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801737,02,moto,Masculino,28,Inabilitado,Sem Informação,Branco,Sem Informação
+D021801738,01,ônibus,Masculino,47,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801739,01,ônibus,Masculino,40,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801742,01,caminhonete,Masculino,48,Habilitado,Sem Informação,Branco,Sem Informação
+D021801743,01,moto,Masculino,18,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801743,02,caminhonete,Masculino,55,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801750,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801750,02,automóvel,Masculino,44,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801752,01,moto,Masculino,41,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801754,01,automóvel,Masculino,42,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801757,01,moto,Masculino,51,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021801757,02,automóvel,Masculino,34,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801758,01,moto,Masculino,30,Inabilitado,Sem Informação,Branco,Ensino Médio
+D021801758,02,caminhonete,Masculino,62,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021801764,01,caminhão,Masculino,47,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801765,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801765,02,automóvel,Masculino,53,Sem Informação,Sem Informação,Branco,Superior
+D021801772,01,moto,Masculino,31,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801772,02,automóvel,Masculino,31,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801775,01,automóvel,Masculino,50,Sem Informação,Sem Informação,Alcoolizado,Sem Informação
+D021801777,01,automóvel,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801777,02,automóvel,Masculino,20,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801778,01,moto,Masculino,23,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801778,02,caminhão,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801778,03,ônibus,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801783,01,bicicleta,Masculino,36,Não Exigível,Sem Informação,Branco,Superior
+D021801783,02,automóvel,Masculino,44,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801788,01,moto,Feminino,29,Habilitado,Sem Informação,Branco,Ensino Médio
+D021801788,02,automóvel,Masculino,33,Habilitado,Sem Informação,Branco,Ensino Médio
+D021801794,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Superior
+D021801794,02,automóvel,Feminino,40,Sem Informação,Sem Informação,Branco,Superior
+D021801797,01,moto,Feminino,32,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801798,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801801,01,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801801,02,automóvel,Masculino,57,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801809,01,moto,Masculino,27,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801809,02,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801810,01,moto,Masculino,20,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801810,02,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801811,01,caminhão,Masculino,38,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801811,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801812,01,automóvel,Feminino,50,Sem Informação,Sem Informação,Branco,Superior
+D021801816,01,moto,Masculino,32,Inabilitado,Sem Informação,Branco,Sem Informação
+D021801816,02,automóvel,Feminino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801817,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801817,02,automóvel,Feminino,62,Sem Informação,Sem Informação,Branco,Superior
+D021801818,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801822,01,sem informação,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801823,01,caminhonete,Masculino,56,Habilitado,Sem Informação,Branco,Sem Informação
+D021801823,02,automóvel,Feminino,61,Habilitado,Sem Informação,Branco,Sem Informação
+D021801824,01,moto,Masculino,26,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801824,02,automóvel,Feminino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801826,01,ônibus,Masculino,60,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801829,01,automóvel,Feminino,34,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801829,02,caminhão,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801830,01,ônibus,Masculino,39,Sem Informação,Sem Informação,Não Alcoolizado ,Sem Informação
+D021801832,01,moto,Masculino,37,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801832,02,automóvel,Masculino,64,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021801832,03,automóvel,Masculino,37,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801836,01,moto,Masculino,54,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801836,02,automóvel,Masculino,64,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801837,01,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801837,02,automóvel,Masculino,42,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801846,01,automóvel,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801846,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801847,01,automóvel,Feminino,49,Habilitado,Sem Informação,Branco,Ensino Fundamental II
+D021801847,02,moto,Masculino,20,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801849,01,automóvel,Masculino,45,Sem Informação,Sem Informação,Suspeita de Álcool,Sem Informação
+D021801851,01,automóvel,Feminino,36,Sem Informação,Sem Informação,Branco,Superior
+D021801851,02,moto,Masculino,41,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801854,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801855,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801856,01,automóvel,Feminino,32,Sem Informação,Sem Informação,Branco,Superior
+D021801856,02,caminhão,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801859,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801859,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801859,03,automóvel,Feminino,71,Sem Informação,Sem Informação,Branco,Superior
+D021801861,01,caminhonete,Masculino,38,Habilitado,Sem Informação,Branco,Sem Informação
+D021801861,02,bicicleta,Masculino,17,Não Exigível,Sem Informação,Branco,Sem Informação
+D021801865,01,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801872,01,automóvel,Masculino,28,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801873,01,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801873,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801875,01,automóvel,Masculino,27,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801878,01,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801880,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801880,02,automóvel,Masculino,52,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801881,01,automóvel,Masculino,22,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801882,01,ônibus,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801883,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801884,01,moto,Masculino,27,Habilitado,Sem Informação,Branco,Ensino Médio
+D021801886,01,moto,Masculino,27,Sem Informação,Sem Informação,Branco,Superior
+D021801886,02,caminhonete,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801886,03,automóvel,Masculino,66,Sem Informação,Sem Informação,Branco,Superior
+D021801887,01,moto,Masculino,28,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801887,02,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801889,01,automóvel,Masculino,31,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801892,01,caminhonete,Feminino,22,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801896,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801898,01,moto,Masculino,32,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801898,02,automóvel,Feminino,45,Sem Informação,Sem Informação,Branco,Superior
+D021801899,01,automóvel,Masculino,64,Sem Informação,Sem Informação,Branco,Superior
+D021801899,02,moto,Feminino,47,Sem Informação,Sem Informação,Branco,Superior
+D021801900,01,moto,Masculino,39,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801900,02,automóvel,Masculino,19,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801905,01,moto,Masculino,34,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801905,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801914,01,automóvel,Masculino,27,Sem Informação,Sem Informação,Não Alcoolizado ,Sem Informação
+D021801915,01,micro-ônibus,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801920,01,moto,Masculino,32,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801922,01,moto,Masculino,25,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801922,02,automóvel,Masculino,33,Sem Informação,Sem Informação,Não Alcoolizado ,Superior
+D021801923,01,moto,Masculino,19,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801923,02,automóvel,Feminino,44,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801924,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801930,01,automóvel,Feminino,28,Sem Informação,Sem Informação,Branco,Superior
+D021801937,01,automóvel,Feminino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801940,01,automóvel,Feminino,34,Sem Informação,Sem Informação,Branco,Superior
+D021801940,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Suspeita de Álcool,Sem Informação
+D021801944,01,automóvel,Masculino,62,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801947,01,moto,Masculino,31,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801947,02,automóvel,Masculino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801947,03,automóvel,Feminino,56,Sem Informação,Sem Informação,Branco,Superior
+D021801951,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801951,02,automóvel,Masculino,20,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801953,01,automóvel,Masculino,35,Sem Informação,Sem Informação,Branco,Superior
+D021801955,01,moto,Masculino,36,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801958,01,automóvel,Masculino,29,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021801963,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801964,01,moto,Masculino,35,Habilitado,Sem Informação,Branco,Sem Informação
+D021801964,02,automóvel,Masculino,20,Inabilitado,Sem Informação,Branco,Sem Informação
+D021801966,01,ônibus,Masculino,36,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801967,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801970,01,ônibus,Masculino,26,Sem Informação,Sem Informação,Não Alcoolizado ,Ensino Médio
+D021801973,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801973,02,automóvel,Masculino,38,Sem Informação,Sem Informação,Branco,Superior
+D021801974,01,bicicleta,Masculino,37,Não Exigível,Sem Informação,Branco,Ensino Fundamental II
+D021801979,01,automóvel,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801979,02,automóvel,Masculino,28,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801985,01,automóvel,Masculino,70,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801985,02,caminhonete,Masculino,21,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021801986,01,moto,Masculino,56,Sem Informação,Sem Informação,Branco,Sem Informação
+D021801986,02,automóvel,Masculino,36,Sem Informação,Sem Informação,Branco,Superior
+D021801987,01,automóvel,Masculino,34,Sem Informação,Sem Informação,Branco,Superior
+D021801987,02,caminhonete,Masculino,45,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021801991,01,moto,Masculino,48,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802005,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802005,02,bicicleta,Feminino,31,Não Exigível,Sem Informação,Branco,Superior
+D021802008,01,moto,Masculino,27,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802008,02,automóvel,Masculino,31,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802013,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802013,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802015,01,automóvel,Masculino,50,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802016,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802021,01,ônibus,Masculino,32,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802022,01,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802022,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802023,01,moto,Masculino,49,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802023,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802033,01,automóvel,Feminino,31,Sem Informação,Sem Informação,Branco,Superior
+D021802033,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802034,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802037,01,caminhonete,Masculino,41,Sem Informação,Sem Informação,Branco,Superior
+D021802041,01,moto,Masculino,43,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802041,02,automóvel,Masculino,39,Sem Informação,Sem Informação,Branco,Superior
+D021802043,01,moto,Masculino,49,Sem Informação,Sem Informação,Branco,Superior
+D021802043,02,automóvel,Feminino,49,Sem Informação,Sem Informação,Branco,Superior
+D021802050,01,automóvel,Masculino,46,Sem Informação,Sem Informação,Alcoolizado,Sem Informação
+D021802050,02,automóvel,Masculino,50,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802056,01,moto,Masculino,39,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802059,01,moto,Masculino,31,Habilitado,Sem Informação,Branco,Sem Informação
+D021802059,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802061,01,caminhão,Masculino,46,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802063,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802063,02,moto,Masculino,38,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802063,03,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802063,04,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802063,05,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802066,01,moto,Masculino,25,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802066,02,automóvel,Masculino,50,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802069,01,moto,Masculino,42,Sem Informação,Sem Informação,Branco,Superior
+D021802069,02,moto,Masculino,31,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802076,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802076,02,moto,Masculino,32,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802079,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802080,01,moto,Masculino,23,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802080,02,moto,Masculino,18,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802082,01,bicicleta,Masculino,46,Não Exigível,Sem Informação,Branco,Sem Informação
+D021802086,01,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802086,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802087,01,bicicleta,Masculino,40,Não Exigível,Sem Informação,Branco,Superior
+D021802090,01,moto,Masculino,50,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802091,01,moto,Masculino,19,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802091,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802098,01,moto,Masculino,31,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021802100,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802104,01,ônibus,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802116,01,moto,Masculino,34,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802116,02,automóvel,Feminino,31,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802119,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802121,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802127,01,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802127,02,automóvel,Feminino,24,Sem Informação,Sem Informação,Branco,Superior
+D021802130,01,moto,Masculino,32,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802130,02,automóvel,Feminino,49,Sem Informação,Sem Informação,Branco,Superior
+D021802134,01,automóvel,Masculino,64,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802134,02,moto,Masculino,38,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802134,03,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802152,01,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802152,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802157,01,moto,Masculino,19,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802157,02,automóvel,Masculino,61,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802161,01,caminhonete,Masculino,36,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802161,02,moto,Masculino,15,Inabilitado,Sem Informação,Branco,Sem Informação
+D021802169,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802169,02,moto,Masculino,32,Sem Informação,Sem Informação,Branco,Superior
+D021802171,01,automóvel,Masculino,36,Sem Informação,Sem Informação,Branco,Superior
+D021802173,01,automóvel,Feminino,22,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802184,01,moto,Masculino,56,Sem Informação,Sem Informação,Branco,Superior
+D021802184,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802185,01,automóvel,Masculino,64,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021802185,02,automóvel,Masculino,55,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802186,01,automóvel,Feminino,33,Habilitado,Sem Informação,Não Alcoolizado ,Ensino Médio
+D021802186,02,moto,Masculino,34,Habilitado,Sem Informação,Não Alcoolizado ,Ensino Fundamental II
+D021802188,01,automóvel,Feminino,23,Sem Informação,Sem Informação,Branco,Superior
+D021802192,01,moto,Masculino,55,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802198,01,ônibus,Masculino,57,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802199,01,moto,Masculino,53,Sem Informação,Sem Informação,Branco,Superior
+D021802202,01,ônibus,Masculino,41,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802202,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802206,01,moto,Masculino,26,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802206,02,automóvel,Masculino,29,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802207,01,automóvel,Masculino,38,Habilitado,Sem Informação,Branco,Superior
+D021802207,02,moto,Masculino,34,Habilitado,Sem Informação,Branco,Ensino Médio
+D021802216,01,caminhão,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802221,01,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802221,02,sem informação,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802223,01,automóvel,Masculino,34,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802223,02,automóvel,Feminino,22,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802233,01,automóvel,Masculino,56,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802238,01,bicicleta,Masculino,19,Não Exigível,Sem Informação,Branco,Ensino Fundamental II
+D021802238,02,caminhão,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802240,01,bicicleta,Masculino,30,Não Exigível,Sem Informação,Branco,Superior
+D021802240,02,bicicleta,Sem Informação,SI,Não Exigível,Sem Informação,Branco,Sem Informação
+D021802242,01,moto,Masculino,32,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802242,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802244,01,automóvel,Masculino,44,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021802245,01,automóvel,Masculino,38,Sem Informação,Sem Informação,Branco,Superior
+D021802246,01,automóvel,Feminino,68,Sem Informação,Sem Informação,Branco,Superior
+D021802246,02,caminhonete,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802247,01,moto,Masculino,40,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802251,01,automóvel,Masculino,29,Sem Informação,Sem Informação,Alcoolizado,Superior
+D021802252,01,moto,Masculino,45,Inabilitado,Sem Informação,Suspeita de Álcool,Sem Informação
+D021802252,02,automóvel,Feminino,36,Sem Informação,Sem Informação,Branco,Superior
+D021802256,01,moto,Masculino,34,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802256,02,moto,Masculino,27,Sem Informação,Sem Informação,Branco,Superior
+D021802257,01,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802263,01,moto,Masculino,21,Habilitado,Sem Informação,Branco,Ensino Fundamental II
+D021802270,01,moto,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802270,02,sem informação,Feminino,48,Sem Informação,Sem Informação,Branco,Superior
+D021802283,01,automóvel,Feminino,28,Sem Informação,Sem Informação,Branco,Superior
+D021802283,02,moto,Masculino,55,Sem Informação,Sem Informação,Branco,Superior
+D021802284,01,ônibus,Masculino,55,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802285,01,moto,Masculino,23,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802285,02,caminhonete,Masculino,63,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802288,01,moto,Masculino,43,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802288,02,automóvel,Masculino,56,Inabilitado,Sem Informação,Branco,Sem Informação
+D021802288,03,caminhão,Masculino,73,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802292,01,moto,Masculino,28,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802294,01,moto,Masculino,23,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802294,02,sem informação,Masculino,27,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802295,01,moto,Masculino,40,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802295,02,automóvel,Masculino,55,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802298,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802298,02,ônibus,Masculino,38,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802299,01,ônibus,Masculino,46,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802304,01,automóvel,Masculino,49,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802304,02,automóvel,Masculino,44,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802304,03,caminhonete,Masculino,43,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802308,01,ônibus,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802310,01,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802310,02,automóvel,Feminino,23,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802315,01,automóvel,Masculino,60,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802315,02,automóvel,Masculino,42,Sem Informação,Sem Informação,Branco,Superior
+D021802319,01,moto,Masculino,24,Inabilitado,Sem Informação,Branco,Sem Informação
+D021802320,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802320,02,automóvel,Masculino,24,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802323,01,caminhonete,Masculino,30,Habilitado,Sem Informação,Branco,Ensino Fundamental II
+D021802326,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802328,01,caminhonete,Masculino,39,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021802330,01,moto,Masculino,38,Sem Informação,Sem Informação,Branco,Superior
+D021802330,02,automóvel,Feminino,29,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802331,01,moto,Masculino,41,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802331,02,caminhão,Masculino,54,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802334,01,automóvel,Masculino,27,Habilitado,Sem Informação,Branco,Ensino Médio
+D021802336,01,moto,Masculino,27,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802336,02,automóvel,Masculino,24,Sem Informação,Sem Informação,Não Alcoolizado ,Ensino Médio
+D021802342,01,moto,Masculino,42,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802347,01,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802347,02,automóvel,Feminino,26,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802356,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802365,01,moto,Masculino,41,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802365,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802368,01,moto,Masculino,34,Inabilitado,Sem Informação,Branco,Sem Informação
+D021802368,02,automóvel,Feminino,42,Sem Informação,Sem Informação,Branco,Superior
+D021802370,01,moto,Masculino,20,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802370,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802374,01,moto,Masculino,38,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802374,02,automóvel,Feminino,35,Sem Informação,Sem Informação,Branco,Superior
+D021802381,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802381,02,automóvel,Masculino,28,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802383,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802383,02,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802387,01,moto,Masculino,26,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802387,02,automóvel,Masculino,76,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802390,01,moto,Masculino,27,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802390,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802391,01,automóvel,Masculino,41,Sem Informação,Sem Informação,Branco,Superior
+D021802391,02,moto,Masculino,53,Sem Informação,Sem Informação,Branco,Superior
+D021802393,01,moto,Masculino,30,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802395,01,moto,Masculino,31,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802399,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802403,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802403,02,moto,Masculino,47,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802410,01,moto,Masculino,42,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021802410,02,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802412,01,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802412,02,ônibus,Masculino,50,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802416,01,moto,Masculino,27,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802416,02,ônibus,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802417,01,automóvel,Feminino,36,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802418,01,moto,Masculino,20,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802418,02,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802421,01,automóvel,Masculino,45,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802427,01,ônibus,Masculino,38,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802427,02,ônibus,Masculino,40,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802441,01,moto,Masculino,17,Inabilitado,Sem Informação,Branco,Sem Informação
+D021802441,02,automóvel,Masculino,22,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802442,01,moto,Masculino,45,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802442,02,moto,Masculino,59,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802443,01,automóvel,Masculino,34,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802444,01,bicicleta,Masculino,64,Não Exigível,Sem Informação,Branco,Ensino Fundamental II
+D021802445,01,moto,Masculino,28,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802448,01,ônibus,Masculino,59,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802450,01,moto,Masculino,46,Sem Informação,Sem Informação,Branco,Superior
+D021802450,02,automóvel,Masculino,29,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802453,01,automóvel,Masculino,46,Sem Informação,Sem Informação,Branco,Superior
+D021802453,02,moto,Masculino,18,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802454,01,moto,Masculino,18,Inabilitado,Sem Informação,Branco,Ensino Médio
+D021802454,02,automóvel,Masculino,36,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802459,01,moto,Masculino,18,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802459,02,automóvel,Masculino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802464,01,moto,Masculino,20,Habilitado,Sem Informação,Alcoolizado,Ensino Fundamental II
+D021802465,01,automóvel,Masculino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802465,02,caminhonete,Masculino,30,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802470,01,caminhonete,Masculino,67,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802471,01,moto,Masculino,43,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802471,02,automóvel,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802474,01,ônibus,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802478,01,automóvel,Feminino,46,Sem Informação,Sem Informação,Branco,Superior
+D021802478,02,automóvel,Masculino,43,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802484,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802489,01,moto,Masculino,37,Habilitado,Sem Informação,Branco,Sem Informação
+D021802494,01,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802494,02,automóvel,Masculino,41,Inabilitado,Sem Informação,Branco,Ensino Fundamental I
+D021802495,01,moto,Masculino,50,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802496,01,automóvel,Masculino,23,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802500,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802505,01,automóvel,Masculino,34,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802505,02,caminhonete,Sem Informação,51,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802507,01,automóvel,Masculino,26,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802507,02,bicicleta,Masculino,36,Não Exigível,Sem Informação,Branco,Sem Informação
+D021802509,01,automóvel,Masculino,62,Sem Informação,Sem Informação,Branco,Superior
+D021802510,01,automóvel,Feminino,44,Sem Informação,Sem Informação,Branco,Superior
+D021802510,02,moto,Masculino,43,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802513,01,moto,Masculino,20,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802513,02,automóvel,Masculino,70,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802516,01,moto,Masculino,23,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802516,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802519,01,moto,Masculino,28,Habilitado,Sem Informação,Branco,Sem Informação
+D021802519,02,automóvel,Masculino,44,Habilitado,Sem Informação,Branco,Sem Informação
+D021802529,01,moto,Masculino,44,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802529,02,sem informação,Masculino,76,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802530,01,caminhão,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802531,01,moto,Masculino,29,Habilitado,Sem Informação,Branco,Ensino Médio
+D021802531,02,automóvel,Masculino,27,Sem Informação,Sem Informação,Branco,Superior
+D021802532,01,bicicleta,Feminino,21,Não Exigível,Sem Informação,Branco,Sem Informação
+D021802532,02,caminhonete,Masculino,58,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802542,01,automóvel,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802542,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802545,01,automóvel,Masculino,32,Sem Informação,Sem Informação,Alcoolizado,Sem Informação
+D021802550,01,moto,Feminino,44,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802550,02,automóvel,Masculino,53,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802559,01,moto,Masculino,41,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802559,02,automóvel,Masculino,33,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802563,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802563,02,automóvel,Feminino,39,Sem Informação,Sem Informação,Branco,Superior
+D021802566,01,automóvel,Masculino,38,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802567,01,moto,Masculino,40,Sem Informação,Sem Informação,Suspeita de Álcool,Superior
+D021802572,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802573,01,automóvel,Masculino,30,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802580,01,automóvel,Masculino,36,Habilitado,Sem Informação,Branco,Ensino Médio
+D021802580,02,caminhão,Masculino,59,Sem Informação,Sem Informação,Não Alcoolizado ,Sem Informação
+D021802581,01,moto,Masculino,52,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802581,02,automóvel,Masculino,40,Sem Informação,Sem Informação,Branco,Superior
+D021802582,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802582,02,automóvel,Feminino,40,Sem Informação,Sem Informação,Branco,Superior
+D021802583,01,automóvel,Masculino,31,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802583,02,automóvel,Masculino,30,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802590,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802592,01,automóvel,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802594,01,automóvel,Feminino,32,Sem Informação,Sem Informação,Branco,Superior
+D021802598,01,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802600,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802600,02,automóvel,Masculino,32,Sem Informação,Sem Informação,Branco,Superior
+D021802601,01,moto,Masculino,20,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802601,02,automóvel,Feminino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802605,01,moto,Masculino,31,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802605,02,automóvel,Masculino,34,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802606,01,caminhão,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802606,02,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802609,01,moto,Masculino,36,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802614,01,moto,Feminino,26,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802618,01,automóvel,Masculino,63,Sem Informação,Sem Informação,Branco,Superior
+D021802618,02,moto,Masculino,20,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802621,01,moto,Masculino,32,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802621,02,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802625,01,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802628,01,automóvel,Masculino,41,Inabilitado,Sem Informação,Branco,Sem Informação
+D021802628,02,moto,Masculino,33,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802634,01,automóvel,Masculino,19,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802637,01,moto,Masculino,33,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802637,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802638,01,automóvel,Masculino,34,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802638,02,automóvel,Masculino,34,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802644,01,automóvel,Masculino,33,Sem Informação,Sem Informação,Não Alcoolizado ,Sem Informação
+D021802644,02,moto,Feminino,47,Sem Informação,Sem Informação,Branco,Superior
+D021802658,01,moto,Masculino,31,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802661,01,automóvel,Masculino,44,Habilitado,Sem Informação,Alcoolizado,Ensino Fundamental I
+D021802661,02,bicicleta,Masculino,40,Não Exigível,Sem Informação,Branco,Sem Informação
+D021802662,01,moto,Masculino,51,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802662,02,automóvel,Masculino,31,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802664,01,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802664,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802671,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802680,01,moto,Masculino,21,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802680,02,automóvel,Masculino,52,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021802683,01,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802683,02,moto,Masculino,44,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802687,01,moto,Masculino,26,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802687,02,automóvel,Masculino,47,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802688,01,bicicleta,Masculino,52,Não Exigível,Sem Informação,Branco,Sem Informação
+D021802694,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802697,01,moto,Masculino,26,Inabilitado,Sem Informação,Branco,Ensino Médio
+D021802697,02,automóvel,Masculino,47,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802701,01,moto,Masculino,19,Inabilitado,Sem Informação,Branco,Sem Informação
+D021802701,02,automóvel,Masculino,26,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802704,01,moto,Masculino,28,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802708,01,moto,Masculino,38,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802715,01,ônibus,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802716,01,moto,Masculino,20,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802716,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802722,01,ônibus,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802723,01,moto,Feminino,27,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802723,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802724,01,moto,Masculino,45,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802724,02,automóvel,Masculino,22,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802725,01,moto,Masculino,38,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802725,02,automóvel,Masculino,44,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802736,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802738,01,moto,Masculino,50,Sem Informação,Sem Informação,Branco,Superior
+D021802738,02,automóvel,Masculino,55,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802743,01,ônibus,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802748,01,automóvel,Feminino,38,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802748,02,caminhonete,Masculino,38,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802750,01,ônibus,Masculino,42,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802752,01,moto,Feminino,34,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802752,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802755,01,moto,Masculino,44,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802755,02,automóvel,Masculino,63,Sem Informação,Sem Informação,Branco,Superior
+D021802758,01,automóvel,Masculino,22,Inabilitado,Sem Informação,Branco,Sem Informação
+D021802758,02,caminhonete,Feminino,51,Sem Informação,Sem Informação,Branco,Superior
+D021802758,03,automóvel,Feminino,41,Inabilitado,Sem Informação,Branco,Sem Informação
+D021802759,01,ônibus,Masculino,54,Sem Informação,Sem Informação,Não Alcoolizado ,Sem Informação
+D021802759,02,ônibus,Masculino,32,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802761,01,moto,Masculino,40,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802761,02,caminhonete,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802765,01,moto,Masculino,38,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802765,02,automóvel,Feminino,50,Sem Informação,Sem Informação,Branco,Superior
+D021802768,01,van,Feminino,44,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802777,01,ônibus,Masculino,36,Inabilitado,Sem Informação,Branco,Sem Informação
+D021802777,02,ônibus,Masculino,37,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802786,01,moto,Masculino,20,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802788,01,automóvel,Masculino,80,Habilitado,Sem Informação,Branco,Ensino Médio
+D021802788,02,bicicleta,Masculino,33,Não Exigível,Sem Informação,Branco,Sem Informação
+D021802791,01,caminhão,Masculino,60,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021802793,01,ônibus,Masculino,54,Habilitado,Sem Informação,Não Alcoolizado ,Sem Informação
+D021802798,01,automóvel,Masculino,47,Sem Informação,Sem Informação,Branco,Superior
+D021802798,02,moto,Masculino,23,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802801,01,automóvel,Feminino,25,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802805,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802806,01,caminhão,Masculino,57,Habilitado,Sem Informação,Branco,Ensino Fundamental II
+D021802806,02,moto,Masculino,39,Habilitado,Sem Informação,Branco,Sem Informação
+D021802809,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802810,01,automóvel,Masculino,20,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802810,02,moto,Masculino,43,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802814,01,moto,Masculino,33,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802814,02,automóvel,Feminino,43,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802817,01,moto,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802817,02,automóvel,Masculino,35,Sem Informação,Sem Informação,Branco,Superior
+D021802818,01,moto,Masculino,35,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802818,02,automóvel,Masculino,29,Inabilitado,Sem Informação,Branco,Ensino Fundamental II
+D021802819,01,ônibus,Masculino,29,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802821,01,automóvel,Masculino,36,Sem Informação,Sem Informação,Branco,Superior
+D021802823,01,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802823,02,automóvel,Feminino,21,Sem Informação,Sem Informação,Branco,Superior
+D021802823,03,automóvel,Feminino,28,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802823,04,automóvel,Masculino,51,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802826,01,automóvel,Masculino,42,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802828,01,moto,Masculino,62,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802828,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802832,01,moto,Masculino,20,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802833,01,ônibus,Masculino,36,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802834,01,moto,Masculino,46,Sem Informação,Sem Informação,Branco,Superior
+D021802834,02,caminhonete,Masculino,38,Sem Informação,Sem Informação,Suspeita de Álcool,Sem Informação
+D021802838,01,automóvel,Masculino,65,Sem Informação,Sem Informação,Branco,Superior
+D021802838,02,moto,Feminino,22,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802840,01,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802840,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802842,01,moto,Masculino,37,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802842,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802843,01,moto,Feminino,28,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802843,02,sem informação,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802844,01,caminhonete,Masculino,54,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802844,02,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802847,01,automóvel,Masculino,47,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802847,02,moto,Masculino,42,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802853,01,moto,Masculino,25,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802853,02,caminhonete,Masculino,23,Inabilitado,Sem Informação,Branco,Ensino Médio
+D021802856,01,ônibus,Masculino,56,Habilitado,Sem Informação,Branco,Sem Informação
+D021802858,01,moto,Feminino,21,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802858,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802859,01,automóvel,Masculino,41,Sem Informação,Sem Informação,Alcoolizado,Ensino Médio
+D021802859,02,automóvel,Masculino,33,Sem Informação,Sem Informação,Não Alcoolizado ,Sem Informação
+D021802862,01,automóvel,Masculino,32,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802862,02,automóvel,Masculino,38,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802862,03,automóvel,Masculino,37,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802870,01,moto,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802870,02,caminhonete,Masculino,48,Sem Informação,Sem Informação,Branco,Superior
+D021802875,01,moto,Masculino,52,Habilitado,Sem Informação,Branco,Sem Informação
+D021802875,02,caminhonete,Masculino,52,Habilitado,Sem Informação,Branco,Sem Informação
+D021802877,01,moto,Masculino,25,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802885,01,ônibus,Masculino,57,Sem Informação,Sem Informação,Branco,Ensino Fundamental II
+D021802886,01,moto,Masculino,47,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021802886,02,sem informação,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802889,01,moto,Masculino,29,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802889,02,automóvel,Masculino,73,Sem Informação,Sem Informação,Branco,Ensino Fundamental I
+D021802894,01,moto,Masculino,38,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802894,02,automóvel,Feminino,30,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802913,01,moto,Feminino,27,Sem Informação,Sem Informação,Branco,Superior
+D021802913,02,automóvel,Feminino,36,Habilitado,Sem Informação,Branco,Superior
+D021802918,01,automóvel,Masculino,32,Sem Informação,Sem Informação,Alcoolizado,Ensino Fundamental II
+D021802928,01,moto,Feminino,44,Habilitado,Sem Informação,Branco,Sem Informação
+D021802928,02,caminhonete,Masculino,36,Habilitado,Sem Informação,Branco,Sem Informação
+D021802929,01,automóvel,Feminino,47,Sem Informação,Sem Informação,Branco,Superior
+D021802929,02,automóvel,Masculino,51,Sem Informação,Sem Informação,Branco,Superior
+D021802933,01,moto,Masculino,37,Sem Informação,Sem Informação,Branco,Superior
+D021802933,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802939,01,moto,Masculino,34,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802946,01,moto,Masculino,22,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802946,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802949,01,moto,Masculino,42,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802949,02,automóvel,Sem Informação,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802955,01,caminhonete,Masculino,30,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802959,01,moto,Masculino,31,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802964,01,automóvel,Masculino,28,Inabilitado,Sem Informação,Branco,Sem Informação
+D021802964,02,automóvel,Masculino,69,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802965,01,moto,Feminino,36,Sem Informação,Sem Informação,Branco,Superior
+D021802965,02,automóvel,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802970,01,moto,Masculino,23,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802970,02,automóvel,Masculino,34,Sem Informação,Sem Informação,Branco,Ensino Médio
+D021802972,01,sem informação,Masculino,31,Sem Informação,Sem Informação,Branco,Superior
+D021802972,02,moto,Masculino,25,Sem Informação,Sem Informação,Branco,Superior
+D021802973,01,moto,Masculino,24,Sem Informação,Sem Informação,Branco,Superior
+D021802974,01,caminhonete,Masculino,SI,Sem Informação,Sem Informação,Branco,Sem Informação
+D021802975,01,automóvel,Feminino,32,Sem Informação,Sem Informação,Branco,Superior
+D021802976,01,moto,Masculino,20,Habilitado,Sem Informação,Branco,Superior
