@@ -9,15 +9,44 @@ import shapefile
 import utm
 from shapely.geometry import shape, LineString, Polygon
 import math
-
+from database import db_user, db_passwd, db_host, db_port, db_name
+import psycopg2 as db
+import io
+from matplotlib.figure import Figure
+from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
+from flask import Response
 
 csv_incidentes = "../incidentes/acidentes.csv"
 
-acidentes = pd.read_csv(csv_incidentes, header=0,delimiter=";", low_memory=False) 
+acidentes = pd.read_csv(csv_incidentes, header=0,delimiter=";", low_memory=False)
+radares = pd.read_csv('radares.csv', header=0,delimiter=",", low_memory=False)
+
+def historico_radar(codigo):
+    connection = db.connect(user=db_user, password=db_passwd, host=db_host, port=db_port, database=db_name)
+    cursor = connection.cursor()
+    cursor.execute("SELECT data_e_hora, autuacoes FROM radar.contagens WHERE localidade = %s ORDER BY data_e_hora", (codigo,))
+
+    xs = []
+    ys = []
+    for row in cursor:
+        xs.append(row[0])
+        ys.append(row[1])
+
+    fig = Figure()
+    axis = fig.add_subplot(1, 1, 1)
+    axis.plot(xs, ys)
+
+    output = io.BytesIO()
+    FigureCanvas(fig).print_png(output)
+
+    cursor.close()
+    connection.close()
+
+    return Response(output.getvalue(), mimetype='image/png')
+
 
 def load_radares():
-    df = pd.read_csv('radares.csv', header=0,delimiter=",", low_memory=False) 
-    df = gpd.GeoDataFrame(df)
+    df = gpd.GeoDataFrame(radares)
     df = df.dropna(subset=['latitude_l'])
     df = df[df['ligado'] == 1]
 
