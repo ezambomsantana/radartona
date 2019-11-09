@@ -7,11 +7,36 @@ import unidecode
 import math
 import shapefile
 import utm
+from database import get_radares
 from shapely.geometry import shape, LineString, Polygon
+import math
+
 
 csv_incidentes = "../incidentes/records.csv"
 
 acidentes = pd.read_csv(csv_incidentes, header=0,delimiter=",", low_memory=False) 
+
+
+def load_radares():
+    df = pd.read_csv('radares.csv', header=0,delimiter=",", low_memory=False) 
+    df = gpd.GeoDataFrame(df)
+    df = df.dropna(subset=['latitude_l'])
+
+    lats = []
+    longs = []
+    for index, row in df.iterrows():
+        coords = row['latitude_l']
+        if coords != 'None':
+            print(coords)
+            coords = coords.replace("(","").replace(")","").split(" ")
+            if len(coords) > 1:
+                lats.append(coords[0])
+                longs.append(coords[1])
+
+    df = pd.DataFrame(list(zip(lats, longs)), columns =['lat', 'lon'])
+    return df
+
+print(load_radares())
 
 def load_acidentes(tipos):
 
@@ -40,8 +65,6 @@ def load_faixas():
     #write into a dataframe
     df = pd.DataFrame(columns=fields, data=records)
     df = df.assign(coords=shps)
-
-    print(df)
 
     lines = []
     nomes = []

@@ -3,7 +3,7 @@ from flask import Flask, request
 from flask_restful import Resource, Api
 from flask import render_template
 import json
-from server_functions import load_acidentes, load_faixas, load_corredores
+from server_functions import load_acidentes, load_faixas, load_corredores, load_radares
 
 app = Flask(__name__, static_url_path='', 
             static_folder='static')
@@ -19,6 +19,11 @@ class Acidentes(Resource):
         tipo = args['tipo']
         return load_acidentes(tipo).to_json(orient='records')
 
+
+class Radares(Resource):
+    def get(self):
+        return load_radares().to_json(orient='records')
+
 class Faixas(Resource):
     def get(self):
         return load_faixas().to_json()
@@ -30,6 +35,7 @@ class Corredores(Resource):
 api.add_resource(Acidentes, '/acidentes')
 api.add_resource(Faixas, '/faixas')
 api.add_resource(Corredores, '/corredores')
+api.add_resource(Radares, '/radares')
 
 if __name__ == '__main__':
      app.run(port='5005')
