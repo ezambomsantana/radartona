@@ -9,12 +9,13 @@ db_port='5432'
 db_name='hackatona'
 
 
-def get_radares():
+def connect_table():
     connection = db.connect(user=db_user,password=db_passwd,host=db_host,port=db_port,database=db_name)
     #df = psql.frame_query("SELECT * FROM test WHERE id > 0", connection)
-    df = pd.read_sql_query("SELECT * FROM base_radares where latitude_l is not null and ligado = 1", con=connection)
-    df.to_csv('radares.csv')
-    return df
-        
+    df = pd.read_sql_query("SELECT * FROM radar_route", con=connection)
+    print(df)
+    
+    df.to_csv('radar_route.csv',index=False)
+    
 if __name__ == '__main__':
-    get_radares()
+    connect_table()
