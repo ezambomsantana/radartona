@@ -12,10 +12,22 @@ db_name='hackatona'
 def connect_table():
     connection = db.connect(user=db_user,password=db_passwd,host=db_host,port=db_port,database=db_name)
     #df = psql.frame_query("SELECT * FROM test WHERE id > 0", connection)
-    df = pd.read_sql_query("SELECT * FROM radar_route", con=connection)
+    df = pd.read_sql_query("SELECT * FROM base_radares", con=connection)
     print(df)
+    for index, row in df.iterrows():
+
+        6742 - 6743 - 6796 - 6797
+        codigo = row['codigo']
+        codigos = coords.replace(" ","").split("-")
+
+
+
+        df = pd.read_sql_query("select sum(autuacoes) from radar.contagens where localidade = " + codigo, con=connection)
+        print(df['sum'])
     
     df.to_csv('radar_route.csv',index=False)
     
 if __name__ == '__main__':
     connect_table()
+
+

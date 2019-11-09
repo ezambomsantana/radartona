@@ -7,7 +7,6 @@ import unidecode
 import math
 import shapefile
 import utm
-from database import get_radares
 from shapely.geometry import shape, LineString, Polygon
 import math
 
@@ -15,7 +14,6 @@ import math
 csv_incidentes = "../incidentes/acidentes-fev-2018.csv"
 
 acidentes = pd.read_csv(csv_incidentes, header=0,delimiter=";", low_memory=False) 
-
 
 def load_radares():
     df = pd.read_csv('radares.csv', header=0,delimiter=",", low_memory=False) 
@@ -50,10 +48,10 @@ print(load_radares())
 
 def load_acidentes(tipos):
 
-    acidentes_bike = acidentes[acidentes['bicicleta'] != 0]
-    acidentes_pedestre = acidentes[acidentes['TipoAcidente'] != 'Atropelamento']
+  #  acidentes_bike = acidentes[acidentes['bicicleta'] != 0]
+  #  acidentes_pedestre = acidentes[acidentes['TipoAcidente'] != 'Atropelamento']
 
-    acidentes_copy = acidentes_bike.append(acidentes_pedestre)
+    acidentes_copy = acidentes
 
     tipos_filtros = []
     if tipos != "0":
