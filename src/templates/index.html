@@ -81,6 +81,8 @@
             </div>
             <button onclick="initiate_pontos(false)">Recarregar</button>  
           
+
+            <img id="grafico" src="http://localhost:5005/historico?codigo=2416"></img>
           </div>
 
         </div>
@@ -368,7 +370,12 @@
     function onClick(e) {
         var res = this.getTooltip().getContent().split(":");
         codigo = res[1].split(';')[0].split('-')[0];
-        alert(codigo.replace(' ', ''));
+        var url = 'http://localhost:5005/historico?codigo=' + codigo;
+
+        var imagem = document.getElementById('grafico');
+        imagem.src = url;
+
+
     }
 
     var redIcon = new L.Icon({
