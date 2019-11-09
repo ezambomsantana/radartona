@@ -33,8 +33,9 @@ def load_radares():
         endereco = row['endereco']
         sentido = row['sentido']
         autuacoes = row['autuacoes']
+        contagens = row['contagem']
 
-        desc =  str(codigo) + ' ; ' + str(velocidade) + ' ; ' +  str(endereco) + ' ; ' +  str(sentido) + ' ; ' + str(autuacoes)
+        desc =  str(codigo) + ' ; ' + str(velocidade) + ' ; ' +  str(endereco) + ' ; ' +  str(sentido) + ' ; ' + str(autuacoes) + ' ; ' + str(contagens)
 
         if coords != 'None':
             coords = coords.replace("(","").replace(")","").split(" ")
