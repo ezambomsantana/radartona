@@ -11,7 +11,7 @@ from shapely.geometry import shape, LineString, Polygon
 import math
 
 
-csv_incidentes = "../incidentes/acidentes-fev-2018.csv"
+csv_incidentes = "../incidentes/acidentes.csv"
 
 acidentes = pd.read_csv(csv_incidentes, header=0,delimiter=";", low_memory=False) 
 
@@ -19,6 +19,8 @@ def load_radares():
     df = pd.read_csv('radares.csv', header=0,delimiter=",", low_memory=False) 
     df = gpd.GeoDataFrame(df)
     df = df.dropna(subset=['latitude_l'])
+
+    print(df)
 
     lats = []
     longs = []
@@ -30,11 +32,11 @@ def load_radares():
         velocidade = row['velocidade']
         endereco = row['endereco']
         sentido = row['sentido']
+        autuacoes = row['autuacoes']
 
-        desc =  str(codigo) + ';' + str(velocidade) + ';' +  str(endereco) + ';' +  str(sentido)
+        desc =  str(codigo) + ' ; ' + str(velocidade) + ' ; ' +  str(endereco) + ' ; ' +  str(sentido) + ' ; ' + str(autuacoes)
 
         if coords != 'None':
-            print(coords)
             coords = coords.replace("(","").replace(")","").split(" ")
             if len(coords) > 1:
                 lats.append(coords[0])
@@ -43,8 +45,6 @@ def load_radares():
 
     df = pd.DataFrame(list(zip(lats, longs, descs)), columns =['lat', 'lon','desc'])
     return df
-
-print(load_radares())
 
 def load_acidentes(tipos):
 
