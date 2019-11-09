@@ -19,7 +19,8 @@ class Acidentes(Resource):
     def get(self):
         args = request.args
         tipo = args['tipo']
-        return load_acidentes(tipo).to_json(orient='records')
+        anos = args['anos']
+        return load_acidentes(tipo, anos).to_json(orient='records')
 
 class Radares(Resource):
     def get(self):

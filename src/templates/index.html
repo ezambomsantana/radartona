@@ -13,7 +13,8 @@
     integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
     crossorigin=""></script>
   <script src="decorator.js"></script>
-  <script src="geojson.js"></script>
+  <script src="intersecao-buffer-viario.js"></script>
+  <script src="intersecao-radares-buffer-viario2.js"></script>
   
   <title>Template de dashboard, usando Bootstrap.</title>
 
@@ -68,13 +69,14 @@
               <label for="exampleFormControlSelect2">Tipos de Incidente</label>
               <select multiple class="form-control" id="tipo">
                 <option value="0" selected>Todos</option>
-                <option value="Atropelamento">01 - Atropelamento</option>
-                <option value="Capotamento">02 - Capotamento</option>
-                <option value="Choque">03 - Choque</option>
-                <option value="Colisão">04 - Colisão</option>
-                <option value="Outros">05 - Outros</option>
-                <option value="Queda">06 - Queda</option>
-                <option value="Sem informçaões">07 - Sem informçaões</option>
+                <option value="Atropelamento">Apenas acidentes com mortos</option>
+              </select>
+
+              <label for="exampleFormControlSelect2">Anos</label>
+              <select multiple class="form-control" id="anos">
+                <option value="2016">2016</option>
+                <option value="2017">2017</option>
+                <option value="2018">2018</option>
               </select>
             </div>
             <button onclick="initiate_pontos(false)">Recarregar</button>  
@@ -131,9 +133,8 @@
       id: 'mapbox.light'
     }).addTo(map);
 
-    L.geoJSON(geojson_500).addTo(map);
+    L.geoJSON(radares).addTo(map);
     L.control.scale().addTo(map);
-
 
     // control that shows state info on hover
     var info = L.control();
@@ -331,11 +332,12 @@
 
     function initiate_pontos() {
       var tipos = Array.from(document.getElementById('tipo').selectedOptions).map(v => v.value);
+      var anos = Array.from(document.getElementById('anos').selectedOptions).map(v => v.value);
       if (pontosLayer != null) {
         map.removeLayer(pontosLayer);
         pontosLayer = null;
       }
-      var url = 'http://' + server + '/acidentes?tipo=' + tipos
+      var url = 'http://' + server + '/acidentes?tipo=' + tipos + '&anos=' + anos
       fetch(url, {
         method: 'get',
         headers: {
@@ -350,13 +352,23 @@
             var markerArray = [];
             for (var i in pontos_data) {
               position = pontos_data[i];
-              markerArray.push(L.marker([position['latitude'], position['longitude']], {icon: redIcon}).bindTooltip('Dados: ' + position['nomeA'] + " ; " + position['hora'] + ' ; ' + position['CodigoAcidente'] + ' ; ' + position['obito'], {permanent: false, direction: 'top'}));
+              markerArray.push(L.circleMarker([position['latitude'], position['longitude']], {radius: 4, 
+                                                fillOpacity: 0.5, 
+                                                color: 'red', 
+                                                fillColor: 'red', 
+                                                weight: 1,}).bindTooltip('Dados: ' + position['endereco1'] + " ; " + position['data'] + ' ; ' + position['tipo_acid'] + ' ; ' + position['mortas'], {permanent: false, direction: 'top'}));
             }
             pontosLayer = L.featureGroup(markerArray).addTo(map);
           })
       }).catch(function (err) {
         // Error
       });
+    }
+
+    function onClick(e) {
+        var res = this.getTooltip().getContent().split(":");
+        codigo = res[1].split(';')[0].split('-')[0];
+        alert(codigo.replace(' ', ''));
     }
 
     var redIcon = new L.Icon({
@@ -452,7 +464,11 @@
             var markerArray = [];
             for (var i in pontos_data) {
               position = pontos_data[i];
-              markerArray.push(L.marker([position['lon'], position['lat']], {icon: greenIcon}).bindTooltip('Dados: ' + position['desc'], {permanent: false, direction: 'top'}));
+              markerArray.push(L.circleMarker([position['lon'], position['lat']], {radius: 4, 
+                                                fillOpacity: 0.5, 
+                                                color: 'green', 
+                                                fillColor: 'green', 
+                                                weight: 0,}).on('click', onClick).bindTooltip('Dados: ' + position['desc'], {permanent: false, direction: 'top'}));
             }
             radaresLayer = L.featureGroup(markerArray).addTo(map);
           })

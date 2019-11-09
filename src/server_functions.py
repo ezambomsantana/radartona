@@ -10,16 +10,14 @@ import utm
 from shapely.geometry import shape, LineString, Polygon
 import math
 
-
-csv_incidentes = "../incidentes/acidentes.csv"
-
-acidentes = pd.read_csv(csv_incidentes, header=0,delimiter=";", low_memory=False) 
+acidentes2016 = pd.read_csv("../incidentes/acidentes_fev_2016.csv", header=0,delimiter=",", low_memory=False) 
+acidentes2017 = pd.read_csv("../incidentes/acidentes_fev_2017.csv", header=0,delimiter=",", low_memory=False) 
+acidentes2018 = pd.read_csv("../incidentes/acidentes_fev_2018.csv", header=0,delimiter=",", low_memory=False) 
 
 def load_radares():
     df = pd.read_csv('radares.csv', header=0,delimiter=",", low_memory=False) 
     df = gpd.GeoDataFrame(df)
     df = df.dropna(subset=['latitude_l'])
-    df = df[df['ligado'] == 1]
 
     lats = []
     longs = []
@@ -34,15 +32,13 @@ def load_radares():
         autuacoes = row['autuacoes']
         contagens = row['contagem']
 
-        desc =  str(codigo) + ' ; ' + str(velocidade) + ' ; ' +  str(endereco) + ' ; ' +  str(sentido) + ' ; ' + str(autuacoes) + ' ; ' + str(contagens)
+        desc =  str(codigo) + ' ; ' + str(row['data_publi']) +  ' ; ' + str(velocidade) + ' ; ' +  str(endereco) + ' ; ' +  str(sentido) + ' ; ' + str(autuacoes) + ' ; ' + str(contagens)
 
         if coords != 'None':
             print(coords)
             coords = coords.replace("(","").replace(")","").split(" ")
 
             if len(coords) == 2:
-                print(codigo)
-                print(coords)
                 c1 = float(coords[0])
                 c2 = float(coords[1])
                 if c1 > c2:
@@ -55,19 +51,40 @@ def load_radares():
                 descs.append(desc)
 
     df = pd.DataFrame(list(zip(lats, longs, descs)), columns =['lat', 'lon','desc'])
+    print(df)
     return df
 
-def load_acidentes(tipos):
+def load_acidentes(tipos, anos):
 
   #  acidentes_bike = acidentes[acidentes['bicicleta'] != 0]
   #  acidentes_pedestre = acidentes[acidentes['TipoAcidente'] != 'Atropelamento']
 
-    acidentes_copy = acidentes
+    acidentes_copy = None
+
+    if anos != "0":
+        anos_vetor = anos.split(",")
+        print(anos_vetor)
+
+        for ano in anos_vetor:
+            if ano == '2016':
+                if acidentes_copy is None:
+                    acidentes_copy = acidentes2016
+                else:
+                    acidentes_copy = acidentes_copy.append(acidentes2016)
+            if ano == '2017':
+                if acidentes_copy is None:
+                    acidentes_copy = acidentes2017
+                else:
+                    acidentes_copy = acidentes_copy.append(acidentes2017)
+            if ano == '2018':
+                if acidentes_copy is None:
+                    acidentes_copy = acidentes2018
+                else:
+                    acidentes_copy = acidentes_copy.append(acidentes2018)
 
     tipos_filtros = []
-    if tipos != "0":
-        tipos = tipos.split(",")
-        acidentes_copy = acidentes_copy[acidentes_copy['Tipo de Acidente'] == tipos[0].encode('utf-8')] 
+    if tipos != "0":     
+        acidentes_copy = acidentes_copy[acidentes_copy['mortas'] >= 1]
     acidentes_copy = acidentes_copy[~acidentes_copy.latitude.isnull() & ~acidentes_copy.longitude.isnull()]
     return acidentes_copy
 
