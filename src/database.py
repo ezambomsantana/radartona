@@ -8,30 +8,68 @@ db_host='192.168.167.44'
 db_port='5432'
 db_name='hackatona'
 
-
-def connect_table():
+def count_autuacoes():
     connection = db.connect(user=db_user,password=db_passwd,host=db_host,port=db_port,database=db_name)
     #df = psql.frame_query("SELECT * FROM test WHERE id > 0", connection)
     df = pd.read_sql_query("SELECT * FROM base_radares", con=connection)
-    print(df)
+    autuacoes = []
     for index, row in df.iterrows():
 
-       # 6742 - 6743 - 6796 - 6797
         codigo = row['codigo']
-      #  codigos = coords.replace(" ","").split("-")
+        codigos = codigo.replace(" ","").split("-")
+
+        sum = 0
+        for c in codigos:
+            df2 = pd.read_sql_query("select sum(autuacoes) from radar.contagens where localidade = " + c, con=connection)
+            
+            for index, row in df2.iterrows():
+                aut = row['sum']
+                if aut is not None:
+                    sum = sum + aut
+
+        print('total: ' + str(sum))
+        autuacoes.append(aut)
+
+    df['autuacoes'] = autuacoes
+    df.to_csv('radares.csv',index=False)
 
 
+def count_fluxos():
+    connection = db.connect(user=db_user,password=db_passwd,host=db_host,port=db_port,database=db_name)
+    #df = psql.frame_query("SELECT * FROM test WHERE id > 0", connection)
+    df = pd.read_sql_query("SELECT * FROM base_radares", con=connection)
+    autuacoes = []
+    for index, row in df.iterrows():
 
-        df = pd.read_sql_query("select sum(autuacoes) from radar.contagens where localidade = " + codigo, con=connection)
-        print(df['sum'])
-    
-    df.to_csv('radar_route.csv',index=False)
+        codigo = row['codigo']
+        codigos = codigo.replace(" ","").split("-")
+
+        sum = 0
+        for c in codigos:
+            df2 = pd.read_sql_query("select sum(contagem) from radar.contagens where localidade = " + c, con=connection)
+            
+            for index, row in df2.iterrows():
+                aut = row['sum']
+                if aut is not None:
+                    sum = sum + aut
+
+        print('total: ' + str(sum))
+        autuacoes.append(aut)
+
+    df['contagem'] = autuacoes
+    df.to_csv('radares.csv',index=False)
     
 if __name__ == '__main__':
-    connect_table()
+    count_fluxos()
 
 def get_radares():
     connection = db.connect(user=db_user,password=db_passwd,host=db_host,port=db_port,database=db_name)
     df = pd.read_sql_query("SELECT * FROM base_radares where latitude_l is not null and ligado = 1", con=connection)
     df.to_csv('radares.csv')
     return df
+
+def save_contagem():
+    connection = db.connect(user=db_user,password=db_passwd,host=db_host,port=db_port,database=db_name)
+    #df = psql.frame_query("SELECT * FROM contagens", connection)
+    df = pd.read_sql_query("SELECT * FROM radar.contagens", con=connection)
+    df.to_csv('contagens.csv',index=False)

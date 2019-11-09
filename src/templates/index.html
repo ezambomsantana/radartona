@@ -129,6 +129,9 @@
     }).addTo(map);
 
 
+    L.control.scale().addTo(map);
+
+
     // control that shows state info on hover
     var info = L.control();
 
@@ -344,7 +347,7 @@
             var markerArray = [];
             for (var i in pontos_data) {
               position = pontos_data[i];
-              markerArray.push(L.marker([position['latitude'], position['longitude']]).bindTooltip('Dados: ' + position['nomeA'] + " ; " + position['hora'] + ' ; ' + position['CodigoAcidente'] + ' ; ' + position['obito'], {permanent: false, direction: 'top'}));
+              markerArray.push(L.marker([position['latitude'], position['longitude']], {icon: redIcon}).bindTooltip('Dados: ' + position['nomeA'] + " ; " + position['hora'] + ' ; ' + position['CodigoAcidente'] + ' ; ' + position['obito'], {permanent: false, direction: 'top'}));
             }
 
             pontosLayer = L.featureGroup(markerArray).addTo(map);
@@ -353,6 +356,15 @@
         // Error
       });
     }
+
+    var redIcon = new L.Icon({
+      iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png',
+      shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+      iconSize: [25, 41],
+      iconAnchor: [12, 41],
+      popupAnchor: [1, -34],
+      shadowSize: [41, 41]
+    });
 
     function show_corredores() {
       if (corredoresLayer != null) {
@@ -438,7 +450,7 @@
             var markerArray = [];
             for (var i in pontos_data) {
               position = pontos_data[i];
-              markerArray.push(L.marker([position['lon'], position['lat']], {icon: greenIcon}).bindTooltip('Dados: ' + position['desc'] + ' ; ' + position['TipoAcidente'], {permanent: false, direction: 'top'}));
+              markerArray.push(L.marker([position['lon'], position['lat']], {icon: greenIcon}).bindTooltip('Dados: ' + position['desc'], {permanent: false, direction: 'top'}));
             }
             radaresLayer = L.featureGroup(markerArray).addTo(map);
           })
