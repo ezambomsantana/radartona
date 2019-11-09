@@ -58,7 +58,7 @@ def load_acidentes(tipos):
     if tipos != "0":
         tipos = tipos.split(",")
         acidentes_copy = acidentes_copy[acidentes_copy['Tipo de Acidente'] == tipos[0].encode('utf-8')] 
-
+    acidentes_copy = acidentes_copy[~acidentes_copy.latitude.isnull() & ~acidentes_copy.longitude.isnull()]
     return acidentes_copy
 
 def load_corredores():
