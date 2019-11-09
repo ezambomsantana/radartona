@@ -19,8 +19,7 @@ def load_radares():
     df = pd.read_csv('radares.csv', header=0,delimiter=",", low_memory=False) 
     df = gpd.GeoDataFrame(df)
     df = df.dropna(subset=['latitude_l'])
-
-    print(df)
+    df = df[df['ligado'] == 1]
 
     lats = []
     longs = []
@@ -38,10 +37,21 @@ def load_radares():
         desc =  str(codigo) + ' ; ' + str(velocidade) + ' ; ' +  str(endereco) + ' ; ' +  str(sentido) + ' ; ' + str(autuacoes) + ' ; ' + str(contagens)
 
         if coords != 'None':
+            print(coords)
             coords = coords.replace("(","").replace(")","").split(" ")
-            if len(coords) > 1:
-                lats.append(coords[0])
-                longs.append(coords[1])
+
+            if len(coords) == 2:
+                print(codigo)
+                print(coords)
+                c1 = float(coords[0])
+                c2 = float(coords[1])
+                if c1 > c2:
+                    lats.append(coords[1])
+                    longs.append(coords[0])
+                else:
+                    lats.append(coords[0])
+                    longs.append(coords[1])
+                    
                 descs.append(desc)
 
     df = pd.DataFrame(list(zip(lats, longs, descs)), columns =['lat', 'lon','desc'])
