@@ -1,5 +1,9 @@
 Radartona 2019 - InterSCity team 
 ===================================================
+- Éderson Cassio Lacerda Ferreira
+- Eduardo Felipe Zambom Santana
+- Higor Amario de Souza
+---------------------------------------------------
 
 Desafio Radares x Acidentes
 
@@ -22,6 +26,16 @@ Também foi feita a correlação entre as contagens dos radares dos tipos de ve�
 ![Interface da Aplicação](https://raw.githubusercontent.com/ezambomsantana/radartona/master/images/correlacao.png)
 
 
+Conclusões
+
+- A nossa análise indica que a presença de radares reduz a quantidade de acidentes que ocorrem nas suas proximidades.
+
+- A instalação de novos radares tem o potencial de reduzir ainda mais o número de acidentes, evitando também a ocorrência de mortes. 
+Essa redução pode ter impacto nos gastos com saúde. Esses custos poderiam ser revertidos para a instalação de novos radares.
+
+- As correlações mostram distritos da cidade que devem ser melhor estudados.
+
+- Esse estudo pode ajudar a conscientizar a população sobre a importância dos radares para a segurança viárias.
 
 
 
@@ -35,7 +49,6 @@ Python modules and dependencies
 - utm
 
 - postgresql DB
-
 
 
 ---------------------------------------------------
