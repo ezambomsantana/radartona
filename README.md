@@ -47,9 +47,12 @@ Python modules and dependencies
 - flask_restful
 - unidecode
 - utm
-
 - postgresql DB
 
+Para rodar a aplicação basta rodar os seguintes comandos:
+
+cd src
+python server.py
 
 ---------------------------------------------------
 Dados Utilizados
