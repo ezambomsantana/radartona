@@ -33,7 +33,6 @@ radares_geodf = gpd.GeoDataFrame(data=radares, geometry=pontos_radares, crs=crs)
 radares_geodf = radares_geodf[~radares_geodf.geometry.isnull()]
 
 acidentes = gpd.GeoDataFrame.from_file("../incidentes/SIRGAS_SHP_acidentecet/SIRGAS_SHP_acidentecet.shp", encoding='latin-1')
-acidentes = acidentes[acidentes['aci_data'].str.contains('2018', regex=True)]
 acidentes.crs = {'init' :'epsg:22523'}
 acidentes = acidentes.to_crs({"init": "epsg:4326"})
 acidentes_geodf = acidentes[~acidentes.geometry.isnull()]
