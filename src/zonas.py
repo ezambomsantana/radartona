@@ -6,6 +6,8 @@ from shapely.ops import transform
 import geopandas as gpd
 import csv
 import unidecode
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 proj_wgs84 = pyproj.Proj(init='epsg:4326')
 crs = {'init': 'epsg:4326'}
@@ -33,6 +35,8 @@ radares_geodf = gpd.GeoDataFrame(data=radares, geometry=pontos_radares, crs=crs)
 radares_geodf = radares_geodf[~radares_geodf.geometry.isnull()]
 
 acidentes = gpd.GeoDataFrame.from_file("../incidentes/SIRGAS_SHP_acidentecet/SIRGAS_SHP_acidentecet.shp", encoding='latin-1')
+acidentes = acidentes[acidentes['aci_fatais'] > 0]
+acidentes = acidentes[acidentes['aci_data'].str.contains('2018', regex=True)]
 acidentes.crs = {'init' :'epsg:22523'}
 acidentes = acidentes.to_crs({"init": "epsg:4326"})
 acidentes_geodf = acidentes[~acidentes.geometry.isnull()]
@@ -44,10 +48,12 @@ zonas['NomeDistri'] = zonas['NomeDistri'].apply(lambda x: unidecode.unidecode(x)
 sjoin = gpd.sjoin(zonas, radares_geodf, op='contains')
 sjoin_zonas = gpd.sjoin(zonas, acidentes_geodf, op='contains')
 
-print(sjoin)
-print(sjoin_zonas)
 
-count = sjoin.groupby('NomeDistri', as_index=True).agg({'cont_motos': 'sum', 'cont_carros': 'sum', 'cont_onibus': 'sum', 'cont_caminhao': 'sum'})
+
+count = sjoin.groupby('NomeDistri', as_index=True).agg({'id': 'count','cont_motos': 'sum', 'cont_carros': 'sum', 'cont_onibus': 'sum', 'cont_caminhao': 'sum', 'contagem':'sum','autuacoes':'sum'})
+print(count)
+count.columns = ['carros','motos', 'caminhao','autuacoes', 'onibus', 'num_radares', 'contagem']
+
 count2 = sjoin_zonas.groupby('NomeDistri', as_index=True).agg({'NomeDistri': 'count'})
 count2.columns = ['acidentes']
 
@@ -57,4 +63,12 @@ print(final)
 final = final.fillna(0)
 print(final.sort_values(by='acidentes', ascending=False))
 
+print(final.sum())
+
 print(final.corr())
+
+sns.heatmap(final.corr(),
+            vmin=-1,
+            cmap='coolwarm',
+            annot=True)
+plt.savefig('foo.png')
