@@ -26,13 +26,6 @@ def point_from_lat_long(linha):
     except:
         return None
 
-def calculate_weighted_mean(data):
-    data['FE_VIA'] = data['FE_VIA'].apply(lambda x: 1 if math.isnan(x) else x)
-    data['FE_VIA'] = data['FE_VIA'].apply(lambda x: 1 if int(x) == 0 else x)
-    data['MP'] = data['FE_VIA'] * data['DURACAO']
-    data['MP_DIST'] = data['FE_VIA'] * data['DISTANCE']
-    return data
-
 radares = pd.read_csv('radares.csv')
 radares = radares[radares['contagem'] > 0]
 pontos_radares = radares.latitude_l.apply(lambda l: point_from_tuple_str(l))
@@ -56,46 +49,11 @@ print(sjoin)
 print(sjoin_zonas)
 
 
-
-
-folder_data = "../data/"
-arq17 = "dados17_distance.csv"
-
-data17 = pd.read_csv(folder_data + arq17, dtype={'ZONA_O': str, 'ZONA_D': str}, header=0,delimiter=",", low_memory=False) 
-data17 = data17.dropna(subset=['CO_O_X'])
-
-data17 = data17.drop(['ID_DOM', 'FE_DOM', 'VIA_BICI','TP_ESTBICI','F_FAM','FE_FAM','FAMILIA','NO_MORAF',
-                      'CONDMORA','QT_BANHO','QT_EMPRE','QT_AUTO','QT_MICRO','QT_LAVALOU','QT_GEL1'], axis=1)
-
-csv_file = folder_data + "regioes17.csv"
-mydict = []
-with open(csv_file, mode='r') as infile:
-    reader = csv.reader(infile, delimiter=";")
-    mydict = {rows[0]:rows[1] for rows in reader}
-
-csv_file = folder_data + "zonas17.csv"
-zonas_nomes = []
-with open(csv_file, mode='r') as infile:
-    reader = csv.reader(infile, delimiter=";")
-    zonas_nomes = {rows[0]:rows[1] for rows in reader}
-
-data17['NOME_O'] = data17['ZONA_O'].apply(lambda x: '' if pd.isnull(x) else mydict[x])
-data17['NOME_D'] = data17['ZONA_D'].apply(lambda x: '' if pd.isnull(x) else mydict[x])
-
-data17['ZONA_O'] = data17['ZONA_O'].apply(lambda x: '' if pd.isnull(x) else zonas_nomes[x])
-data17['ZONA_D'] = data17['ZONA_D'].apply(lambda x: '' if pd.isnull(x) else zonas_nomes[x])
-
-data17['NUM_TRANS'] = data17[['MODO1', 'MODO2','MODO3','MODO4']].count(axis=1)
-
-data17 = data17[data17['MODOPRIN'] == 13] 
-data_renda = data17[['ZONA_O','FE_VIA']].groupby(['ZONA_O']).sum()
-
-
 count = sjoin.groupby('NomeZona', as_index=True).agg({'contagem': 'sum', 'autuacoes': 'sum'})
 count2 = sjoin_zonas.groupby('NomeZona', as_index=True).agg({'NomeDistri': 'count'})
 
 
-final = count.join(count2).join(data_renda)
+final = count.join(count2)
 
 
 final['media'] = final['autuacoes']  / final['contagem'] * 100
