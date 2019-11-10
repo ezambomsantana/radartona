@@ -19,7 +19,7 @@ Foram analisados também a quantidade de acidentes que ocorrem dependendo da dis
 
 Também foi feita a correlação entre as contagens dos radares dos tipos de veículos nos distritos da cidade e a quantidade de acidentes.
 
-![Interface da Aplicação](images/correlacao.png)
+![Interface da Aplicação](https://raw.githubusercontent.com/ezambomsantana/radartona/master/images/correlacao.png)
 
 
 
