@@ -19,6 +19,11 @@ from flask import Response
 acidentes2016 = pd.read_csv("../incidentes/acidentes_fev_2016.csv", header=0,delimiter=",", low_memory=False) 
 acidentes2017 = pd.read_csv("../incidentes/acidentes_fev_2017.csv", header=0,delimiter=",", low_memory=False) 
 acidentes2018 = pd.read_csv("../incidentes/acidentes_fev_2018.csv", header=0,delimiter=",", low_memory=False) 
+acidentes2019 = pd.read_csv("../incidentes/acidentes_fev_2019.csv", header=0,delimiter=",", low_memory=False) 
+
+acidentes2016 = acidentes2016[['latitude', 'longitude', 'endereco1']]
+acidentes2017 = acidentes2017[['latitude', 'longitude', 'endereco1']]
+acidentes2018 = acidentes2018[['latitude', 'longitude', 'endereco1']]
 
 radares = pd.read_csv('radares.csv', header=0,delimiter=",", low_memory=False)
 
@@ -111,6 +116,11 @@ def load_acidentes(tipos, anos):
                     acidentes_copy = acidentes2018
                 else:
                     acidentes_copy = acidentes_copy.append(acidentes2018)
+            if ano == '2019':
+                if acidentes_copy is None:
+                    acidentes_copy = acidentes2019
+                else:
+                    acidentes_copy = acidentes_copy.append(acidentes2019)
 
     tipos_filtros = []
     if tipos != "0":     
