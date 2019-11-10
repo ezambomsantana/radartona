@@ -1,0 +1,517 @@
+1;Se
+2;Se
+3;Se
+4;Republica
+5;Republica
+6;Republica
+7;Bom Retiro
+8;Bom Retiro
+9;Bom Retiro
+10;Pari
+11;Pari
+12;Pari
+13;Bras
+14;Bras
+15;Bras
+16;Bras
+17;Bras
+18;Cambuci
+19;Cambuci
+20;Liberdade
+21;Liberdade
+22;Liberdade
+23;Liberdade
+24;Liberdade
+25;Bela Vista
+26;Bela Vista
+27;Bela Vista
+28;Bela Vista
+29;Bela Vista
+30;Consolacao
+31;Consolacao
+32;Consolacao
+33;Consolacao
+34;Consolacao
+35;Santa Cecilia
+36;Santa Cecilia
+37;Santa Cecilia
+38;Belem
+39;Belem
+40;Belem
+41;Belem
+42;Belem
+43;Mooca
+44;Mooca
+45;Mooca
+46;Agua Rasa
+47;Agua Rasa
+48;Agua Rasa
+49;Vila Mariana
+50;Vila Mariana
+51;Vila Mariana
+52;Vila Mariana
+53;Vila Mariana
+54;Vila Mariana
+55;Vila Mariana
+56;Vila Mariana
+57;Vila Mariana
+58;Saude
+59;Saude
+60;Saude
+61;Saude
+62;Moema
+63;Moema
+64;Moema
+65;Moema
+66;Moema
+67;Moema
+68;Itaim Bibi
+69;Itaim Bibi
+70;Itaim Bibi
+71;Itaim Bibi
+72;Itaim Bibi
+73;Itaim Bibi
+74;Jardim Paulista
+75;Jardim Paulista
+76;Jardim Paulista
+77;Jardim Paulista
+78;Jardim Paulista
+79;Jardim Paulista
+80;Pinheiros
+81;Pinheiros
+82;Pinheiros
+83;Pinheiros
+84;Perdizes
+85;Perdizes
+86;Perdizes
+87;Perdizes
+88;Perdizes
+89;Perdizes
+90;Perdizes
+91;Barra Funda
+92;Barra Funda
+93;Barra Funda
+94;Barra Funda
+95;Alto de Pinheiros
+96;Alto de Pinheiros
+97;Alto de Pinheiros
+98;Lapa
+99;Lapa
+100;Lapa
+101;Lapa
+102;Lapa
+103;Lapa
+104;Vila Leopoldina
+105;Vila Leopoldina
+106;Vila Leopoldina
+107;Vila Leopoldina
+108;Vila Leopoldina
+109;Pirituba
+110;Pirituba
+111;Sao Domingos
+112;Sao Domingos
+113;Jaguara
+114;Jaragua
+115;Jaragua
+116;Jaragua
+117;Anhanguera
+118;Anhanguera
+119;Perus
+120;Brasilandia
+121;Brasilandia
+122;Brasilandia
+123;Brasilandia
+124;Brasilandia
+125;Freguesia do O
+126;Freguesia do O
+127;Freguesia do O
+128;Santana
+129;Santana
+130;Santana
+131;Santana
+132;Santana
+133;Santana
+134;Santana
+135;Santana
+136;Casa Verde
+137;Casa Verde
+138;Limao
+139;Limao
+140;Limao
+141;Cachoeirinha
+142;Cachoeirinha
+143;Cachoeirinha
+144;Mandaqui
+145;Mandaqui
+146;Mandaqui
+147;Tremembe
+148;Tremembe
+149;Tremembe
+150;Tremembe
+151;Tremembe
+152;Tucuruvi
+153;Tucuruvi
+154;Tucuruvi
+155;Jacana
+156;Jacana
+157;Jacana
+158;Vila Medeiros
+159;Vila Medeiros
+160;Vila Maria
+161;Vila Maria
+162;Vila Maria
+163;Vila Guilherme
+164;Vila Guilherme
+165;Vila Guilherme
+166;Tatuape
+167;Tatuape
+168;Tatuape
+169;Tatuape
+170;Penha
+171;Penha
+172;Penha
+173;Penha
+174;Cangaiba
+175;Cangaiba
+176;Cangaiba
+177;Cangaiba
+178;Cangaiba
+179;Ermelino Matarazzo
+180;Ermelino Matarazzo
+181;Ermelino Matarazzo
+182;Ponte Rasa
+183;Ponte Rasa
+184;Vila Jacui
+185;Vila Jacui
+186;Vila Jacui
+187;Vila Jacui
+188;Vila Jacui
+189;Itaquera
+190;Itaquera
+191;Itaquera
+192;Itaquera
+193;Itaquera
+194;Itaquera
+195;Itaquera
+196;Sao Miguel
+197;Sao Miguel
+198;Sao Miguel
+199;Jardim Helena
+200;Jardim Helena
+201;Vila Curuca
+202;Vila Curuca
+203;Lajeado
+204;Lajeado
+205;Itaim Paulista
+206;Itaim Paulista
+207;Itaim Paulista
+208;Carrao
+209;Carrao
+210;Vila Formosa
+211;Vila Formosa
+212;Aricanduva
+213;Aricanduva
+214;Vila Matilde
+215;Vila Matilde
+216;Vila Matilde
+217;Artur Alvim
+218;Artur Alvim
+219;Cidade Lider
+220;Cidade Lider
+221;Cidade Lider
+222;Parque do Carmo
+223;Parque do Carmo
+224;Parque do Carmo
+225;Jose Bonifacio
+226;Jose Bonifacio
+227;Guaianases
+228;Guaianases
+229;Cidade Tiradentes
+230;Cidade Tiradentes
+231;Iguatemi
+232;Iguatemi
+233;Iguatemi
+234;Sao Rafael
+235;Sao Rafael
+236;Ipiranga
+237;Ipiranga
+238;Ipiranga
+239;Ipiranga
+240;Ipiranga
+241;Ipiranga
+242;Ipiranga
+243;Sacoma
+244;Sacoma
+245;Sacoma
+246;Sacoma
+247;Sacoma
+248;Cursino
+249;Cursino
+250;Cursino
+251;Cursino
+252;Cursino
+253;Vila Prudente
+254;Vila Prudente
+255;Vila Prudente
+256;Sao Lucas
+257;Sao Lucas
+258;Sao Lucas
+259;Sapopemba
+260;Sapopemba
+261;Sapopemba
+262;Sapopemba
+263;Sapopemba
+264;Sao Mateus
+265;Sao Mateus
+266;Sao Mateus
+267;Sao Mateus
+268;Campo Belo
+269;Campo Belo
+270;Campo Belo
+271;Campo Belo
+272;Campo Belo
+273;Jabaquara
+274;Jabaquara
+275;Jabaquara
+276;Jabaquara
+277;Cidade Ademar
+278;Cidade Ademar
+279;Cidade Ademar
+280;Campo Grande
+281;Campo Grande
+282;Campo Grande
+283;Campo Grande
+284;Pedreira
+285;Pedreira
+286;Socorro
+287;Socorro
+288;Cidade Dutra
+289;Cidade Dutra
+290;Cidade Dutra
+291;Cidade Dutra
+292;Grajau
+293;Grajau
+294;Grajau
+295;Grajau
+296;Grajau
+297;Parelheiros
+298;Parelheiros
+299;Marsilac
+300;Santo Amaro
+301;Santo Amaro
+302;Santo Amaro
+303;Santo Amaro
+304;Jardim Sao Luis
+305;Jardim Sao Luis
+306;Jardim Sao Luis
+307;Jardim Angela
+308;Jardim Angela
+309;Jardim Angela
+310;Jardim Angela
+311;Jardim Angela
+312;Capao Redondo
+313;Capao Redondo
+314;Capao Redondo
+315;Capao Redondo
+316;Morumbi
+317;Morumbi
+318;Morumbi
+319;Morumbi
+320;Vila Andrade
+321;Vila Andrade
+322;Vila Andrade
+323;Campo Limpo
+324;Campo Limpo
+325;Campo Limpo
+326;Campo Limpo
+327;Vila Sonia
+328;Vila Sonia
+329;Vila Sonia
+330;Vila Sonia
+331;Raposo Tavares
+332;Raposo Tavares
+333;Raposo Tavares
+334;Rio Pequeno
+335;Rio Pequeno
+336;Rio Pequeno
+337;Jaguare
+338;Jaguare
+339;Butanta
+340;Butanta
+341;Butanta
+342;Butanta
+343;Caieiras
+344;Caieiras
+345;Caieiras
+346;Caieiras
+347;Cajamar
+348;Cajamar
+349;Franco da Rocha
+350;Franco da Rocha
+351;Franco da Rocha
+352;Franco da Rocha
+353;Franco da Rocha
+354;Francisco Morato
+355;Francisco Morato
+356;Francisco Morato
+357;Francisco Morato
+358;Mairipora
+359;Mairipora
+360;Mairipora
+361;Mairipora
+362;Guarulhos
+363;Guarulhos
+364;Guarulhos
+365;Guarulhos
+366;Guarulhos
+367;Guarulhos
+368;Guarulhos
+369;Guarulhos
+370;Guarulhos
+371;Guarulhos
+372;Guarulhos
+373;Guarulhos
+374;Guarulhos
+375;Guarulhos
+376;Guarulhos
+377;Guarulhos
+378;Guarulhos
+379;Guarulhos
+380;Guarulhos
+381;Guarulhos
+382;Guarulhos
+383;Guarulhos
+384;Guarulhos
+385;Guarulhos
+386;Aruja
+387;Aruja
+388;Aruja
+389;Santa Isabel
+390;Santa Isabel
+391;Ferraz de Vasconcelos
+392;Ferraz de Vasconcelos
+393;Ferraz de Vasconcelos
+394;Poa
+395;Poa
+396;Itaquaquecetuba
+397;Itaquaquecetuba
+398;Itaquaquecetuba
+399;Itaquaquecetuba
+400;Suzano
+401;Suzano
+402;Suzano
+403;Suzano
+404;Mogi das Cruzes
+405;Mogi das Cruzes
+406;Mogi das Cruzes
+407;Mogi das Cruzes
+408;Mogi das Cruzes
+409;Mogi das Cruzes
+410;Mogi das Cruzes
+411;Mogi das Cruzes
+412;Mogi das Cruzes
+413;Mogi das Cruzes
+414;Biritiba-Mirim
+415;Salesopolis
+416;Guararema
+417;Sao Caetano do Sul
+418;Sao Caetano do Sul
+419;Sao Caetano do Sul
+420;Sao Caetano do Sul
+421;Sao Caetano do Sul
+422;Santo Andre
+423;Santo Andre
+424;Santo Andre
+425;Santo Andre
+426;Santo Andre
+427;Santo Andre
+428;Santo Andre
+429;Santo Andre
+430;Santo Andre
+431;Santo Andre
+432;Santo Andre
+433;Santo Andre
+434;Santo Andre
+435;Maua
+436;Maua
+437;Maua
+438;Maua
+439;Maua
+440;Ribeirao Pires
+441;Ribeirao Pires
+442;Ribeirao Pires
+443;Rio Grande da Serra
+444;Rio Grande da Serra
+445;Sao Bernardo do Campo
+446;Sao Bernardo do Campo
+447;Sao Bernardo do Campo
+448;Sao Bernardo do Campo
+449;Sao Bernardo do Campo
+450;Sao Bernardo do Campo
+451;Sao Bernardo do Campo
+452;Sao Bernardo do Campo
+453;Sao Bernardo do Campo
+454;Sao Bernardo do Campo
+455;Diadema
+456;Diadema
+457;Diadema
+458;Diadema
+459;Diadema
+460;Taboao da Serra
+461;Taboao da Serra
+462;Taboao da Serra
+463;Taboao da Serra
+464;Embu das Artes
+465;Embu das Artes
+466;Embu das Artes
+467;Embu das Artes
+468;Itapecerica da Serra
+469;Itapecerica da Serra
+470;Itapecerica da Serra
+471;Sao Lourenco da Serra
+472;Embu-Guacu
+473;Embu-Guacu
+474;Embu-Guacu
+475;Juquitiba
+476;Barueri
+477;Barueri
+478;Barueri
+479;Barueri
+480;Barueri
+481;Barueri
+482;Barueri
+483;Barueri
+484;Carapicuiba
+485;Carapicuiba
+486;Carapicuiba
+487;Carapicuiba
+488;Carapicuiba
+489;Osasco
+490;Osasco
+491;Osasco
+492;Osasco
+493;Osasco
+494;Osasco
+495;Osasco
+496;Osasco
+497;Osasco
+498;Osasco
+499;Osasco
+500;Osasco
+501;Osasco
+502;Osasco
+503;Jandira
+504;Jandira
+505;Jandira
+506;Cotia
+507;Cotia
+508;Cotia
+509;Cotia
+510;Cotia
+511;Cotia
+512;Vargem Grande Paulista
+513;Itapevi
+514;Itapevi
+515;Itapevi
+516;Santana de Parnaiba
+517;Pirapora do Bom Jesus

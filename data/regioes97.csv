@@ -1,0 +1,460 @@
+1;Sé
+2;Parque Dom Pedro
+3;Praça João Mendes
+4;Ladeira da Memória
+5;República
+6;Santa Ifigênia
+7;Luz
+8;Bom Retiro
+9;Ponte Pequena
+10;Canindé
+11;Bom Jardim
+12;Pari
+13;João Teodoro
+14;Oriente
+15;Bresser
+16;Brás
+17;Gasômetro
+18;Independência
+19;Cambuci
+20;Glicério
+21;Aclimação
+22;Pires da Mota
+23;Centro Cultural
+24;Liberdade
+25;Treze de Maio
+26;Bexiga
+27;Bela Vista
+28;São Carlos do Pinhal
+29;Masp
+30;Higienópolis
+31;Vila Buarque
+32;Consolação
+33;Pacaembu
+34;FAAP
+35;Santa Cecília
+36;Marechal Deodoro
+37;Rudge
+38;Catumbi
+39;Belém
+40;Quarta Parada
+41;Belenzinho
+42;Celso Garcia
+43;Moóca
+44;Alto da Moóca
+45;Parque da Moóca
+46;Água Rasa
+47;Vila Bertioga
+48;Regente Feijó
+49;Ana Rosa
+50;Jardim da Glória
+51;Chácara Klabin
+52;Vila Mariana
+53;Santa Cruz
+54;Vila Clementino
+55;França Pinto
+56;Rodrigues Alves
+57;Paraíso
+58;Bosque da Saúde
+59;Saúde
+60;Planalto Paulista
+61;Mirandópolis
+62;Parque Ibirapuera
+63;Jardim Luzitânia
+64;Moema
+65;Bandeirantes
+66;Vila Nova Conceição
+67;Chácara Itaim
+68;Vila Olímpia
+69;Hélio Pelegrino
+70;Brooklin
+71;Vila Cordeiro
+72;Berrini
+73;Campinas
+74;Pamplona
+75;Jardins
+76;Clínicas
+77;Oscar Freire
+78;Trianon
+79;Jardim Paulistano
+80;Jardim Europa
+81;Pinheiros
+82;Vila Madalena
+83;PUC
+84;Cardoso de Almeida
+85;Zequinha de Abreu
+86;Sumaré
+87;Perdizes
+88;Vila Anglo Brasileira
+89;Pompéia
+90;Santa Marina
+91;Barra Funda
+92;Francisco Matarazzo
+93;Água Branca
+94;Vila Beatriz
+95;Alto de Pinheiros
+96;Boaçava
+97;Vila Anastácio
+98;Lapa de Baixo
+99;Lapa
+100;Vila Ipojuca
+101;Alto da Lapa
+102;Gavião Peixoto
+103;Bela Aliança
+104;Vila Hamburguesa
+105;CEASA
+106;Vila Leopoldina
+107;Emissário
+108;Vila Zatt
+109;Pirituba
+110;São Domingos
+111;Jardim Mutinga
+112;Vila Jaguara
+113;Jaraguá
+114;Nova Jaraguá
+115;Parada de Taipas
+116;Parque Morro Doce
+117;Anhanguera
+118;Perus
+119;Vista Alegre
+120;Jardim Damasceno
+121;Vila Terezinha
+122;Brasilândia
+123;Vila Morro Grande
+124;Itaberaba
+125;Freguesia do Ó
+126;Carandiru
+127;Santana
+128;Zaki Narchi
+129;Tietê
+130;Parque Anhembi
+131;Alfredo Pujol
+132;Santa Terezinha
+133;Jardim São Paulo
+134;Casa Verde
+135;Parque Peruche
+136;Limão
+137;Casa Verde Alta
+138;Cachoeirinha
+139;Jardim Peri
+140;Reserva da Cantareira
+141;Mandaqui
+142;Horto Florestal
+143;ETA Guaraú
+144;Parque Palmas do Tremembé
+145;Tremembé
+146;Cantareira
+147;Jardim das Pedras
+148;Jardim Guapira
+149;Parada Inglesa
+150;Tucuruvi
+151;Vila Gustavo
+152;Cohab Jova Real
+153;Jaçanã
+154;Parque Edu Chaves
+155;Vila Medeiros
+156;Jardim Brasil
+157;Jardim Japão
+158;Parque Novo Mundo
+159;Vila Maria
+160;Vila Isolina Mazzei
+161;Vila Guilherme
+162;Coroa
+163;Gomes Cardim
+164;Tatuapé
+165;Chácara do Piqueri
+166;Parque São Jorge
+167;Penha
+168;Tiquatira
+169;Vila Esperança
+170;Rui Barbosa
+171;Cangaíba
+172;Engenheiro Goulart
+173;USP Leste I
+174;USP Leste II
+175;Ermelino Matarazzo
+176;Parque Boturussu
+177;Ponte Rasa
+178;Águia de Haia
+179;Limoeiro
+180;Vila Jacuí
+181;Parada XV
+182;Itaquera
+183;Vila Campanela
+184;Rio Verde
+185;Saudade
+186;São Miguel Paulista
+187;Cidade Nitro-Operária
+188;Jardim Helena
+189;Jardim Romano
+190;Vila Curuçá
+191;Jardim Robru
+192;Lajeado
+193;Fábrica Bandeirantes
+194;Fazenda Itaim
+195;Itaim Paulista
+196;Jardim das Oliveiras
+197;Vila Califórnia
+198;Vila Carrão
+199;Jardim Anália Franco
+200;Vila Formosa
+201;Sapopemba
+202;Aricanduva
+203;Vila Matilde
+204;Vila Guilhermina
+205;Cidade A.E.Carvalho
+206;Artur Alvim
+207;Cidade Líder
+208;Santa Marcelina
+209;Parque Savoy
+210;Vila Carmosina
+211;Fazenda Caguaçu
+212;Parque do Carmo
+213;Gleba do Pessêgo
+214;José Bonifácio
+215;Guaianases
+216;Juscelino Kubitschek
+217;Cidade Tiradentes
+218;Terceira Divisão
+219;Iguatemi
+220;Parque São Rafael
+221;Rodolfo Pirani
+222;Ipiranga
+223;Sacomã
+224;Alto do Ipiranga
+225;Vila São José
+226;Vila Monumento
+227;Vila Independência
+228;Vila Carioca
+229;Moinho Velho
+230;São João Clímaco
+231;Anchieta
+232;Parque do Estado
+233;Água Funda
+234;Jardim da Saúde
+235;Vila Gumercindo
+236;Jardim Previdência
+237;Tamanduateí
+238;Orfanato
+239;Vila Zelina
+240;Linhas Corrente
+241;Vila Ema
+242;Parque São Lucas
+243;Parque Santa Madalena
+244;Jardim Colorado
+245;Teotônio Vilela
+246;Fazenda da Juta
+247;São Mateus
+248;Cidade IV Centenário
+249;Rio Claro
+250;Cidade Satélite
+251;Joaquim Nabuco
+252;Vieira de Moraes
+253;Campo Belo
+254;Congonhas
+255;Jardim Aeroporto
+256;Vila Santa Catarina
+257;Jabaquara
+258;Cidade Vargas
+259;Jardim Bom Clima
+260;Cupecê
+261;Jardim Miriam
+262;Vila Missionária
+263;Jurubatuba
+264;Vila São Pedro
+265;Campo Grande
+266;Vila Sabará
+267;Mar Paulista
+268;Pedreira
+269;Vila Socorro
+270;Parque Interlagos
+271;Jardim Represa
+272;Rio Bonito
+273;SESC Interlagos
+274;Jardim Presidente
+275;Grajaú
+276;Cocaia
+277;Bororé
+278;Jaceguava
+279;Parelheiros
+280;Marsilac
+281;Granja Julieta
+282;Chácara Flora
+283;Santo Amaro
+284;Vila Miranda
+285;Jardim São Luís
+286;Centro Empresarial
+287;Guarapiranga
+288;Jardim Capela
+289;Riviera
+290;M' Boi Mirim
+291;Jardim Ângela
+292;Capão Redondo
+293;Adventista
+294;Parque Fernanda
+295;Morumbi
+296;Jóquei Clube
+297;Fazenda Morumbi
+298;Real Parque
+299;Paraisópolis
+300;Jardim Vitória Régia
+301;Vila Suzana
+302;Parque Arariba
+303;Jardim Mitsutani
+304;Pirajussara
+305;Jardim Umarizal
+306;Portal do Morumbi
+307;Jardim Jussara
+308;Vila Sônia
+309;Jardim Maria do Carmo
+310;Jardim Cambará
+311;Jardim João XXIII
+312;Raposo Tavares
+313;Rio Pequeno
+314;Jardim Adalgiza
+315;Parque Continental
+316;Jaguaré
+317;Cidade Universitária
+318;Butantã
+319;Jardim Caxingui
+320;Jardim Bonfiglioli
+321;Melhoramentos
+322;Caieiras
+323;Santa Inês
+324;Cajamar
+325;Jordanésia
+326;Cristais
+327;Franco da Rocha
+328;Juqueri
+329;Sete Voltas
+330;Francisco Morato
+331;Cascatas
+332;Mairiporã
+333;Paiva Castro
+334;Colinas
+335;Pirucaia
+336;Guarulhos
+337;Cumbica
+338;Rodovia Presidente Dutra
+339;Ponte Grande
+340;Vila Galvão
+341;Vila Rosália
+342;Jardim América
+343;Aeroporto
+344;Pimentas
+345;Picanço
+346;Morro dos Macacos
+347;Estrada de Nazaré Paulista
+348;Vasconcelândia
+349;Arujazinho
+350;Arujá
+351;Fazenda Velha
+352;Santa Isabel
+353;Jaguari
+354;Ferraz de Vasconcelos
+355;Paiol Velho
+356;Santos Dumont
+357;Jardim São José
+358;Poá
+359;Itaquaquecetuba
+360;Bonsucesso
+361;Pinheirinho
+362;Miguel Badra
+363;Suzano
+364;Guaió
+365;Ouro Fino
+366;Mogi das Cruzes
+367;Estudantes
+368;Vila Oliveira
+369;Brás Cubas
+370;Jundiapeba
+371;Jardim Graziella
+372;Itapeti
+373;Sabaúna
+374;César de Souza
+375;Reservatório de Jundiaí
+376;Biritiba-Mirim
+377;Salesópolis
+378;Guararema
+379;Boa Vista
+380;Vila Gerti
+381;Santo Antônio
+382;São Caetano do Sul
+383;Santo André
+384;Valparaíso
+385;Campestre
+386;Utinga
+387;Vila Lucinda
+388;Parque das Nações
+389;Jardim do Estádio
+390;Parque do Pedroso
+391;Paranapiacaba
+392;Capuava
+393;Mauá
+394;Alto da Boa Vista
+395;Vista Alegre
+396;Ribeirão Pires
+397;Jardim Santa Luzia
+398;Ouro Fino Paulista
+399;Parque Sete Pontes
+400;Rio Grande da Serra
+401;Planalto
+402;Rudge Ramos
+403;São Bernardo do Campo
+404;Demarchi
+405;Riacho Grande
+406;Caminho do Mar
+407;Reservatório Billings
+408;Diadema
+409;Piraporinha
+410;Eldorado
+411;Taboão
+412;Parque Pinheiros
+413;Santo Eduardo
+414;Embu
+415;Ressaca
+416;Itapecerica da Serra
+417;Jardim Petrópolis
+418;Embu-Mirim
+419;São Lourenço da Serra
+420;Embu-Guaçu
+421;Cipó
+422;Santa Rita
+423;Juquitiba
+424;Barueri
+425;Aphaville
+426;Tamboré
+427;Antônio João
+428;Vutopoca
+429;Jardim Silveira
+430;Jardim Belval
+431;Pedreira
+432;Carapicuíba
+433;Jardim Planalto
+434;Aldeia da Carapicuíba
+435;Vila Silvana
+436;Osasco
+437;Bussocaba
+438;Bussocaba City
+439;Novo Osasco
+440;Jardim das Flores
+441;Jardim Veloso
+442;Quitaúna
+443;Jardim Piratininga
+444;Presidente Altino
+445;Munhoz Junior
+446;Mutinga
+447;Três Montanhas
+448;Ribeirão Itaqui
+449;Jandira
+450;Ribeirão das Pombas
+451;Granja Viana
+452;Cotia
+453;Capueira
+454;Caucaia
+455;Caucaia do Alto
+456;Vargem Grande Paulista
+457;Quatro Encruzilhadas
+458;Itapevi
+459;Santana de Parnaíba
+460;Pirapora do Bom Jesus
