@@ -1,8 +1,8 @@
-Radartona 2019 - InterSCity team 
+Radartona 2019 - InterSCity team (https://interscity.org/)
 ===================================================
-- Éderson Cassio Lacerda Ferreira
-- Eduardo Felipe Zambom Santana
-- Higor Amario de Souza
+- Éderson Cassio Lacerda Ferreira (IME-USP)
+- Eduardo Felipe Zambom Santana (IME-USP)
+- Higor Amario de Souza (IME-USP)
 ---------------------------------------------------
 
 Desafio Radares x Acidentes
