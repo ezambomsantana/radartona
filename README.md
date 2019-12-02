@@ -15,11 +15,9 @@ A imagem a seguir mostra a interface da aplicação.
 
 ![Interface da Aplicação](images/interface.png)
 
-Foram analisados também a quantidade de acidentes que ocorrem dependendo da distância dos radares.
+Foram analisados também a taxa de acidentes que ocorrem dependendo da distância dos radares.
 
-![Interface da Aplicação](images/numero-acidentes.png)
-
-![Interface da Aplicação](images/grafico-porcentagem.png)
+![Interface da Aplicação](images/taxa-acidentes.png)
 
 Também foi feita a correlação entre as contagens dos radares dos tipos de veículos nos distritos da cidade e a quantidade de acidentes.
 
